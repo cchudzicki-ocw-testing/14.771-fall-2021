@@ -7,17 +7,17 @@ uid: 82322159-8ead-421c-a4e2-80d2a75e8b52
 ---
 ## Instructor Interview
 
-Below, Professor Benjamin Olken describes various aspects of how he and Professor Esther Duflo taught *14.771 Development Economics* in Fall 2021.
+Below, Professor Benjamin Olken describes various aspects of how he and Professor Esther Duflo teach *14.771 Development Economics*.
 
 **OCW**: For the uninitiated, what is development economics? Does it entail applying the standard tools of economics to the problems of development, or does it necessitate a radically different approach?
 
 **Benjamin Olken:** Everyone has their own definition of course, but here is mine: Development economics is, broadly speaking, the study of two broad questions. First, why are some countries poor and some countries rich, and what is the right set of tools and policies to assist poor countries in reducing poverty and increasing incomes and well-being? Second, how do the various economic phenomena we seek to understand thoroughout economics function differently in low-income countries, given the lower levels of income, human capital, and physical capital in those settings, as well as increased informality and different institutions? We use exactly the same economic tools—applied economic theory and econometrics—as in any subfield of economics to answer these questions.
 
-**OCW**: How did you divide up the teaching responsibility between the two of you?
+**OCW**: How do you divide up the teaching responsibility between the two of you?
 
 **Benjamin Olken:** Some topics one of us has worked extensively on, so we take those—Esther has done a tremendous amount of work on human capital (health and education), and I have done a lot of work on the public taxation and social protection issues—so those are natural. The rest we divvy up based on interests, and we each have developed some expertise in teaching the topics over the years. And we switch it up from time to time as well to get new perspectives and introduce some variety!
 
-**OCW**: You required each student to post a comment on the readings at least 24 hours before each class session, using the online discussion forum Piazza. Did that requirement stimulate richer in-class discussions?
+**OCW**: You require each student to post a comment on the readings at least 24 hours before each class session, using the online discussion forum Piazza. Does that requirement stimulate richer in-class discussions?
 
 **Benjamin Olken:** Yes, it's terrific. It forces the students to read papers critically and come to class ready to discuss them. We read all the comments beforehand so we have a sense of some common themes, which helps us to draw out a good discussion.
 
