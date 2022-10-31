@@ -7,23 +7,27 @@ leftnav:
   name: Calendar
   url: /pages/calendar
   weight: 20
+- identifier: 82322159-8ead-421c-a4e2-80d2a75e8b52
+  name: Instructor Insights
+  url: /pages/instructor-insights
+  weight: 30
 - identifier: 5338344d-3b5c-48c6-8e10-5eb1151f8771
   name: Video Lectures
   url: /pages/video-lectures
-  weight: 30
+  weight: 40
 - identifier: 5dfbe6d1-5e31-407e-9958-925aac0c4e28
   name: Readings
   url: /pages/readings
-  weight: 40
+  weight: 50
 - identifier: 210b93cc-83fd-4a0e-be7d-fdd67b8ab69d
   name: Lecture Slides
   url: /pages/lecture-slides
-  weight: 50
+  weight: 60
 - identifier: b9604dd4-9a1d-41f8-be09-a70683d6185b
   name: Assignments
   url: /pages/assignments
-  weight: 60
+  weight: 70
 - identifier: acf8ad89-6798-41fd-bd79-46ff8cb73e22
   name: Exams
   url: /pages/exams
-  weight: 70
+  weight: 80
