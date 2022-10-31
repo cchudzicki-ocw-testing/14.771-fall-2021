@@ -34,6 +34,8 @@
     "content": "",
     "website": "development-economics"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
   "site_uid": "08340ea4-4187-497e-8cf9-df9f48cf8fb5"
 }
