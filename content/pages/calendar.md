@@ -7,7 +7,7 @@ uid: 0c86ad82-2fd1-4b52-b14e-472cff5fd0c2
 ---
 This course was team-taught by Prof. Esther Duflo and Prof. Benjamin Olken
 
-### **Session 1: Introduction**
+#### **Session 1: Introduction**
 
 Taught by: Prof. Esther Duflo
 
