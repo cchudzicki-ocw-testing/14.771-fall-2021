@@ -35,7 +35,9 @@
     "website": "development-economics"
   },
   "learning_resource_types": [
-    "Instructor Insights"
+    "Instructor Insights",
+    "Lecture Notes",
+    "Videos"
   ],
   "site_uid": "08340ea4-4187-497e-8cf9-df9f48cf8fb5"
 }
