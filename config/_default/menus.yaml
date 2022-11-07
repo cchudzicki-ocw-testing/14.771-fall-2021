@@ -15,13 +15,13 @@ leftnav:
   name: Video Lectures
   url: /pages/video-lectures
   weight: 40
-- identifier: 5dfbe6d1-5e31-407e-9958-925aac0c4e28
-  name: Readings
-  url: /pages/readings
-  weight: 50
 - identifier: 210b93cc-83fd-4a0e-be7d-fdd67b8ab69d
   name: Lecture Slides
   url: /pages/lecture-slides
+  weight: 50
+- identifier: 5dfbe6d1-5e31-407e-9958-925aac0c4e28
+  name: Readings
+  url: /pages/readings
   weight: 60
 - identifier: b9604dd4-9a1d-41f8-be09-a70683d6185b
   name: Assignments
