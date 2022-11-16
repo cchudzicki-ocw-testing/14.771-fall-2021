@@ -47,8 +47,7 @@ Taught by: Prof. Esther Duflo
 
 Covers various empirical papers on the demand for educations and what factors households respond to. Discusses responses to direct costs, indirect costs, and information. Also introduces differences in differences.
 
-####   
-Session 8: Private and Social Returns to Education
+#### Session 8: Private and Social Returns to Education
 
 Taught by: Prof. Esther Duflo
 
