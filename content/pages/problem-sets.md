@@ -20,14 +20,22 @@ Problem Set Solutions
 
 {{% resource_link "83ad6eee-556a-4476-8658-148b661dfb3c" "Problem Set 1 Solutions (PDF)" %}}
 
-Problem Set 1 Code Solutions (DO)
+{{% resource_link "635990d8-f263-423d-b316-b09ed3890f00" "Problem Set 1 Code Solutions (DO)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
+{{% resource_link "2d43d48c-8d4e-44ec-9df7-cd216365e97c" "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
+
+{{% resource_link "b08155a1-9d56-41dc-8e70-bc6df027952d" "Problem Set 2 Data Set (CSV)" %}}
+
  
+
 {{< tdclose >}}{{< tdopen >}}
- 
+
+{{% resource_link "2fbf8010-3fe2-4c83-b542-02c018c9006e" "Problem Set 2 Solutions (PDF)" %}}
+
+{{% resource_link "34e73315-355e-4f6f-a300-5308fc746130" "Problem Set 2 Code Solutions (DO)" %}}
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
