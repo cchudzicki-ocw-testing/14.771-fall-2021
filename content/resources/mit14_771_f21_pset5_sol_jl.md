@@ -2,24 +2,24 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/14-771-development-economics-fall-2021/14771-f21-lecture-24-v2_360p_16_9.mp4
-file_type: video/mp4
+file: /courses/14-771-development-economics-fall-2021/mit14_771_f21_pset5_sol_jl.jl
+file_type: application/octet-stream
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Video
-title: 14.771 F21 Lecture 24 V2.mp4
-uid: c3d370ff-4de2-4b8c-ae70-b51429b3b156
+resourcetype: Other
+title: MIT14_771_F21_pset5_sol_jl.jl
+uid: 1687fa76-4720-4dba-9a72-4af93b90e500
 video_files:
   video_captions_file: ''
-  video_thumbnail_file: https://img.youtube.com/vi/73wmLvud_O8/default.jpg
+  video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: 73wmLvud_O8
+  youtube_id: ''
 ---
