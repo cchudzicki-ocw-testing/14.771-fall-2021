@@ -49,7 +49,7 @@ Problem Set 3 Data Sets: {{% resource_link "c32edca3-a81f-4a13-b990-e8bcaf0dd7f8
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "902bccde-8b77-4e0d-9f9f-0e89f377dfc9" "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "4cf56fe5-051b-40c4-b0ba-b03f5c68d55d" "Problem Set 4 Data Set (XLXS)" %}}
+{{% resource_link "4cf56fe5-051b-40c4-b0ba-b03f5c68d55d" "Problem Set 4 Data Set (XLXS - 1.4 MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link "aa3fc382-d8a8-4f7e-96d5-eaf22f224e06" "Problem Set 4 Solutions (PDF)" %}}
