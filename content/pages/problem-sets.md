@@ -37,11 +37,15 @@ Problem Set Solutions
 {{% resource_link "34e73315-355e-4f6f-a300-5308fc746130" "Problem Set 2 Code Solutions (DO)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
+{{% resource_link "87fb2474-f5ee-4402-9af3-81760c2d219a" "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 3 Data Sets: {{% resource_link "c32edca3-a81f-4a13-b990-e8bcaf0dd7f8" "1" %}}, {{% resource_link "05bffe3c-2ade-47da-ae6c-b09d2d60bf53" "2" %}}, {{% resource_link "1f233135-4b10-4fa7-b1c5-c5b12b7934a9" "3" %}} (CSV)
 {{< tdclose >}}{{< tdopen >}}
- 
+
+{{% resource_link "1fb01098-1e07-44a9-9c64-fcfa0f9b4394" "Problem Set 3 Solutions (PDF)" %}}
+
+{{% resource_link "0e647625-81cc-4674-a72f-8bc7ebbaf467" "Problem Set 3 Code Solutions (DO)" %}}
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
