@@ -31,3 +31,8 @@ leftnav:
   name: Exams
   url: /pages/exams
   weight: 80
+- identifier: 6c75a918-cb45-4f97-9b7c-e72163e337da
+  name: Problem Sets
+  parent: b9604dd4-9a1d-41f8-be09-a70683d6185b
+  url: /pages/problem-sets
+  weight: 10
