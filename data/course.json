@@ -37,7 +37,9 @@
   "learning_resource_types": [
     "Instructor Insights",
     "Lecture Notes",
-    "Videos"
+    "Videos",
+    "Problem Sets with Solutions"
   ],
-  "site_uid": "08340ea4-4187-497e-8cf9-df9f48cf8fb5"
+  "site_uid": "08340ea4-4187-497e-8cf9-df9f48cf8fb5",
+  "site_short_id": "14.771-fall-2021"
 }
