@@ -47,39 +47,25 @@ Problem Set 3 Data Sets: {{% resource_link "c32edca3-a81f-4a13-b990-e8bcaf0dd7f8
 {{% resource_link "0e647625-81cc-4674-a72f-8bc7ebbaf467" "Problem Set 3 Code Solutions (DO)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
+{{% resource_link "902bccde-8b77-4e0d-9f9f-0e89f377dfc9" "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
- 
+{{% resource_link "4cf56fe5-051b-40c4-b0ba-b03f5c68d55d" "Problem Set 4 Data Set (XLXS)" %}}
 {{< tdclose >}}{{< tdopen >}}
- 
+
+{{% resource_link "aa3fc382-d8a8-4f7e-96d5-eaf22f224e06" "Problem Set 4 Solutions (PDF)" %}}
+
+{{% resource_link "c9865901-5f26-4401-82d9-f925c5914e1f" "Problem Set 4 Code Solutions (DO)" %}}
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
+{{% resource_link "5a0dd518-8e5a-463f-9dad-2695496c57f1" "Problem Set 5 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
- 
+{{% resource_link "a5f7a652-8e6f-4aef-a0ff-11ec71768c86" "Problem Set 5 Data Set (CSV)" %}}
 {{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
-{{< tdclose >}}{{< tdopen >}}
- 
+
+{{% resource_link "ae031579-1113-43a2-a2b6-c6bba99cf90b" "Problem Set 5 Solutions (PDF)" %}}
+
+{{% resource_link "086b0010-ef30-4999-aae6-4264f2bcb8bb" "Problem Set 5 Code Solutions (DO)" %}}
+
+{{% resource_link "1687fa76-4720-4dba-9a72-4af93b90e500" "Problem Set 5 Code Solutions (JL)" %}}
+
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
