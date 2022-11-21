@@ -14,9 +14,9 @@ resourcetype: Video
 title: 14.771 F21 Lecture 3 Version 2.mp4
 uid: 1c4bbfd0-ab66-4999-9637-ff89b02cc97c
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/14-771-development-economics-fall-2021/1doBJ28GZ6jvVy7QbNmxG6bSOv9bFzFTr_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/mtE19r9w6Fc/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/14-771-development-economics-fall-2021/1doBJ28GZ6jvVy7QbNmxG6bSOv9bFzFTr_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
