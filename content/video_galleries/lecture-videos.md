@@ -1,7 +1,7 @@
 ---
 content_type: video_gallery
 draft: false
-title: Lecture Videos
+title: Video Lectures
 uid: 43f96fda-74f3-45ab-be1a-c5cd5f8cae9c
 videos:
   content: []
