@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 14.771 F21 Lecture 1 Version 2.mp4
+title: 'Lecture 1: Introduction to 14.771 Development Economics'
 uid: 423b1aec-67aa-4766-8f03-7e78eddd3208
 video_files:
   video_captions_file: /courses/14-771-development-economics-fall-2021/1iIGQLWVs72G53RVDuSHRgoui6VDt_abZ_transcript.webvtt
@@ -19,7 +20,20 @@ video_files:
   video_transcript_file: /courses/14-771-development-economics-fall-2021/1iIGQLWVs72G53RVDuSHRgoui6VDt_abZ_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
-  youtube_description: ''
+  video_tags: "development economics, income\t\t\t\t\n"
+  youtube_description: "MIT 14.771 Development Economics, Fall 2021\nInstructor: Esther\
+    \ Duflo\n\nView the complete course: https://ocw.mit.edu/courses/14-771-development-economics-fall-2021\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61kvh3caDts2R6LmkYbmzaG\n\
+    \nThis video introduces the course. The class discusses the enormous differences\
+    \ in income and other important outcomes around the world. Prof. Duflo previews\
+    \ the main topics of the course.\t\t\t\t\n\n\nLicense: Creative Commons BY-NC-SA\n\
+    More information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
+    Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
+    \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
+    \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\
+    \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: fIFB6SBw2lU
 ---
+**Description:** Part 1 of 2 of Poverty Traps. The first half discusses the Dasgupta and Ray (1986) model of nutrition-based poverty traps. The second half discusses how to use evidence to test for a poverty trap, focusing on evidence for a nutrition-based poverty trap.
+
+**Instructor:** Esther Duflo
