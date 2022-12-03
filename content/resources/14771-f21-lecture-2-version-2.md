@@ -20,7 +20,7 @@ video_files:
   video_transcript_file: /courses/14-771-development-economics-fall-2021/1OnFW2NCcrwzh0etwax3_Gbme7PlFNQY6_transcript.pdf
 video_metadata:
   video_speakers: Esther Duflo
-  video_tags: development economics, poverty trap, nutrion, evidence
+  video_tags: development economics, poverty trap, nutrition, evidence
   youtube_description: "MIT 14.771 Development Economics, Fall 2021\nInstructor: Esther\
     \ Duflo\n \nView the complete course: https://ocw.mit.edu/courses/14-771-development-economics-fall-2021\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61kvh3caDts2R6LmkYbmzaG\n\
