@@ -12,14 +12,14 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 1: Introduction to 14.771 Development Economics'
+title: 'Lecture 1: Introduction'
 uid: 423b1aec-67aa-4766-8f03-7e78eddd3208
 video_files:
   video_captions_file: /courses/14-771-development-economics-fall-2021/1iIGQLWVs72G53RVDuSHRgoui6VDt_abZ_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/fIFB6SBw2lU/default.jpg
   video_transcript_file: /courses/14-771-development-economics-fall-2021/1iIGQLWVs72G53RVDuSHRgoui6VDt_abZ_transcript.pdf
 video_metadata:
-  video_speakers: ''
+  video_speakers: Esther Duflo
   video_tags: "development economics, income\t\t\t\t\n"
   youtube_description: "MIT 14.771 Development Economics, Fall 2021\nInstructor: Esther\
     \ Duflo\n\nView the complete course: https://ocw.mit.edu/courses/14-771-development-economics-fall-2021\n\
