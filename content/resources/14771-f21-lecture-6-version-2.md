@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 14.771 F21 Lecture 6 Version 2.mp4
+title: 'Lecture 6: Investing in Human Capital: Theory'
 uid: acd8299c-9748-452c-a05a-e3e14d15c0ac
 video_files:
   video_captions_file: /courses/14-771-development-economics-fall-2021/1e5GippQZ7Hg6QJHv1gJEGy_YCAP5nomU_transcript.webvtt
