@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 14.771 F21 Lecture 3 Version 2.mp4
+title: 'Lecture 3: Poverty Traps: Graduation Programs'
 uid: 1c4bbfd0-ab66-4999-9637-ff89b02cc97c
 video_files:
   video_captions_file: /courses/14-771-development-economics-fall-2021/1doBJ28GZ6jvVy7QbNmxG6bSOv9bFzFTr_transcript.webvtt
@@ -23,3 +24,6 @@ video_metadata:
   youtube_description: ''
   youtube_id: mtE19r9w6Fc
 ---
+Description: Part 2 of 2 of Poverty Traps. Discusses the recent literature on "graduation" programs that provide large capital infusions and assistance aimed at breaking poverty traps. Also introduces the Rubin Causal Model.
+
+Instructor: Esther Duflo
