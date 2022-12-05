@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Track 14: Supply of Health Care (Part 2)/ Gender (Part 1)'
+title: 'Lecture 14: Supply of Health Care (Part 2)/ Gender (Part 1)'
 uid: 264bbd1e-938b-4d3f-b9a5-24439a9be793
 video_files:
   video_captions_file: /courses/14-771-development-economics-fall-2021/1JJ4AeH4t1L5y-Kf0wCgb-Ij-cChSbm3p_transcript.webvtt
