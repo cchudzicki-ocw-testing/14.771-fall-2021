@@ -31,7 +31,7 @@ Taught by: Guest lecturer Prof. Frank Schilbach
 
 Introduces and provides history of behavioral development, discusses the Euler Puzzle, provides an application to health, and a discussion of demand for commitment.
 
-**Session 5: Behavioral Development: Psychology of Poverty**
+{{% resource_link "36c97074-8ee0-4551-a5d5-eab68b7b259d" "**Session 5: Behavioral Development: Psychology of Poverty (PDF)**" %}}
 
 Taught by: Guest lecturer Prof. Frank Schilbach
 
