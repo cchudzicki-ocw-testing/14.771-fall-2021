@@ -15,7 +15,7 @@ Taught by: Prof. Esther Duflo
 
 Introduces the course. Discusses the enormous differences in income and other important outcomes around the world. Previews the main topics of the course.
 
-**Session 2: Poverty Traps: Theory**
+{{% resource_link "955fc0d0-ef5f-4943-8532-d3c2164412d6" "**Session 2: Poverty Traps: Theory (PDF - 1.0MB)**" %}}
 
 Taught by: Prof. Esther Duflo
 
