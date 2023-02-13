@@ -21,11 +21,11 @@ Taught by: Prof. Esther Duflo
 
 The first half discusses the Dasgupta and Ray (1986) model of nutrition-based poverty traps. The second half discusses how to use evidence to test for a poverty trap, focusing on evidence for a nutrition-based poverty trap.
 
-**Session 3: Poverty Traps: Graduation Programs**
+{{% resource_link "a9da71ad-1b71-4439-8b93-587a9473ef4a" "**Session 3: Poverty Traps: Graduation Programs (PDF)**" %}}
 
 Discusses the recent literature on “graduation” programs that provide large capital infusions and assistance aimed at breaking poverty traps. Also introduces the Rubin Causal Model.
 
-**Session 4: Behavioral Development: Introduction**
+{{% resource_link "f591216e-46c3-491b-92c8-aaa9c5722a33" "**Session 4: Behavioral Development: Introduction (PDF)**" %}}
 
 Taught by: Guest lecturer Prof. Frank Schilbach
 
