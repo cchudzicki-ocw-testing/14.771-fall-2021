@@ -85,7 +85,7 @@ Taught by. Prof. Ben Olken
 
 Introduces models of the family. Focuses on the unitary and collective models and discusses their predictions and empirical evidence for/against them. 
 
-**Session 14: Supply of Healthcare (PDF - 1.7MB)**
+{{% resource_link "90ddf1b3-1fe5-41a2-9db7-947c2fa5fed4" "**Session 14: Supply of Healthcare (PDF - 1.7MB)**" %}}
 
 Taught by: Prof. Esther Duflo
 
