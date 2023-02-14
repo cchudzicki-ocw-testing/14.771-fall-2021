@@ -132,15 +132,3 @@ Continues discussion of labor, with this lecture focusing on empirical papers co
 Taught by: Prof. Ben Olken
 
 Concludes discussion of labor. Continues with further empirical evidence on rural labor supply, then moves onto discussion and evidence about urban labor markets.
-
-**Session 24: Credit (Part 1)**
-
-Taught by: Prof. Ben Olken
-
-Presents stylized facts about credit markets in developing countries, introduces simple models of moral hazard and adverse selection to illustrate how frictions might occur, and discusses Karlan and Zinman (2009).
-
-**Session 25: Credit (Part 2) (PDF - 1.3MB)** 
-
-Taught by: Prof. Ben Olken
-
-Discusses microcredit. Covers the history of microcredit, evidence on its impacts (both overall and in terms of heterogeneous impacts), and evidence testing the role of specific institutional features of microcredit.
