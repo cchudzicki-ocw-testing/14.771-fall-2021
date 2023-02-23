@@ -2,7 +2,7 @@
 content_type: page
 description: This page provides the class videos in the MIT course 14.771 Development
   Economics of Fall 2021.
-draft: false
+draft: true
 title: Video Lectures
 uid: 5338344d-3b5c-48c6-8e10-5eb1151f8771
 ---
