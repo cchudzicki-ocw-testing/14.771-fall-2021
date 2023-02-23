@@ -75,8 +75,6 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Bai Liang, Ben Handel, Edward Miguel, and Gautam Rao (2021). “Self-Control and Demand for Preventative Health: Evidence from Hypertension in India.” Review of Economics and Statistics. 
 - Brune, Lasse, Eric Chyn, and Jason Kerwin (2021). “Pay me Later: Savings Contsraints and the Demand for Deferred Payments” American Economic Review 111(7). 2179-2212. 
 
- 
-
 **Scarcity and Limited Attention**
 
 - Banerjee, Abhijit V., and Sendhil Mullainathan (2008). "Limited Attention and Income Distribution." *American Economic Review*, 98(2): 489-93. 
@@ -93,12 +91,106 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Bessone, P., Rao, G., Schilbach, F., Schofield, H., & Toma, M. (2021). The economic consequences of increasing sleep among the urban poor. *The Quarterly Journal of Economics*, 136(3), 1887-1941. 
 - Jagnani, Maulik (2021). “Children’s Sleep and Human Capital Production."
 - Rao, Gautam, Susan Redline, Frank Schilbach, Heather Schofield, and Mattie Toma (2021). “Informing Policy Through Field Experiments on Sleep Around the World.” 
-- Fehr, Ernst and Haushofer, Johannes (2014). “On the Psychology of Poverty.” Science 344, 862–867. 
-- Ridley, Matthew, Gautam Rao, Frank Schilbach, and Vikram Patel (2020). “Poverty, Depression, and Anxiety: Causal Evidence and Mechanisms.” Science 370(6522). 
+- Fehr, Ernst and Haushofer, Johannes (2014). “On the Psychology of Poverty.” *Science* 344, 862–867. 
+- Ridley, Matthew, Gautam Rao, Frank Schilbach, and Vikram Patel (2020). “Poverty, Depression, and Anxiety: Causal Evidence and Mechanisms.” *Science* 370(6522). 
 - Patel, Vikram, Neerja Chowdhary, Atif Rahman, and Helen Verdeli (2011). “Improving Access to Psychological Treatments: Lessons from Developing Countries.” *Behavior Research and Therapy*, 49, pp. 523-528. 
-- Singla, Daisy, Brandon Kohrt, Laura Murrary, Arpita Anand, Bruce Chorpita, and Vikram Patel (2017). “Psychological Treatments for the World: Lessons from Low- and Middle-Income Countries.” Annual Review of Clinical Psychology 13: 149-181.
+- Singla, Daisy, Brandon Kohrt, Laura Murrary, Arpita Anand, Bruce Chorpita, and Vikram Patel (2017). “Psychological Treatments for the World: Lessons from Low- and Middle-Income Countries.” *Annual Review of Clinical Psychology* 13: 149-181.
 - Blattman, C, JC Jamison, M Sheridan (2017): “Reducing crime and violence: Experimental evidence from cognitive behavioral therapy in Liberia.” *American Economic Review*, 107(4): 1165-1206. 
 - Baranov, Victoria, Sonia Bhalotra, Pietro Biroli, and Joanna Maselko (2020): “Maternal Depression, Women’s Empowerment, and Parental Investment: Evidence from a Randomized Control Trial”. *American Economic Review*. 110(3): 824-59. 
 - Angelucci, Manuela and Daniel Bennett (2021): “The Economic Impact of Depression Treatment in India.” 
 - Lund, Crick, et al. (2018). “Economic Impacts of Mental Health Interventions in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis” 
 - McKelway, Maddie (2021). “Women’s Employment in India: Intra-Household and Intra-Personal Constraints”.
+
+#### Sessions 6–9: Education
+
+**General Readings on Education (Review Articles)**
+
+- Muralidharan, Karthik (2017). “Field Experiments in Education in Developing Countries.” Draft prepared for the *Handbook of Field Experiments.* 
+
+**III. 1 The Neo-Classical Model: Returns, Costs, and Budget Constraints** 
+
+- \*\*\* Banerjee, Abhijit (2004). 
+    
+    “Educational Policy and the Economics of the Family.” *Journal of Development Economics*, 74 3-32. 
+- Becker, Gary (1981). *A Treatise on the Family.* Harvard University Press. 
+- Barro, Robert (1974). “Are Government Bonds Net Wealth?” *Journal of Political Economy* 82 (6) 1095-117.
+- Loury, Glenn (1981). “Intergenerational Transfers and the Distribution of Earnings.” *Econometrica*, 49 (4) 843-867.
+- Strauss, John and Duncan Thomas (1995). "Human Resources: Empirical Modeling of Household and Family Decisions." In Behrman, Jere and T.N. Srinivasan, eds., *Handbook of Development Economics, Volume 3*. pp. 1885-2023. 
+
+**III.2 Evidence – What do household respond to?** 
+
+***READ IN DETAIL*** 
+
+- Duflo, Esther (2001), "Schooling and Labor Market Consequences of School Construction in Indonesia: Evidence from an Unusual Policy Experiment." *American Economic Review*, Vol. 91 (4), pp 795-813. 
+
+**Perceived Returns and Benefits**
+
+- \*\*\* Jensen, Robert (2010). “The Perceived Return to Education and the Demand for Schooling.” *Quarterly Journal of Economics* 125 (2), p 515-548. 
+- \*\*\* Jensen, Robert (2012). "Do Labor Market Opportunities Affect Young Women's Work and Family Decisions? Experimental Evidence from India." *Quarterly Journal of Economics*, 127(2), p. 753-792.
+- Nguyen, Trang (2008). “Information, Role Models and Perceived Returns to Education: Experimental Evidence from Madagascar.” MIT. 
+- \*\*\* Jayachandran, Seema and Adriana Lleras-Muney (2009). “Life Expectancy and Human Capital Investments: Evidence from Maternal Mortality Declines.” *Quarterly Journal of Economics*, Vol 124 (1) pp. 349-397.
+- \*\*\* Qian, Nancy (2008). “Missing Women and the Price of Tea in China.” *Quarterly Journal of Economics*, 123(3), 1251-1285. 
+
+**Costs and opportunity costs: School building and Conditional Cash transfers**
+
+- Benhassine, Najy, Florencia Devoto, Esther Duflo, Pascaline Dupas, and Victor Pouliquen (2015). "Turning a shove into a nudge? A "labeled cash transfer" for education." *American Economic Journal: Economic Policy* 7, no. 3: 86-125. 
+    
+- Baird, Sarah, Craig McIntosh, and Berk Özler (2011). "Cash or Condition? Evidence from a Cash Transfer Experiment." Oxford University Press, vol. 126(4), pages 1709-1753.
+
+**Intra-family information gap and behavioral issues**
+
+- Bursztyn, Leonardo and Lucas C. Coffman (2012). “The Schooling Decision: Family Preferences, Intergenerational Conflict, and Moral Hazard in the Brazilian Favelas.” *Journal of Political Economy*, Vol. 120, No. 3, pp. 359-397. 
+- \*\*\* Dizon-Ross, Rebecca (2019). "Parents' beliefs about their children's academic ability: Implications for educational investments." *American Economic Review* 109, no. 8: 2728-65. 
+
+**III.2 Evidence (Part 2) –Private and Social returns to education 10/4**
+
+***READ IN DETAIL for 10/4:***
+
+\*\*\* Duflo, Esther, Pascaline Dupas, and Michael Kremer (2021). The impact of free secondary education: Experimental evidence from Ghana. No. w28937. National Bureau of Economic Research.
+
+*Other papers*
+
+- Chou, Shin-Yi, Jin-Tan Liu, Michael Grossman, and Ted Joyce (2010). "Parental Education and Child Health: Evidence from a Natural Experiment in Taiwan." American Economic Journal: Applied Economics, 2(1): 33-61.
+- Duflo, Esther, Pascaline Dupas, and Michael Kremer (2015). "Education, HIV, and early fertility: Experimental evidence from Kenya." *American Economic Review* 105, no. 9: 2757-97. 
+- \*\*\* Duflo, Esther (2004). “The Medium Run Effects of Educational Expansion: Evidence from a Large School Construction Program in Indonesia.” *Journal of Development Economics*, 74(1), 163-197. 
+
+**Part IV. Education: The Supply Side  \[Duflo\]**
+
+**III.A: General**
+
+- \*\*\*Banerjee, Abhijit, Rukmini Banerji, James Berry, Esther Duflo, Harini Kannan, Shobhini Mukerji, Marc Shotland, and Michael Walton (2017). "From proof of concept to scalable policies: Challenges and solutions, with an application." *Journal of Economic Perspectives* 31, no. 4: 73-102. 
+- Duflo Esther, Pascaline Dupas, and Michael Kremer (2011). **“Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.”** *American Economic Review*, Vol.101(5), pp. 1739-74.
+- \*\*\* Glewwe, Paul and Michael Kremer (2006). "Schools, Teachers, and Education Outcomes in Developing Countries." in *Handbook of the Economics of Education*, Elsevier. 
+- Duflo, Esther and Michael Kremer (2003). "Use of Randomization in the Evaluation of Development Effectiveness." MIT-Harvard. Proceedings of the Conference on Evaluating Development Effectiveness, July 15-16, 2003, World Bank Operations Evaluation Department (OED) Washington, D.C. 
+
+**III.B: Class Size**
+
+- \*\*\* Angrist, Joshua and Victor Lavy (1999). "Using Maimonides' Rule to Estimate the Effect of Class Size on Scholastic Achievement," *Quarterly Journal of Economics*, Vol 114 (2), pp. 533-575. 
+- \*\*\* Urquiola, Miguel and Eric Verhoogen, (2009). “Class Size Caps, Sorting, and the Regression Discontinuity Design.” *American Economic Review*. Vol. (99)1: 179–215. 
+
+**III.C: Incentives**
+
+- Muralidharan, Karthik and Venkatesh Sundararaman (2011). "Teacher Performance Pay: Experimental Evidence from India." *Journal of Political Economy*, Vol. 119, No. 1, pp. 39-77.
+- Glewwe, Paul, Nauman Ilias, and Michael Kremer (2010). "Teacher incentives." *American Economic Journal: Applied Economics* 2, no. 3: 205-27. [Final](http://pubs.aeaweb.org.libproxy.mit.edu/doi/pdfplus/10.1257/app.2.3.205)
+- Kremer, Michael, Edward Miguel, and Rebecca Thornton. "Incentives to learn." *The Review of Economics and Statistics* 91, no. 3 (2009): 437-456. 
+- Duflo, E., Hanna, R., & Ryan, S. P. (2012). “Incentives Work: Getting Teachers to Come to School.”  *The American Economic Review*, 102(4), 1241-1278. 
+
+**III.D: Teacher Absence**
+
+- Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132. 
+
+**III.E: Curriculum, Pedagogy, Tracking, Inputs, etc.**
+
+- \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
+- Glewwe, Paul, Michael Kremer and Sylvie Moulin (2009). "Many Children Left Behind? Textbooks and Test Scores in Kenya." *American Economic Journal: Applied Economics*, Vol.1(1)112-135. [Final](http://pubs.aeaweb.org.libproxy.mit.edu/doi/pdfplus/10.1257/app.1.1.112)
+- Muralidharan, Karthik and Venkatesh Sundararaman (2013). “Contract Teachers: Experimental Evidence from India.” 
+- Banerjee, Abhijit, Shawn Cole, Esther Duflo and Leigh Linden (2007). "Remedying Education: Evidence from Two Randomized Experiments in India." *Quarterly Journal of Economics*, Vol. 122 (3) 1235-1264. 
+- Dillon, Moira R., Harini Kannan, Joshua T. Dean, Elizabeth S. Spelke, and Esther Duflo (2017). "Cognitive science in the field: A preschool intervention durably enhances intuitive but not formal mathematics." *Science* 357, no. 6346: 47-55.
+
+**III.F: School Choice**
+
+- Angrist, Joshua, Eric Bettinger, and Michael Kremer, (2006). “Long-Term Educational Consequences of Secondary School Vouchers: Evidence from Administrative Records in Colombia.” *American Economic Review.* Volume 96(3) 847-862. 
+- Angrist, Joshua, Eric Bettinger, Erik Bloom, Michael Kremer and Elizabeth King (2002). “Vouchers for Private Schooling in Colombia: Evidence from Randomized Natural Experiments.” *The American Economic Review*, December, Volume 92(5) 1535-1558. 
+- Urquiola, Miguel and Chang-Tai Hsieh, (2006). “The Effects of Generalized School Choice on Achievement and Stratification: Evidence from Chile's School Voucher Program.” *Journal of Public Economics*, 90 (8-9) 1477-1503. 
+- Foster, Andrew and Mark Rosenzweig (1996). “Technical Change and Human-Capital Returns and Investments: Evidence from the Green Revolution.” *American Economic Review*, 86(4) 931-953.
