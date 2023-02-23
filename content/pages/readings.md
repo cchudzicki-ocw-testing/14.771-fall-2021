@@ -23,8 +23,8 @@ uid: 5dfbe6d1-5e31-407e-9958-925aac0c4e28
 
 ***READ IN DETAIL***
 
-- \*\*\* Dasgupta, Partha and Debraj Ray (1986). "Inequality as a Determinant of Malnutrition and Unemployment: Theory." *The Economic Journal*, Vol. 96 (384), pp. 1011-1034. 
--  \*\*\* Srinivasan, T. N. (1994). "Destitution: A Discourse." *Journal of Economic Literature*, Vol. 32 (4), pp. 1842-55. 
+- \*\*\* Dasgupta, Partha and Debraj Ray (1986). "[Inequality as a Determinant of Malnutrition and Unemployment: Theory](https://www.semanticscholar.org/paper/Inequality-as-a-Determinant-of-Malnutrition-and-%3A-Dasgupta-Ray/d5eb593a302dee4e4ecb4e87b4fcc2c1973f35e0)." *The Economic Journal*, Vol. 96 (384), pp. 1011-1034. 
+-  \*\*\* Srinivasan, T. N. (1994). "[Destitution: A Discourse." (PDF - 2.4MB)](https://www.jstor.org/stable/pdf/2728797.pdf). *Journal of Economic Literature*, Vol. 32 (4), pp. 1842-55. 
 
 *Theory*
 
@@ -32,11 +32,11 @@ uid: 5dfbe6d1-5e31-407e-9958-925aac0c4e28
 
 *Evidence (or Lack Thereof)*
 
-- \*\*\* Subramanian, Shankar and Angus Deaton (1996), "The Demand for Food and Calories." *Journal of Political Economy*, Vol. 104 (1), pp 133-62. 
+- \*\*\* Subramanian, Shankar and Angus Deaton (1996), "[The Demand for Food and Calories" (PDF - 3MB)](https://www.princeton.edu/~deaton/downloads/The_Demand_for_Food_and_Calories.pdf). *Journal of Political Economy*, Vol. 104 (1), pp 133-62. 
 - Deaton, Angus and Jean Dreze (2009). “Nutrition in India: Facts and Interpretation.” *Economic and Political Weekly*, 14 February 2009. 
 - Strauss, John (1986), “Does Better Nutrition Raise Farm Productivity?”, *Journal of Political Economy,* Vol. 94, 297-320. 
-- \*\*\* Banerjee, Abhijit and Esther Duflo (2004). “Growth Theory through the Lens of Development Economics.” Section 2.1.2. 
-- \*\*\* Haushofer, Johannes and Jeremy Shapiro (2016). “The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya.” *The Quarterly Journal of Economics*, Volume 131, Issue 4, Pages 1973–2042
+- \*\*\* Banerjee, Abhijit and Esther Duflo (2004). “[Growth Theory through the Lens of Development Economics” (PDF)](https://economics.mit.edu/sites/default/files/2022-08/Growth%20Theory%20Through%20the%20Lens%20of%20Development%20Econ.pdf). Section 2.1.2. 
+- \*\*\* Haushofer, Johannes and Jeremy Shapiro (2016). “[The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7575201/).” *The Quarterly Journal of Economics*, Volume 131, Issue 4, Pages 1973–2042
 - Jensen, Robert and Nolan Miller (2011). “Do Consumer Price Subsidies Really Improve Nutrition?” *Review of Economics and Statistics*, Vol. 93(4), pp. 1205-1223. 
 - Jensen, Robert and Nolan Miller (2008). “Giffen Behavior and Subsistence Consumption.” *American Economic Review*, 98(4), p. 1553 − 1577. 
 - Strauss, John and Duncan Thomas (1998). “Health, Nutrition and Economic Development.” *Journal of Economic Literature*, Vol. 36 (2), 766-817. 
@@ -52,13 +52,11 @@ uid: 5dfbe6d1-5e31-407e-9958-925aac0c4e28
 
 #### Sessions 3–4: Behavioral Economics
 
-\*\*\*Bessone, P., Rao, G., Schilbach, F., Schofield, H., & Toma, M. (2021). The economic consequences of increasing sleep among the urban poor. *The Quarterly Journal of Economics*, 136(3), 1887-1941. 
-
- 
+1. \*\*\*Bessone, P., Rao, G., Schilbach, F., Schofield, H., & Toma, M. (2021). "[The economic consequences of increasing sleep among the urban poor](https://academic.oup.com/qje/article-abstract/136/3/1887/6217436?redirectedFrom=fulltext)." *The Quarterly Journal of Economics*, 136(3), 1887-1941. 
 
 **A: General Introduction / reference**
 
-\*\*\* Kremer, Michael, Gautam Rao, and Frank Schilbach (2019). [Behavioral Development Economics](https://economics.mit.edu/files/16499). In Handbook of Behavioral Economics, Vol. 2. 2019.
+\*\*\* Kremer, Michael, Gautam Rao, and Frank Schilbach (2019). "[Behavioral Development Economics](https://www.sciencedirect.com/science/article/abs/pii/S2352239918300265)." In *Handbook of Behavioral Economics, Vol. 2*. 2019. ISBN: 9780444633750.
 
 More generally, the recent Handbook of Behavioral Economics provides great overviews of recent work on various topics, e.g. time preferences, limited attention, beliefs, behavioral IO, etc.
 
