@@ -139,9 +139,9 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Bursztyn, Leonardo and Lucas C. Coffman (2012). “The Schooling Decision: Family Preferences, Intergenerational Conflict, and Moral Hazard in the Brazilian Favelas.” *Journal of Political Economy*, Vol. 120, No. 3, pp. 359-397. 
 - \*\*\* Dizon-Ross, Rebecca (2019). "[Parents' beliefs about their children's academic ability: Implications for educational investments](https://www.nber.org/papers/w24610)." *American Economic Review* 109, no. 8: 2728-65. 
 
-**III.2 Evidence (Part 2) –Private and Social returns to education** 
+**III.2 Evidence (Part 2) –Private and Social returns to education**
 
-***READ IN DETAIL*** 
+***READ IN DETAIL***
 
 \*\*\* Duflo, Esther, Pascaline Dupas, and Michael Kremer (2021). "[The impact of free secondary education: Experimental evidence from Ghana](https://www.nber.org/papers/w28937)." No. w28937. National Bureau of Economic Research.
 
@@ -155,15 +155,15 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 
 **III.A: General**
 
-- \*\*\*Banerjee, Abhijit, Rukmini Banerji, James Berry, Esther Duflo, Harini Kannan, Shobhini Mukerji, Marc Shotland, and Michael Walton (2017). "From proof of concept to scalable policies: Challenges and solutions, with an application." *Journal of Economic Perspectives* 31, no. 4: 73-102. 
+- \*\*\*Banerjee, Abhijit, Rukmini Banerji, James Berry, Esther Duflo, Harini Kannan, Shobhini Mukerji, Marc Shotland, and Michael Walton (2017). "[From proof of concept to scalable policies: Challenges and solutions, with an application](https://www.nber.org/papers/w22931)." *Journal of Economic Perspectives* 31, no. 4: 73-102. 
 - Duflo Esther, Pascaline Dupas, and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74.
-- \*\*\* Glewwe, Paul and Michael Kremer (2006). "Schools, Teachers, and Education Outcomes in Developing Countries." in *Handbook of the Economics of Education*, Elsevier. 
+- \*\*\* Glewwe, Paul and Michael Kremer (2006). "[Schools, Teachers, and Education Outcomes in Developing Countries](https://www.hks.harvard.edu/centers/cid/publications/faculty-working-papers/cid-working-paper-no.-122)." in *Handbook of the Economics of Education*, Elsevier. 
 - Duflo, Esther and Michael Kremer (2003). "Use of Randomization in the Evaluation of Development Effectiveness." MIT-Harvard. Proceedings of the Conference on Evaluating Development Effectiveness, July 15-16, 2003, World Bank Operations Evaluation Department (OED) Washington, D.C. 
 
 **III.B: Class Size**
 
-- \*\*\* Angrist, Joshua and Victor Lavy (1999). "Using Maimonides' Rule to Estimate the Effect of Class Size on Scholastic Achievement," *Quarterly Journal of Economics*, Vol 114 (2), pp. 533-575. 
-- \*\*\* Urquiola, Miguel and Eric Verhoogen, (2009). “Class Size Caps, Sorting, and the Regression Discontinuity Design.” *American Economic Review*. Vol. (99)1: 179–215. 
+- \*\*\* Angrist, Joshua and Victor Lavy (1999). "[Using Maimonides' Rule to Estimate the Effect of Class Size on Scholastic Achievement](https://www.jstor.org/stable/2587016)," *Quarterly Journal of Economics*, Vol 114 (2), pp. 533-575. 
+- \*\*\* Urquiola, Miguel and Eric Verhoogen, (2009). “[Class Size Caps, Sorting, and the Regression Discontinuity Design](https://www.aeaweb.org/articles?id=10.1257/aer.99.1.179).” *American Economic Review*. Vol. (99)1: 179–215. 
 
 **III.C: Incentives**
 
