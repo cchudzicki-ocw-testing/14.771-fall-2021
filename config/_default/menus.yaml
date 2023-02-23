@@ -31,6 +31,10 @@ leftnav:
   name: Exams
   url: /pages/exams
   weight: 80
+- identifier: 39e6e9c8-d143-41a1-bb31-9d611f596943
+  name: Lecture Slides1
+  url: /lists/lecture-slides1
+  weight: 90
 - identifier: 6c75a918-cb45-4f97-9b7c-e72163e337da
   name: Problem Sets
   parent: b9604dd4-9a1d-41f8-be09-a70683d6185b
