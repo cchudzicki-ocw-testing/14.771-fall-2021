@@ -107,59 +107,56 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 
 - Muralidharan, Karthik (2017). “Field Experiments in Education in Developing Countries.” Draft prepared for the *Handbook of Field Experiments.* 
 
-**III. 1 The Neo-Classical Model: Returns, Costs, and Budget Constraints** 
+**III. 1 The Neo-Classical Model: Returns, Costs, and Budget Constraints**
 
-- \*\*\* Banerjee, Abhijit (2004). 
-    
-    “Educational Policy and the Economics of the Family.” *Journal of Development Economics*, 74 3-32. 
+- \*\*\* Banerjee, Abhijit (2004). “[Educational Policy and the Economics of the Family.](https://www.sciencedirect.com/science/article/abs/pii/S0304387803001780)” *Journal of Development Economics*, 74 3-32. 
 - Becker, Gary (1981). *A Treatise on the Family.* Harvard University Press. 
 - Barro, Robert (1974). “Are Government Bonds Net Wealth?” *Journal of Political Economy* 82 (6) 1095-117.
 - Loury, Glenn (1981). “Intergenerational Transfers and the Distribution of Earnings.” *Econometrica*, 49 (4) 843-867.
 - Strauss, John and Duncan Thomas (1995). "Human Resources: Empirical Modeling of Household and Family Decisions." In Behrman, Jere and T.N. Srinivasan, eds., *Handbook of Development Economics, Volume 3*. pp. 1885-2023. 
 
-**III.2 Evidence – What do household respond to?** 
+**III.2 Evidence – What do household respond to?**
 
-***READ IN DETAIL*** 
+***READ IN DETAIL***
 
 - Duflo, Esther (2001), "Schooling and Labor Market Consequences of School Construction in Indonesia: Evidence from an Unusual Policy Experiment." *American Economic Review*, Vol. 91 (4), pp 795-813. 
 
 **Perceived Returns and Benefits**
 
-- \*\*\* Jensen, Robert (2010). “The Perceived Return to Education and the Demand for Schooling.” *Quarterly Journal of Economics* 125 (2), p 515-548. 
-- \*\*\* Jensen, Robert (2012). "Do Labor Market Opportunities Affect Young Women's Work and Family Decisions? Experimental Evidence from India." *Quarterly Journal of Economics*, 127(2), p. 753-792.
+- \*\*\* Jensen, Robert (2010). “[The Perceived Return to Education and the Demand for Schooling](https://academic.oup.com/qje/article-abstract/125/2/515/1882172?redirectedFrom=fulltext).” *Quarterly Journal of Economics* 125 (2), p 515-548. 
+- \*\*\* Jensen, Robert (2012). "[Do Labor Market Opportunities Affect Young Women's Work and Family Decisions? Experimental Evidence from India](https://academic.oup.com/qje/article-abstract/127/2/753/1823744)." *Quarterly Journal of Economics*, 127(2), p. 753-792.
 - Nguyen, Trang (2008). “Information, Role Models and Perceived Returns to Education: Experimental Evidence from Madagascar.” MIT. 
-- \*\*\* Jayachandran, Seema and Adriana Lleras-Muney (2009). “Life Expectancy and Human Capital Investments: Evidence from Maternal Mortality Declines.” *Quarterly Journal of Economics*, Vol 124 (1) pp. 349-397.
-- \*\*\* Qian, Nancy (2008). “Missing Women and the Price of Tea in China.” *Quarterly Journal of Economics*, 123(3), 1251-1285. 
+- \*\*\* Jayachandran, Seema and Adriana Lleras-Muney (2009). “[Life Expectancy and Human Capital Investments: Evidence from Maternal Mortality Declines](https://academic.oup.com/qje/article-abstract/124/1/349/1890364?redirectedFrom=fulltext).” *Quarterly Journal of Economics*, Vol 124 (1) pp. 349-397.
+- \*\*\* Qian, Nancy (2008). “[Missing Women and the Price of Tea in China](https://academic.oup.com/qje/article-abstract/123/3/1251/1928174?redirectedFrom=fulltext).” *Quarterly Journal of Economics*, 123(3), 1251-1285. 
 
 **Costs and opportunity costs: School building and Conditional Cash transfers**
 
-- Benhassine, Najy, Florencia Devoto, Esther Duflo, Pascaline Dupas, and Victor Pouliquen (2015). "Turning a shove into a nudge? A "labeled cash transfer" for education." *American Economic Journal: Economic Policy* 7, no. 3: 86-125. 
-    
+- Benhassine, Najy, Florencia Devoto, Esther Duflo, Pascaline Dupas, and Victor Pouliquen (2015). "Turning a shove into a nudge? A "labeled cash transfer" for education." *American Economic Journal: Economic Policy* 7, no. 3: 86-125.
 - Baird, Sarah, Craig McIntosh, and Berk Özler (2011). "Cash or Condition? Evidence from a Cash Transfer Experiment." Oxford University Press, vol. 126(4), pages 1709-1753.
 
 **Intra-family information gap and behavioral issues**
 
 - Bursztyn, Leonardo and Lucas C. Coffman (2012). “The Schooling Decision: Family Preferences, Intergenerational Conflict, and Moral Hazard in the Brazilian Favelas.” *Journal of Political Economy*, Vol. 120, No. 3, pp. 359-397. 
-- \*\*\* Dizon-Ross, Rebecca (2019). "Parents' beliefs about their children's academic ability: Implications for educational investments." *American Economic Review* 109, no. 8: 2728-65. 
+- \*\*\* Dizon-Ross, Rebecca (2019). "[Parents' beliefs about their children's academic ability: Implications for educational investments](https://www.nber.org/papers/w24610)." *American Economic Review* 109, no. 8: 2728-65. 
 
-**III.2 Evidence (Part 2) –Private and Social returns to education 10/4**
+**III.2 Evidence (Part 2) –Private and Social returns to education** 
 
-***READ IN DETAIL for 10/4:***
+***READ IN DETAIL*** 
 
-\*\*\* Duflo, Esther, Pascaline Dupas, and Michael Kremer (2021). The impact of free secondary education: Experimental evidence from Ghana. No. w28937. National Bureau of Economic Research.
+\*\*\* Duflo, Esther, Pascaline Dupas, and Michael Kremer (2021). "[The impact of free secondary education: Experimental evidence from Ghana](https://www.nber.org/papers/w28937)." No. w28937. National Bureau of Economic Research.
 
 *Other papers*
 
-- Chou, Shin-Yi, Jin-Tan Liu, Michael Grossman, and Ted Joyce (2010). "Parental Education and Child Health: Evidence from a Natural Experiment in Taiwan." American Economic Journal: Applied Economics, 2(1): 33-61.
+- Chou, Shin-Yi, Jin-Tan Liu, Michael Grossman, and Ted Joyce (2010). "Parental Education and Child Health: Evidence from a Natural Experiment in Taiwan." *American Economic Journal: Applied Economics*, 2(1): 33-61.
 - Duflo, Esther, Pascaline Dupas, and Michael Kremer (2015). "Education, HIV, and early fertility: Experimental evidence from Kenya." *American Economic Review* 105, no. 9: 2757-97. 
-- \*\*\* Duflo, Esther (2004). “The Medium Run Effects of Educational Expansion: Evidence from a Large School Construction Program in Indonesia.” *Journal of Development Economics*, 74(1), 163-197. 
+- \*\*\* Duflo, Esther (2004). “[The Medium Run Effects of Educational Expansion: Evidence from a Large School Construction Program in Indonesia](https://www.nber.org/papers/w8710).” *Journal of Development Economics*, 74(1), 163-197. 
 
 **Part IV. Education: The Supply Side  \[Duflo\]**
 
 **III.A: General**
 
 - \*\*\*Banerjee, Abhijit, Rukmini Banerji, James Berry, Esther Duflo, Harini Kannan, Shobhini Mukerji, Marc Shotland, and Michael Walton (2017). "From proof of concept to scalable policies: Challenges and solutions, with an application." *Journal of Economic Perspectives* 31, no. 4: 73-102. 
-- Duflo Esther, Pascaline Dupas, and Michael Kremer (2011). **“Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.”** *American Economic Review*, Vol.101(5), pp. 1739-74.
+- Duflo Esther, Pascaline Dupas, and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74.
 - \*\*\* Glewwe, Paul and Michael Kremer (2006). "Schools, Teachers, and Education Outcomes in Developing Countries." in *Handbook of the Economics of Education*, Elsevier. 
 - Duflo, Esther and Michael Kremer (2003). "Use of Randomization in the Evaluation of Development Effectiveness." MIT-Harvard. Proceedings of the Conference on Evaluating Development Effectiveness, July 15-16, 2003, World Bank Operations Evaluation Department (OED) Washington, D.C. 
 
