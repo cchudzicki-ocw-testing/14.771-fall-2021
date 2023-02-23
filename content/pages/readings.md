@@ -58,7 +58,7 @@ uid: 5dfbe6d1-5e31-407e-9958-925aac0c4e28
 
 \*\*\* Kremer, Michael, Gautam Rao, and Frank Schilbach (2019). "[Behavioral Development Economics](https://www.sciencedirect.com/science/article/abs/pii/S2352239918300265)." In *Handbook of Behavioral Economics, Vol. 2*. 2019. ISBN: 9780444633750.
 
-More generally, the recent Handbook of Behavioral Economics provides great overviews of recent work on various topics, e.g. time preferences, limited attention, beliefs, behavioral IO, etc.
+More generally, the recent [*Handbook of Behavioral Economics*](https://www.amazon.com/Handbook-Behavioral-Economics-Foundations-Applications/dp/044463374X) provides great overviews of recent work on various topics, e.g. time preferences, limited attention, beliefs, behavioral IO, etc.
 
 **The Euler Equation Puzzle and Demand for Commitment**
 
