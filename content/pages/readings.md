@@ -175,10 +175,9 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Teacher Absence**
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
-- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132. 
-
- **Curriculum, Pedagogy, Tracking, Inputs, etc.**
-
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.    
+      
+    **Curriculum, Pedagogy, Tracking, Inputs, etc.**
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
 - Glewwe, Paul, Michael Kremer and Sylvie Moulin (2009). "Many Children Left Behind? Textbooks and Test Scores in Kenya." *American Economic Journal: Applied Economics*, Vol.1(1)112-135. [Final](http://pubs.aeaweb.org.libproxy.mit.edu/doi/pdfplus/10.1257/app.1.1.112)
 - Muralidharan, Karthik and Venkatesh Sundararaman (2013). “Contract Teachers: Experimental Evidence from India.” 
@@ -197,15 +196,12 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Hyperbolic Discounting/Time Preferences, Demand for commitment**
 
 - Ericson, Keith Marzilli, and David Laibson (2019). "Intertemporal choice." In *Handbook of Behavioral Economics: Applications and Foundations* 1, vol. 2, pp. 1-67. North-Holland. 
-- Cohen, J.D, K.M. Ericson, D. Laibson, and J.M. White (2020). “Measuring Time Preferences.” *Journal of Economic Literature*. 58(2): 299-347. 
-    
+- Cohen, J.D, K.M. Ericson, D. Laibson, and J.M. White (2020). “Measuring Time Preferences.” *Journal of Economic Literature*. 58(2): 299-347.
 - Frederick, S., G. Loewenstein, and T. O'Donoghue (2002). “Time Discounting and Time Preference: A Critical Review.” *Journal of Economic Literature,* 40 (2), 351-401. 
 - Mahajan, Aprajit, Christian Michel, and Alessandro Tarozzi. Identification of time-inconsistent models: The case of insecticide treated nets. No. w27198. National Bureau of Economic Research, 2020. 
 - Kaur, Supreet, Michael Kremer, and Sendhil Mullainathan (2015). “Self-Control at Work.” *Journal of Political Economy*. 123(6): 1227-1277. 
 - Andreoni, James, Michael Callen, Karrar Jaffar, Yasir Khan, and Charles Sprenger (2020). “Using Preference Estimates to Customize Incentives: An Application to Polio Vaccination Drives in Pakistan.” NBER.
 - Schilbach, Frank (2019). “Alcohol and Self-Control: A Field Experiment in India.”, *American Economic Review*. 109(4): 1290-1322. 
-
- 
 
 **Savings**
 
@@ -216,3 +212,49 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Dupas, Pascaline, and Jonathan Robinson (2013). "Why don't the poor save more? Evidence from health savings experiments." *American Economic Review* 103, no. 4: 1138-71. 
 - Dupas, Pascaline, Dean Karlan, Jonathan Robinson, and Diego Ubfal (2018). "Banking the unbanked? Evidence from three countries." *American Economic Journal: Applied Economics* 10, no. 2: 257-97.
 - Schaner, Simone (2018). "The persistent power of behavioral change: Long-run impacts of temporary savings subsidies for the poor." *American Economic Journal: Applied Economics* 10, no. 3: 67-100.
+
+#### Sessions 11–12: Health
+
+**The demand for health** 
+
+*TO READ IN DETAIL*
+
+- Banerjee, Abhijit, Arun G. Chandrasekhar, Esther Duflo, and Matthew O. Jackson (2019). "Using gossips to spread information: Theory and evidence from two randomized controlled trials." The Review of Economic Studies 86, no. 6: 2453-2490. 
+- Chernozhukov, Victor, Mert Demirer, Esther Duflo, and Ivan Fernandez-Val (2020). Generic Machine Learning Inference on Heterogeneous Treatment Effects in Randomized Experiments, with an Application to Immunization in India. No. w24678. National Bureau of Economic Research. 
+
+**Other readings**
+
+- \*\*\* Dupas, Pascaline (2014). “Short-Run Subsidies and Long-Run Adoption of New Health Products: Evidence from a Field Experiment.” *Econometrica* 82(1), pp. 197-28. 
+- Cohen, Jessica and Pascaline Dupas (2010). “Free Distribution or Cost-Sharing? Evidence from a Randomized Malaria Prevention Experiment.” Quarterly Journal of Economics125 (1), pp.1-45. 
+- Cohen, Jessica, Pascaline Dupas, and Simone Schaner (2015**).** “Price Subsidies, Diagnostic Tests, and Targeting of Malaria Treatment.” 
+    
+    American Economic Review105(2), pp. 609-645. 
+- Duflo, Esther, Pascaline Dupas, and Michael Kremer (2015). "Education, HIV, and early fertility: Experimental evidence from Kenya." American Economic Review 105, no. 9: 2757-97. 
+- Dupas, Pascaline and Edward Miguel (2017). “Impacts and Determinants of Health Levels in Low-Income Countries.” Draft prepared for the Handbook of Field Experiments. 
+- Ashraf, Nava, James Berry, and Jesse M. Shapiro (2010). "Can Higher Prices Stimulate Product Use? Evidence from a Field Experiment in Zambia." American Economic Review, 100(5): 2383-2413. 
+- Banerjee, Abhijit, Esther Duflo, Rachel Glennerster, Dhruva Kothari (2010). "Improving Immunisation Coverage in Rural India: Clustered Randomised Controlled Evaluation of Immunisation Campaigns With and Without Incentives." BMJ, 340:c2220. 
+- Thornton, Rebecca L. (2008). "The Demand for, and Impact of, Learning HIV Status." American Economic Review, 98(5): 1829-63.
+
+**Health Care** 
+
+- \*\*\* Das, Jishnu, Alaka Holla, Aakash Mohpal, and Karthik Muralidharan (2016). "Quality and accountability in health care delivery: audit-study evidence from primary care in India." American Economic Review 106, no. 12: 3765-99. 
+- Das, Jishnu, Alaka Holla, Veena Das, Manoj Mohanan, Diana Tabak, and Brian Chan (2012). "In urban and rural India, a standardized patient study showed low levels of provider training and huge quality gaps." Health affairs 31, no. 12: 2774-2784. 
+- Das J, and P. Gertler (2007). “Variations in Practice Quality in Five Low-Income Countries: A Conceptual Overview.” Health Affairs, 26(3):w296-w309.
+- \*\*\* Das, Jishnu, Jeffrey Hammer, and Kenneth Leonard (2008). "The Quality of Medical Advice in Low-Income Countries." Journal of Economic Perspectives, 22(2): 93–114. 
+- Leonard, K.L (2009). "The Cost of Imperfect Agency in Health Care: Evidence from Rural Cameroun." Journal of Development Economics, 88 (2). 
+- \*\*\*Leonard, K.L. (2008), “Is Patient Satisfaction Sensitive to Changes in the Quality of Care? An Exploitation of the Hawthorne Effect.” Journal of Health Economics, Volume 27, Issue 2, Pages 444-459. 
+- Banerjee A, A. Deaton, E. Duflo (2004). “Health Care Delivery in Rural Rajasthan.” Economic and Political Weekly, 15(2):153-57.
+- Das, Jishnu and Jeffrey Hammer (2005). “Which Doctor? Combining Vignettes and Item Response to Measure Clinical Competence.” Journal of Development Economics, Volume 78, Issue 2, December 2005, Pages 348-383. 
+- \*\*\* Das, Jishnu and Jeffrey Hammer (2007). “Location, Location, Location: Residence, Wealth and the Quality of Medical Care in Delhi, India.” Health Aff. 2007; 26(3); w338-w351. 
+- Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2006). "Missing in Action: Teacher and Health Worker Absence in Developing Countries." Journal of Economic Perspectives, 20(1): 91–116. 
+- Das, Jishnu and Hammer, Jeffrey (2007). "Money for Nothing: The Dire Straits of Medical Practice in Delhi, India." Journal of Development Economics, Volume 83, Issue 1, May 2007, Pages 1-36.
+- Olken, Benjamin, Junko Onishi, and Susan Wong (2014). “Should Aid Reward Performance? Evidence From a Field Experiment on Health and Education in Indonesia.”*American Economic Journal: Applied Economics6* (4)*.* 
+- Banerjee, Abhijit V., Esther Duflo, and Rachel Glennerster (2008). "Putting a band-aid on a corpse: incentives for nurses in the Indian public health care system." Journal of the European Economic Association 6, no. 2-3: 487-500. 
+
+**Infrastructure and the Environment \[for reference only\]**
+
+- Kremer, Michael, Jessica Leino, Edward Miguel, and Alix Peterson Zwane (2011). “Spring Cleaning: Rural Water Impacts, Valuation, and Institutions,” Quarterly Journal of Economics. Vol. 126: 145-205.
+- Kremer, Michael, Alix Peterson Zwane and Amrita Ahuja (2010). “Providing Safe Water: Evidence from Randomized Evaluations.” Annual Review of Resource Economics, Volume 2. 
+- Almond, Douglas, Yuyu Chen, Michael Greenstone, and Hongbin Li (2009). "Winter Heating or Clean Air? Unintended Impacts of China's Huai River Policy." American Economic Review, 99(2): 184–90. 
+- Burgess, Robin, Dave Donaldson, Olivier Deschenes and Michael Greenstone (2017). “Weather and Death in India: Mechanisms and Implications for Climate Change.” 
+- Buchmann, Nina, Erica M. Field, Rachel Glennerster, and Reshmaan N. Hussam (2019). Throwing the baby out with the drinking water: unintended consequences of arsenic mitigation efforts in Bangladesh. No. w25729. National Bureau of Economic Research. [Working](https://www.nber.org/system/files/working_papers/w25729/w25729.pdf)
