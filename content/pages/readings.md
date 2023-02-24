@@ -107,7 +107,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 
 - Muralidharan, Karthik (2017). “Field Experiments in Education in Developing Countries.” Draft prepared for the *Handbook of Field Experiments.* 
 
-**III. 1 The Neo-Classical Model: Returns, Costs, and Budget Constraints**
+**The Neo-Classical Model: Returns, Costs, and Budget Constraints**
 
 - \*\*\* Banerjee, Abhijit (2004). “[Educational Policy and the Economics of the Family.](https://www.sciencedirect.com/science/article/abs/pii/S0304387803001780)” *Journal of Development Economics*, 74 3-32. 
 - Becker, Gary (1981). *A Treatise on the Family.* Harvard University Press. 
@@ -115,7 +115,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Loury, Glenn (1981). “Intergenerational Transfers and the Distribution of Earnings.” *Econometrica*, 49 (4) 843-867.
 - Strauss, John and Duncan Thomas (1995). "Human Resources: Empirical Modeling of Household and Family Decisions." In Behrman, Jere and T.N. Srinivasan, eds., *Handbook of Development Economics, Volume 3*. pp. 1885-2023. 
 
-**III.2 Evidence – What do household respond to?**
+**Evidence – What do household respond to?**
 
 ***READ IN DETAIL***
 
@@ -139,9 +139,9 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Bursztyn, Leonardo and Lucas C. Coffman (2012). “The Schooling Decision: Family Preferences, Intergenerational Conflict, and Moral Hazard in the Brazilian Favelas.” *Journal of Political Economy*, Vol. 120, No. 3, pp. 359-397. 
 - \*\*\* Dizon-Ross, Rebecca (2019). "[Parents' beliefs about their children's academic ability: Implications for educational investments](https://www.nber.org/papers/w24610)." *American Economic Review* 109, no. 8: 2728-65. 
 
-**III.2 Evidence (Part 2) –Private and Social returns to education**
+**Evidence (Part 2) –Private and Social returns to education**
 
-***READ IN DETAIL***
+*READ IN DETAIL*
 
 \*\*\* Duflo, Esther, Pascaline Dupas, and Michael Kremer (2021). "[The impact of free secondary education: Experimental evidence from Ghana](https://www.nber.org/papers/w28937)." No. w28937. National Bureau of Economic Research.
 
@@ -151,33 +151,33 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Duflo, Esther, Pascaline Dupas, and Michael Kremer (2015). "Education, HIV, and early fertility: Experimental evidence from Kenya." *American Economic Review* 105, no. 9: 2757-97. 
 - \*\*\* Duflo, Esther (2004). “[The Medium Run Effects of Educational Expansion: Evidence from a Large School Construction Program in Indonesia](https://www.nber.org/papers/w8710).” *Journal of Development Economics*, 74(1), 163-197. 
 
-**Part IV. Education: The Supply Side  \[Duflo\]**
+**Education: The Supply Side  \[Duflo\]**
 
-**III.A: General**
+**General**
 
 - \*\*\*Banerjee, Abhijit, Rukmini Banerji, James Berry, Esther Duflo, Harini Kannan, Shobhini Mukerji, Marc Shotland, and Michael Walton (2017). "[From proof of concept to scalable policies: Challenges and solutions, with an application](https://www.nber.org/papers/w22931)." *Journal of Economic Perspectives* 31, no. 4: 73-102. 
 - Duflo Esther, Pascaline Dupas, and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74.
 - \*\*\* Glewwe, Paul and Michael Kremer (2006). "[Schools, Teachers, and Education Outcomes in Developing Countries](https://www.hks.harvard.edu/centers/cid/publications/faculty-working-papers/cid-working-paper-no.-122)." in *Handbook of the Economics of Education*, Elsevier. 
 - Duflo, Esther and Michael Kremer (2003). "Use of Randomization in the Evaluation of Development Effectiveness." MIT-Harvard. Proceedings of the Conference on Evaluating Development Effectiveness, July 15-16, 2003, World Bank Operations Evaluation Department (OED) Washington, D.C. 
 
-**III.B: Class Size**
+**Class Size**
 
 - \*\*\* Angrist, Joshua and Victor Lavy (1999). "[Using Maimonides' Rule to Estimate the Effect of Class Size on Scholastic Achievement](https://www.jstor.org/stable/2587016)," *Quarterly Journal of Economics*, Vol 114 (2), pp. 533-575. 
 - \*\*\* Urquiola, Miguel and Eric Verhoogen, (2009). “[Class Size Caps, Sorting, and the Regression Discontinuity Design](https://www.aeaweb.org/articles?id=10.1257/aer.99.1.179).” *American Economic Review*. Vol. (99)1: 179–215. 
 
-**III.C: Incentives**
+**Incentives**
 
 - Muralidharan, Karthik and Venkatesh Sundararaman (2011). "Teacher Performance Pay: Experimental Evidence from India." *Journal of Political Economy*, Vol. 119, No. 1, pp. 39-77.
 - Glewwe, Paul, Nauman Ilias, and Michael Kremer (2010). "Teacher incentives." *American Economic Journal: Applied Economics* 2, no. 3: 205-27. [Final](http://pubs.aeaweb.org.libproxy.mit.edu/doi/pdfplus/10.1257/app.2.3.205)
 - Kremer, Michael, Edward Miguel, and Rebecca Thornton. "Incentives to learn." *The Review of Economics and Statistics* 91, no. 3 (2009): 437-456. 
 - Duflo, E., Hanna, R., & Ryan, S. P. (2012). “Incentives Work: Getting Teachers to Come to School.”  *The American Economic Review*, 102(4), 1241-1278. 
 
-**III.D: Teacher Absence**
+**Teacher Absence**
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
 - Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132. 
 
-**III.E: Curriculum, Pedagogy, Tracking, Inputs, etc.**
+ **Curriculum, Pedagogy, Tracking, Inputs, etc.**
 
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
 - Glewwe, Paul, Michael Kremer and Sylvie Moulin (2009). "Many Children Left Behind? Textbooks and Test Scores in Kenya." *American Economic Journal: Applied Economics*, Vol.1(1)112-135. [Final](http://pubs.aeaweb.org.libproxy.mit.edu/doi/pdfplus/10.1257/app.1.1.112)
@@ -185,9 +185,34 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Banerjee, Abhijit, Shawn Cole, Esther Duflo and Leigh Linden (2007). "Remedying Education: Evidence from Two Randomized Experiments in India." *Quarterly Journal of Economics*, Vol. 122 (3) 1235-1264. 
 - Dillon, Moira R., Harini Kannan, Joshua T. Dean, Elizabeth S. Spelke, and Esther Duflo (2017). "Cognitive science in the field: A preschool intervention durably enhances intuitive but not formal mathematics." *Science* 357, no. 6346: 47-55.
 
-**III.F: School Choice**
+**School Choice**
 
 - Angrist, Joshua, Eric Bettinger, and Michael Kremer, (2006). “Long-Term Educational Consequences of Secondary School Vouchers: Evidence from Administrative Records in Colombia.” *American Economic Review.* Volume 96(3) 847-862. 
 - Angrist, Joshua, Eric Bettinger, Erik Bloom, Michael Kremer and Elizabeth King (2002). “Vouchers for Private Schooling in Colombia: Evidence from Randomized Natural Experiments.” *The American Economic Review*, December, Volume 92(5) 1535-1558. 
 - Urquiola, Miguel and Chang-Tai Hsieh, (2006). “The Effects of Generalized School Choice on Achievement and Stratification: Evidence from Chile's School Voucher Program.” *Journal of Public Economics*, 90 (8-9) 1477-1503. 
 - Foster, Andrew and Mark Rosenzweig (1996). “Technical Change and Human-Capital Returns and Investments: Evidence from the Green Revolution.” *American Economic Review*, 86(4) 931-953.
+
+#### Session 10: Time Preferences and Savings
+
+**Hyperbolic Discounting/Time Preferences, Demand for commitment**
+
+- Ericson, Keith Marzilli, and David Laibson (2019). "Intertemporal choice." In *Handbook of Behavioral Economics: Applications and Foundations* 1, vol. 2, pp. 1-67. North-Holland. 
+- Cohen, J.D, K.M. Ericson, D. Laibson, and J.M. White (2020). “Measuring Time Preferences.” *Journal of Economic Literature*. 58(2): 299-347. 
+    
+- Frederick, S., G. Loewenstein, and T. O'Donoghue (2002). “Time Discounting and Time Preference: A Critical Review.” *Journal of Economic Literature,* 40 (2), 351-401. 
+- Mahajan, Aprajit, Christian Michel, and Alessandro Tarozzi. Identification of time-inconsistent models: The case of insecticide treated nets. No. w27198. National Bureau of Economic Research, 2020. 
+- Kaur, Supreet, Michael Kremer, and Sendhil Mullainathan (2015). “Self-Control at Work.” *Journal of Political Economy*. 123(6): 1227-1277. 
+- Andreoni, James, Michael Callen, Karrar Jaffar, Yasir Khan, and Charles Sprenger (2020). “Using Preference Estimates to Customize Incentives: An Application to Polio Vaccination Drives in Pakistan.” NBER.
+- Schilbach, Frank (2019). “Alcohol and Self-Control: A Field Experiment in India.”, *American Economic Review*. 109(4): 1290-1322. 
+
+ 
+
+**Savings**
+
+- Ashraf, Nava, Dean Karlan, and Wesley Yin (2006). "Tying Odysseus to the mast: Evidence from a commitment savings product in the Philippines." *The Quarterly Journal of Economics* 121, no. 2: 635-672. 
+- Blumenstock, Joshua, Michael Callen, and Tarek Ghani (2018). "Why do defaults affect behavior? Experimental evidence from Afghanistan." *American Economic Review* 108, no. 10: 2868-2901.
+- Casaburi, Lorenzo, and Rocco Macchiavello (2019). "Demand and supply of infrequent payments as a commitment device: evidence from Kenya." *American Economic Review* 109, no. 2: 523-55. 
+- Dupas, Pascaline, and Jonathan Robinson (2013). "Savings constraints and microenterprise development: Evidence from a field experiment in Kenya." *American Economic Journal: Applied Economics* 5, no. 1: 163-92. 
+- Dupas, Pascaline, and Jonathan Robinson (2013). "Why don't the poor save more? Evidence from health savings experiments." *American Economic Review* 103, no. 4: 1138-71. 
+- Dupas, Pascaline, Dean Karlan, Jonathan Robinson, and Diego Ubfal (2018). "Banking the unbanked? Evidence from three countries." *American Economic Journal: Applied Economics* 10, no. 2: 257-97.
+- Schaner, Simone (2018). "The persistent power of behavioral change: Long-run impacts of temporary savings subsidies for the poor." *American Economic Journal: Applied Economics* 10, no. 3: 67-100.
