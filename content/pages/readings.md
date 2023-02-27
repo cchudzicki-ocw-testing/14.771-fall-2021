@@ -175,7 +175,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Teacher Absence**
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
-- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.          
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.           
       
     **Curriculum, Pedagogy, Tracking, Inputs, etc.**
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
@@ -301,8 +301,8 @@ Political Economy\*, 104(5), 1010-1046. 
 **Sharecropping and Moral Hazard**
 
 - \*\*Burchardi, Konrad B., Selim Gulesci, Benedetta Lerva, Munshi Sulaiman (2019), “[Moral Hazard: Experimental Evidence from Tenancy Contracts,](https://academic.oup.com/qje/article/134/1/281/5106373)” *The Quarterly Journal of Economics*, 134(1): 281-347. 
-- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*, 
-    
+- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,   
+      
     41(2): 219-55. 
 - Shaban, Radwan Ali (1987). "Testing between Competing Models of Sharecropping." *Journal of Political Economy*, 95 (5): 893-920. 
 - Laffont, Jean-Jacques, and Mohamed Salah Matoussi (1995). “Moral Hazard, Financial Constraints and Sharecropping in El Oulja.” *Review of Economic Studies*, 62(3): 381-399. 
@@ -327,3 +327,60 @@ Political Economy\*, 104(5), 1010-1046. 
 - Ravallion, Martin, and Dominique van de Walle (2006). "Land Reallocation in an Agrarian Transition." *The Economic Journal,* 116(514): 924-942. 
 - Bleakley, Hoyt, and Joseph Ferrie (2015). “Land Openings on the Georgia frontier and the Coase Theorem in the Short-and Long-Run.” 
 - Restuccia, Diego and Raul Santaeulalia-Llopis (2017). “Land Misallocation and Productivity.”
+
+#### Sessions 17–18: Public Finance
+
+**The Design of Transfer Programs**
+
+*Targeting*
+
+- \*\*\* Alatas, Vivi, Abhijit Banerjee, Rema Hanna, Benjamin A. Olken, and Julia Tobias (2012). “[Targeting the Poor: Evidence from a Field Experiment in Indonesia.](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.102.4.1206)” *American Economic Review*, 102(4): 1206-1240. 
+- \*\*\* Alatas, Vivi, Abhijit Banerjee, Rema Hanna, Benjamin A. Olken, Ririn Purnamasari, and Matthew Wai-Poi (2016). “[Self-Targeting: Evidence from a Field Experiment in Indonesia](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/685299).” *Journal of Political Economy* 124(2): 371-427. 
+- Hanna, Rema and Benjamin A. Olken (2018). “Universal Basic Incomes vs. Targeted Transfers: Anti-Poverty Programs in Developing Countries*.” Journal of Economic Perspectives*, 32(4): 201-226. 
+- Nichols, Albert L. and Richard J. Zeckhauser (1982). "Targeting Transfers through Restrictions on Recipients." *American Economic Review*, 72(2): 372-377. 
+- Olken, Benjamin A. (2006). “Corruption and the Costs of Redistribution: Micro evidence from Indonesia.” *Journal of Public Economics*, 90(4-5): 853-870. 
+- Elbers, Chris, Jean O. Lanjouw, and Peter Lanjouw (2003). "Micro-Level Estimation of Poverty and Inequality." *Econometrica*, 71(1): 355-364. 
+- Niehaus, Paul, Antonia Atanassova, Marianne Bertrand, and Sendhil Mullainathan (2013). “Targeting with Agents.” *American Economic Journal: Economic Policy*, 5(1): 206-238. 
+
+*The Form of Transfers: Conditionality, Cash vs In-Kind, Workfare*
+
+- \*\*\* Cunha, Jesse M., Giacomo De Giorgi, and Seema Jayachandran (2019). [“The Price Effects of Cash Versus In-Kind Transfers](https://academic.oup.com/restud/article-abstract/86/1/240/4962153).” *Review of Economic Studies*. 86, 240-281. 
+- \*\*\* Baird, Sarah, Craig McIntosh, and Berk Özler (2011). “[Cash or Condition? Evidence from a Cash Transfer Experiment](https://academic.oup.com/qje/article-abstract/126/4/1709/1922509).” *Quarterly Journal of Economics*, 126(4): 1709-175.
+- \*\*\* Banerjee, Abhijit, Rema Hanna, Benjamin A. Olken, Elan Satriawan, and Sudarno Sumarto (2021). “[Food vs. Food Stamps: Evidence from an At-Scale Experiment in Indonesia](https://www.nber.org/papers/w28641).” 
+- Gadenne, Lucie, Samuel Norris, Monica Singhal, and Sandip Sukhtankar (2021). “In-Kind Transfers as Insurance.”
+- Cunha, Jesse M. (2014). “Testing Paternalism: Cash versus In-kind Transfers.” *American Economic Journal: Applied Economics*, 6(2): 195-230. 
+- Coate, Stephen, Stephen Johnson, and Richard Zeckhauser (1994). “Pecuniary Redistribution Through In-Kind Programs.” *Journal of Public Economics*, 55(1): 19-40. 
+- Banerjee, Abhijit V. (2016). “Policies for a Better-Fed World.” *Review of World Economics*, 152 (1): 3-17. 
+- Besley, Timothy and Ravi Kanbur (1988). "Food Subsidies and Poverty Alleviation." *The Economic Journal*, 98(392): 701-719.
+
+*Big Push Programs, Business Programs, Cash Transfers*
+
+- \*\*\* Banerjee, Abhijit, Esther Duflo, Nathanael Goldberg, Dean Karlan, Robert Osei, William Parienté, Jeremy Shapiro, Bram Thuysbaert, and Christopher Udry (2015). “[A Multifaceted Program Causes Lasting Progress for the Very Poor: Evidence from Six Countries](https://www.science.org/doi/10.1126/science.1260799).” *Science*, 348(6236): 772-790. 
+- Blattman, Chris, Nathan Fiala, and Sebastian Martinez (2014). “Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda.” *Quarterly Journal of Economics*, 129 (2): 697-752. 
+- Blattman, Christopher, Eric P. Green, Julian Jamison, M. Christian Lehmann, and Jeannie Annan (2016). “The Returns to Microenterprise Support Among the Ultrapoor: A Field Experiment in Postwar Uganda.” *American Economic Journal: Applied Economics*, 8(2): 35-64. 
+- \*\*\*Haushofer, Johannes, and Jeremy Shapiro (2016). “[The Short-Term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya](https://academic.oup.com/qje/article-abstract/131/4/1973/2468874?redirectedFrom=fulltext).” *Quarterly Journal of Economics*, 131(4): 1973-2042. 
+- Bandiera, Oriana, Robin Burgess, Narayan Das, Selim Gulesci, Imran Rasul, and Munshi Sulaiman (2017). “Labor Markets and Poverty in Village Economies.” *Quarterly Journal of Economics*, 132(2): 811-870. 
+
+**Taxation**
+
+*Taxes and the Informal Sector*
+
+- \*\*\* Jensen, Anders (2019). “[Employment Structure and the Rise of the Modern Tax System,](https://www.nber.org/papers/w25502)” NBER Working Paper 25502.
+- \*\*\* Basri, M. Chatib, Mayara Felix, Rema Hanna, and Benjamin A. Olken (2019). “[Tax Administration vs. Tax Rates: Evidence from Corporate Taxation in Indonesia](https://www.nber.org/papers/w26150).” NBER Working Paper 26150.
+- \*\*\* Khan, Adnan Q., Asim Khwaja, and Benjamin A. Olken (2016). “[Tax Farming Redux: Experimental Evidence on Performance Pay for Tax Collectors](https://academic.oup.com/qje/article-abstract/131/1/219/2461220?redirectedFrom=fulltext).” *Quarterly Journal of Economics*, 131(1): 219-271. 
+-  
+    
+    \*\*\* Kleven, Henrik Jacobsen, Claus Thustrup Kreiner, and Emmanuel Saez (2016). “[Why Can Modern Governments Tax So Much? An Agency Model of Firms as Fiscal Intermediaries](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecca.12182).” *Economica*, 83: 219–246. 
+- Naritomi, Joana (2019). “Consumers as Tax Auditors,” *American Economic Review,* 109(9): 3031-72*.* 
+- Kumler, Todd, Eric Verhoogen, and Judith Frías (2020). “Enlisting Employees in Improving Payroll-Tax Compliance: Evidence from Mexico.” 
+- Gordon, Roger and Wei Li (2009). “Tax Structure in Developing Countries: Many Puzzles and a Possible Explanation,” *Journal of Public Economics*, 93(7-8): 855-866. 
+- Fisman, Raymond and Shang-Jin Wei (2004). “Tax Rates and Tax Evasion: Evidence from ‘Missing Imports’ in China.” *Journal of Political Economy*, 112(2): 471-496. 
+- Mishra, Prachi, Arvind Subramanian, and Petia Topalova (2008). “Tariffs, Enforcement, and Customs Evasion: Evidence from India.” *Journal of Public Economics*, 92(10-11): 1907-1925. 
+- Olken, Benjamin A., and Monica Singhal (2011). "Informal Taxation." *American Economic Journal: Applied Economics*, 3(4): 1-28. 
+- De Paula, Áureo and José A. Scheinkman (2010). “Value-Added Taxes, Chain Effects, and Informality.” *American Economics Journal: Macroeconomics*, 2(4): 195-221. 
+- Carrillo, Paul, Dina Pomeranz, and Monica Singhal (2017). “Dodging the Taxman: Firm Misreporting and Limits to Tax Enforcement.” *American Economic Journal: Applied Economics*, 9(2): 144-164. 
+- Gadenne Lucie, Tushar K. Nandi, Roland Rathelot (2019). “Taxation and Supplier Networks: Evidence from India,” International Growth Centre S-89450-INC-1. 
+- Brockmeyer, Anne, Alejandro Estefan, Karina Ramírez Arras, Juan Carlos Suárez Serrato (2020). “Taxing Property in Developing Countries: Theory and Evidence from Mexico.” *112<sup>th</sup> Annual Conference on Taxation*. 
+- Bachas, Pierre, Lucie Gadenne, and Anders Jensen (2020). “Informality, Consumption Taxes, and Redistribution.” NBER Working Paper 27429.
+- Londoño-Vélez, Juliana and Javier Ávila-Mahecha (2021). “Enforcing Wealth Taxes in the Developing World: Quasi-experimental Evidence from Colombia.” *American Economic Review: Insights*, 3(2): 131-48. 
+- Almunia, Miguel, Jonas Hjort, Justine Knebelmann, and Lin Tian (2021). “Strategic or Confused Firms? Evidence from ‘Missing’ Transactions in Uganda.”
