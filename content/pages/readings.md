@@ -175,7 +175,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Teacher Absence**
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
-- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.           
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.            
       
     **Curriculum, Pedagogy, Tracking, Inputs, etc.**
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
@@ -301,7 +301,7 @@ Political Economy\*, 104(5), 1010-1046. 
 **Sharecropping and Moral Hazard**
 
 - \*\*Burchardi, Konrad B., Selim Gulesci, Benedetta Lerva, Munshi Sulaiman (2019), “[Moral Hazard: Experimental Evidence from Tenancy Contracts,](https://academic.oup.com/qje/article/134/1/281/5106373)” *The Quarterly Journal of Economics*, 134(1): 281-347. 
-- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,   
+- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,    
       
     41(2): 219-55. 
 - Shaban, Radwan Ali (1987). "Testing between Competing Models of Sharecropping." *Journal of Political Economy*, 95 (5): 893-920. 
@@ -367,11 +367,9 @@ Political Economy\*, 104(5), 1010-1046. 
 
 - \*\*\* Jensen, Anders (2019). “[Employment Structure and the Rise of the Modern Tax System,](https://www.nber.org/papers/w25502)” NBER Working Paper 25502.
 - \*\*\* Basri, M. Chatib, Mayara Felix, Rema Hanna, and Benjamin A. Olken (2019). “[Tax Administration vs. Tax Rates: Evidence from Corporate Taxation in Indonesia](https://www.nber.org/papers/w26150).” NBER Working Paper 26150.
-- \*\*\* Khan, Adnan Q., Asim Khwaja, and Benjamin A. Olken (2016). “[Tax Farming Redux: Experimental Evidence on Performance Pay for Tax Collectors](https://academic.oup.com/qje/article-abstract/131/1/219/2461220?redirectedFrom=fulltext).” *Quarterly Journal of Economics*, 131(1): 219-271. 
--  
-    
-    \*\*\* Kleven, Henrik Jacobsen, Claus Thustrup Kreiner, and Emmanuel Saez (2016). “[Why Can Modern Governments Tax So Much? An Agency Model of Firms as Fiscal Intermediaries](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecca.12182).” *Economica*, 83: 219–246. 
-- Naritomi, Joana (2019). “Consumers as Tax Auditors,” *American Economic Review,* 109(9): 3031-72*.* 
+-  \*\*\* Khan, Adnan Q., Asim Khwaja, and Benjamin A. Olken (2016). “[Tax Farming Redux: Experimental Evidence on Performance Pay for Tax Collectors](https://academic.oup.com/qje/article-abstract/131/1/219/2461220?redirectedFrom=fulltext).” *Quarterly Journal of Economics*, 131(1): 219-271. 
+- \*\*\*Kleven, Henrik Jacobsen, Claus Thustrup Kreiner, and Emmanuel Saez (2016). “[Why Can Modern Governments Tax So Much? An Agency Model of Firms as Fiscal Intermediaries](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecca.12182)." *Economica*, 83: 219–246.
+- Naritomi, Joana (2019). “Consumers as Tax Auditors,” *American Economic Review,* 109(9): 3031-72*.*
 - Kumler, Todd, Eric Verhoogen, and Judith Frías (2020). “Enlisting Employees in Improving Payroll-Tax Compliance: Evidence from Mexico.” 
 - Gordon, Roger and Wei Li (2009). “Tax Structure in Developing Countries: Many Puzzles and a Possible Explanation,” *Journal of Public Economics*, 93(7-8): 855-866. 
 - Fisman, Raymond and Shang-Jin Wei (2004). “Tax Rates and Tax Evasion: Evidence from ‘Missing Imports’ in China.” *Journal of Political Economy*, 112(2): 471-496. 
