@@ -175,7 +175,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Teacher Absence**
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
-- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.     
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.      
       
     **Curriculum, Pedagogy, Tracking, Inputs, etc.**
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
@@ -240,19 +240,19 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Das J, and P. Gertler (2007). “Variations in Practice Quality in Five Low-Income Countries: A Conceptual Overview.” *Health Affairs*, 26(3):w296-w309.
 - \*\*\* Das, Jishnu, Jeffrey Hammer, and Kenneth Leonard (2008). "[The Quality of Medical Advice in Low-Income Countries](https://www.aeaweb.org/articles?id=10.1257/jep.22.2.93)." *Journal of Economic Perspectives*, 22(2): 93–114. 
 - Leonard, K.L (2009). "The Cost of Imperfect Agency in Health Care: Evidence from Rural Cameroun." *Journal of Development Economics*, 88 (2). 
-- \*\*\*Leonard, K.L. (2008), “Is Patient Satisfaction Sensitive to Changes in the Quality of Care? An Exploitation of the Hawthorne Effect.” *Journal of Health Economics*, Volume 27, Issue 2, Pages 444-459. 
-- Banerjee A, A. Deaton, E. Duflo (2004). “Health Care Delivery in Rural Rajasthan.” Economic and Political Weekly, 15(2):153-57.
-- Das, Jishnu and Jeffrey Hammer (2005). “Which Doctor? Combining Vignettes and Item Response to Measure Clinical Competence.” Journal of Development Economics, Volume 78, Issue 2, December 2005, Pages 348-383. 
-- \*\*\* Das, Jishnu and Jeffrey Hammer (2007). “Location, Location, Location: Residence, Wealth and the Quality of Medical Care in Delhi, India.” Health Aff. 2007; 26(3); w338-w351. 
-- Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2006). "Missing in Action: Teacher and Health Worker Absence in Developing Countries." Journal of Economic Perspectives, 20(1): 91–116. 
-- Das, Jishnu and Hammer, Jeffrey (2007). "Money for Nothing: The Dire Straits of Medical Practice in Delhi, India." Journal of Development Economics, Volume 83, Issue 1, May 2007, Pages 1-36.
+- \*\*\*Leonard, K.L. (2008), “[Is Patient Satisfaction Sensitive to Changes in the Quality of Care? An Exploitation of the Hawthorne Effect](https://pubmed.ncbi.nlm.nih.gov/18192043/).” *Journal of Health Economics*, Volume 27, Issue 2, Pages 444-459. 
+- Banerjee A, A. Deaton, E. Duflo (2004). “Health Care Delivery in Rural Rajasthan.” *Economic and Political Weekly*, 15(2):153-57.
+- Das, Jishnu and Jeffrey Hammer (2005). “Which Doctor? Combining Vignettes and Item Response to Measure Clinical Competence.” *Journal of Development Economics*, Volume 78, Issue 2, December 2005, Pages 348-383. 
+- \*\*\* Das, Jishnu and Jeffrey Hammer (2007). [“Location, Location, Location: Residence, Wealth and the Quality of Medical Care in Delhi, India](https://www.healthaffairs.org/doi/10.1377/hlthaff.26.3.w338).” *Health Aff.* 2007; 26(3); w338-w351. 
+- Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2006). "Missing in Action: Teacher and Health Worker Absence in Developing Countries." *Journal of Economic Perspectives*, 20(1): 91–116. 
+- Das, Jishnu and Hammer, Jeffrey (2007). "Money for Nothing: The Dire Straits of Medical Practice in Delhi, India." *Journal of Development Economics*, Volume 83, Issue 1, May 2007, Pages 1-36.
 - Olken, Benjamin, Junko Onishi, and Susan Wong (2014). “Should Aid Reward Performance? Evidence From a Field Experiment on Health and Education in Indonesia.”*American Economic Journal: Applied Economics6* (4)*.*
-- Banerjee, Abhijit V., Esther Duflo, and Rachel Glennerster (2008). "Putting a band-aid on a corpse: incentives for nurses in the Indian public health care system." Journal of the European Economic Association 6, no. 2-3: 487-500. 
+- Banerjee, Abhijit V., Esther Duflo, and Rachel Glennerster (2008). "Putting a band-aid on a corpse: incentives for nurses in the Indian public health care system." *Journal of the European Economic Association* 6, no. 2-3: 487-500. 
 
 **Infrastructure and the Environment \[for reference only\]**
 
-- Kremer, Michael, Jessica Leino, Edward Miguel, and Alix Peterson Zwane (2011). “Spring Cleaning: Rural Water Impacts, Valuation, and Institutions,” Quarterly Journal of Economics. Vol. 126: 145-205.
-- Kremer, Michael, Alix Peterson Zwane and Amrita Ahuja (2010). “Providing Safe Water: Evidence from Randomized Evaluations.” Annual Review of Resource Economics, Volume 2. 
-- Almond, Douglas, Yuyu Chen, Michael Greenstone, and Hongbin Li (2009). "Winter Heating or Clean Air? Unintended Impacts of China's Huai River Policy." American Economic Review, 99(2): 184–90. 
+- Kremer, Michael, Jessica Leino, Edward Miguel, and Alix Peterson Zwane (2011). “Spring Cleaning: Rural Water Impacts, Valuation, and Institutions,” *Quarterly Journal of Economics*. Vol. 126: 145-205.
+- Kremer, Michael, Alix Peterson Zwane and Amrita Ahuja (2010). “Providing Safe Water: Evidence from Randomized Evaluations.” *Annual Review of Resource Economics*, Volume 2. 
+- Almond, Douglas, Yuyu Chen, Michael Greenstone, and Hongbin Li (2009). "Winter Heating or Clean Air? Unintended Impacts of China's Huai River Policy." *American Economic Review*, 99(2): 184–90. 
 - Burgess, Robin, Dave Donaldson, Olivier Deschenes and Michael Greenstone (2017). “Weather and Death in India: Mechanisms and Implications for Climate Change.” 
-- Buchmann, Nina, Erica M. Field, Rachel Glennerster, and Reshmaan N. Hussam (2019). Throwing the baby out with the drinking water: unintended consequences of arsenic mitigation efforts in Bangladesh. No. w25729. National Bureau of Economic Research.
+- Buchmann, Nina, Erica M. Field, Rachel Glennerster, and Reshmaan N. Hussam (2019). "Throwing the baby out with the drinking water: unintended consequences of arsenic mitigation efforts in Bangladesh." No. w25729. National Bureau of Economic Research.
