@@ -9,7 +9,9 @@ This course was team-taught by Prof. Esther Duflo and Prof. Benjamin Olken
 
 Session 1: Introduction
 
-Session 2–3: Poverty Traps
+Session 2: Poverty Traps: Theory
+
+Session 3: Poverty Traps: Graduation Programs
 
 Session 4–5: Behavioral Development Economics
 
@@ -17,7 +19,7 @@ Session 4–5: Behavioral Development Economics
 
 Session 6: Investing in Human Capital: Theory
 
-Session 7: Household Responses
+Session 7: Demand for Education
 
 Session 8: Private and Social Returns to Education
 
@@ -27,9 +29,7 @@ Session 10: Savings
 
 - *Problem set 2 due*
 
-Session 11: Demand for Health 
-
-Session 12: Supply of Healthcare
+Session 11–12: Demand for Health 
 
 Session 13: Family
 
@@ -41,7 +41,7 @@ Session 15: Gender and the Labor Market
 
 Session 16: Land Markets (Part 1)
 
-Session 17: Public Finance (Redistribution)
+Session 17: Land Markets (Part 2)
 
 - *Problem set 4 due*
 
@@ -53,6 +53,6 @@ Session 19–21: Public Finance 
 - *Replication exercise due*
 - *Research proposal due*
 
-Session 22: Credit (Theory)
+Session 22–23: Labor
 
-Session 23: Credit (Microfinance)
+Session 24–25: Credit
