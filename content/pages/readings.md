@@ -175,7 +175,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Teacher Absence**
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
-- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.             
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.              
       
     **Curriculum, Pedagogy, Tracking, Inputs, etc.**
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
@@ -301,7 +301,7 @@ Political Economy\*, 104(5), 1010-1046. 
 **Sharecropping and Moral Hazard**
 
 - \*\*Burchardi, Konrad B., Selim Gulesci, Benedetta Lerva, Munshi Sulaiman (2019), “[Moral Hazard: Experimental Evidence from Tenancy Contracts,](https://academic.oup.com/qje/article/134/1/281/5106373)” *The Quarterly Journal of Economics*, 134(1): 281-347. 
-- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,     
+- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,      
       
     41(2): 219-55. 
 - Shaban, Radwan Ali (1987). "Testing between Competing Models of Sharecropping." *Journal of Political Economy*, 95 (5): 893-920. 
@@ -415,11 +415,9 @@ Political Economy\*, 104(5), 1010-1046. 
 
 **Urban Labor Markets, Search, and Frictions**
 
-- \*\*\*Blattman, Christopher and Stefan Dercon (2018). “[The Impacts of Industrial and Entrepreneurial Work on Income and Health: Experimental Evidence from Ethiopia](https://www.aeaweb.org/articles?id=10.1257/app.20170173).” *American Economic Journal: Applied Economics*, 
-    
-    10(3): 1-38*.* 
+- \*\*\*Blattman, Christopher and Stefan Dercon (2018). “[The Impacts of Industrial and Entrepreneurial Work on Income and Health: Experimental Evidence from Ethiopia](https://www.aeaweb.org/articles?id=10.1257/app.20170173).” *American Economic Journal: Applied Economics*, 10(3): 1-38*.* 
 - Derenoncourt, Ellora, François Gérard, Lorenzo Lagos, and Claire Montialoux (2021). “Racial Inequality, Minimum Wage Spillovers, and the Informal Sector,” NBER Summer Institute Development Economics.
-- Hjort, Jonas, Xuan Li, and Heather Sarsons, (2020), “Across-Country Wage Compression in Multinationals.” [NBER Working Paper](https://www.nber.org/system/files/working_papers/w26788/w26788.pdf) 
+- Hjort, Jonas, Xuan Li, and Heather Sarsons, (2020), “Across-Country Wage Compression in Multinationals.” [NBER Working Paper](https://www.nber.org/system/files/working_papers/w26788/w26788.pdf)
 - Besley, Timothy and Robin Burgess (2004). “Can Labor Regulation Hinder Economic Performance? Evidence from India.” *Quarterly Journal of Economics*, 119(1): 91-134. 
 - Alfonsi, Livia, Oriana Bandiera, Vittorio Bassi, Robin Burgess, Imran Rasul, Munshi Sulaiman, and Anna Vitali (2020). “Tackling Youth Unemployment: Evidence from a Labor Market Experiment in Uganda.” *Econometrica*, 88(6): 2369-2414. 
 - Bertrand, Marianne, Chang-Tai Hsieh, and Nick Tsivanidis (2017). “Contract Labor and Firm Growth in India.” 
@@ -427,3 +425,47 @@ Political Economy\*, 104(5), 1010-1046. 
 - Wheeler, Laura, Robert Garlick, Eric Johnson, Patrick Shaw, and Marissa Gargano (2021). “LinkedIn(to) Job Opportunities: Experimental Evidence from Job Readiness Training,” *American Economic Journal: Applied Economics (forthcoming)*. Working Paper.
 - \*\*\* Boudreau, Laura (2020). “[Multinational enforcement of labor law: Experimental evidence from Bangladesh’s apparel sector](https://www8.gsb.columbia.edu/researcharchive/articles/26229).” Working Paper.
 - Boudreau, Laura, Rocco Macchiavello, Virginia Minni, and Mari Tanaka (2021). “Union Leaders: Experimental Evidence from Myanmar,” Columbia Business School. Working Paper.
+
+#### Sessions 22–23: Credit 
+
+**Sources of Credit Constraints: Adverse Selection, Moral Hazard, and Monitoring**
+
+- \*\*\* Banerjee, Abhijit (2004)."[Contracting Constraints, Credit Markets, and Economic Development" (PDF)](http://web.mit.edu/14.771/www/con-dev-april-2002-v-6-23.pdf). In M. Dewatripont, L. Hansen and S. Turnovsky, eds. Advances in Economics and Econometrics: Theory and Applications, Eight World Congress of the Econometric Society, Volume III. Cambridge University Press, pp. 1-46. 
+- \*\*\*\*Karlan, Dean and Jonathan Zinman (2009). “[Observing Unobservables: Identifying Information Asymmetries with a Consumer Credit Field Experiment](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA5781).”  *Econometrica*, 77(6): 1993-2008. 
+    
+- Banerjee, Abhijit and Esther Duflo (2010). “Giving Credit Where it is Due.” *Journal of Economic Perspectives*, 24(3): 61-80. 
+- Aleem, Irfan (1990). "Imperfect Information, Screening and the Costs of Informal Lending: A Study of a Rural Credit Market in Pakistan." *World Bank Economic Review*, 4(3): 329-349. 
+- Banerjee, Abhijit and Esther Duflo (2014). "Do Firms Want to Borrow More? Testing Credit Constraints Using a Directed Lending Program." *Review of Economic Studies,* 81 (2): 572-607. 
+
+**Estimating Credit Constraints, and What Happens When You Relax Them**
+
+- \*\*\* McKenzie David, Suresh de Mel, and Christopher Woodruff (2008). “[Returns to Capital in Microenterprises: Evidence from a Field Experiment](https://academic.oup.com/qje/article-abstract/123/4/1329/1933166).” *Quarterly Journal of Economics*, 123(4): 1329-72. 
+- McKenzie, David, Suresh de Mel, and Christopher Woodruff (2012). “One-Time Transfers of Cash or Capital Have Long-Lasting Effects on Microenterprises in Sri Lanka.” *Science*, 335(6071): 962-66. 
+- \*\*\* Townsend, Robert M. and Joseph P. Kaboski (2011), "[A Structural Evaluation of a Large-Scale Quasi-Experimental Microfinance Initiative](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA7079)." *Econometrica*, 79(5): 1357-1406. 
+- Karlan, Dean, Robert Osei, Isaac Osei-Akoto and Christopher Udry (2014). “Agricultural Decisions After Relaxing Credit and Risk Constraints.” *The Quarterly Journal of Economics*, 129 (2): 597-652. 
+- Banerjee, Abhijit and Esther Duflo (2014). "Do Firms Want to Borrow More? Testing Credit Constraints Using a Directed Lending Program." *Review of Economic Studies*, 81(2): 572-607.
+- Keniston, Daniel E. (2011). “Experimental vs. Structural Estimates of the Return to Capital in Microenterprises.” Mimeo, Yale.
+- Blouin, Arthur, and Rocco Macchiavello (2013). “Tropical Lending: International Prices, Strategic Default and Credit Constraints among Coffee Washing Stations.” 
+- Bernhardt, Arielle, Erica Field, Rohini Pande, and Natalia Rigol (2019). “Household Matters: Revisiting the Returns to Capital among Female Microentrepreneurs,” *American Economic Review: Insights*, 1(2): 141-60. 
+
+**Microfinance: Impacts and Mechanisms**
+
+- \*\*\*\*\* Meager, Rachael (2019). “[Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments](https://www.aeaweb.org/articles?id=10.1257/app.20170299),” *American Economic Journal: Applied Economics*, 11(1): 57-91. 
+- \*\*\* Hussam, Reshmaan, Natalia Rigol, and Benjamin N. Roth (2020). “[Targeting High Ability Entrepreneurs Using Community Information: Mechanism Design in The Field](https://www.aeaweb.org/articles?id=10.1257/aer.20200751),” PEDL Research Paper. 
+- \*\*\* Field, Erica, John Papp, Rohini Pande and Natalia Rigol (2013). “[Does the Classic Microfinance Model Discourage Entrepreneurship Among the Poor? Experimental Evidence from India](https://www.aeaweb.org/articles?id=10.1257/aer.103.6.2196),” *American Economic Review*, 103(6): 2196-2226.
+- \*\*\* Karlan, Dean (2007). "[Social Connections and Group Banking](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0297.2007.02015.x)." *The Economic Journal*, 117(517): F52-F84. 
+- \*\*\* Feigenberg, Benjamin, Erica Field and Rohini Pande (2013). “[The Economic Returns to Social Interaction: Experimental Evidence from Microfinance](https://academic.oup.com/restud/article-abstract/80/4/1459/1582821?redirectedFrom=fulltext).” *Review of Economic Studies*, 80(4): 1459-1483. 
+- Bryan, Gharad, Dean Karlan, and Jonathan Zinman (2015). "Referrals: Peer Screening and Enforcement in a Consumer Credit Field Experiment." *American Economic Journal: Microeconomics*, 7(3): 174-204.
+- Giné, Xavier and Dean Karlan (2014). "Group versus Individual Liability: Short and Long Term Evidence from Philippine Microcredit Lending Groups." *Journal of Development Economics*, 107: 65–83. 
+- Field, Erica and Rohini Pande (2008). “Repayment Frequency and Default in Micro-finance: Evidence from India.” *Journal of the European Economics Association Papers and Proceedings 6(2-3): 501-509.* 
+    
+- Banerjee, Abhijit, Dean Karlan and Jonathan Zinman (2015). “Six Randomized Evaluations of Microcredit: Introduction and Further Steps.” *American Economic Journal: Applied Economics*, 7(1): 1-21. 
+- Banerjee, Abhijit, Esther Duflo, Rachel Glennerster, and Cynthia Kinnan (2015). "The Miracle of Microfinance? Evidence from a Randomized Evaluation." *American Economic Journal: Applied Economics*, 7(1): 22-53. 
+- Tarozzi, Alessandro, Jaikishan Desai, and Kristin Johnson (2015). "The Impacts of Microcredit: Evidence from Ethiopia." *American Economic Journal: Applied Economics*, 7(1): 54-89.
+- Attanasio, Orazio, Britta Augsburg, Ralph De Haas, Emla Fitzsimons, and Heike Harmgart (2015). "The Impacts of Microfinance: Evidence from Joint-Liability Lending in Mongolia." *American Economic Journal: Applied Economics*, 7(1): 90-122. 
+- Crépon, Bruno, Florencia Devoto, Esther Duflo, and William Parienté (2015). "Estimating the Impact of Microcredit on Those Who Take It Up: Evidence from a Randomized Experiment in Morocco." *American Economic Journal: Applied Economics*, 7(1): 123-50.
+- Angelucci, Manuela, Dean Karlan, and Jonathan Zinman (2015). "Microcredit Impacts: Evidence from a Randomized Microcredit Program Placement Experiment by Compartamos Banco." *American Economic Journal: Applied Economics*, 7(1): 151-82.
+- Augsburg, Britta, Ralph De Haas, Heike Harmgart, and Costas Meghir (2015). "The Impacts of Microcredit: Evidence from Bosnia and Herzegovina." *American Economic Journal: Applied Economics*, 7(1): 183-203. 
+- Karlan, Dean and Jonathan Zinman (2010). “Expanding Credit Access: Using Randomized Supply Decisions to Estimate the Impacts.” *The Review of Financial Studies*, 23(1): 433-464. 
+- Banerjee, Abhijit (2013). “Microcredit under the Microscope: What Have We Learned in the Past Two Decades, and What Do We Need to Know?” *Annual Review of Economics* 5: 487-519.
+- Karlan, Dean and Jonathan Zinman (2008). “Credit Elasticities in Less Developed Countries: Implications for Microfinance.” *American Economic Review, 98(3): 1040-1068*.
