@@ -175,7 +175,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Teacher Absence**
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
-- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.        
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.         
       
     **Curriculum, Pedagogy, Tracking, Inputs, etc.**
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
@@ -278,3 +278,20 @@ Political Economy\*, 104(5), 1010-1046. 
 - Schaner, Simone (2015). “Do Opposites Detract? Intrahousehold Preference Heterogeneity and Inefficient Strategic Savings.” *American Economic Journal: Applied Economics.* 7(2): 135-74.
 - Schaner, Simone (2016). “The Cost of Convenience? Transaction Costs, Bargaining Power, and Savings Account Use in Kenya.” *Journal of Human Resources*, 52(4): 919-45 
 - Field, Erica, Rohini Pande, Natalia Rigol, Simone Schaner, and Charity Troyer Moore (2021). “On Her Own Account: How Strengthening Women’s Financial Control Impacts Labor Supply and Gender Norms,” *American Economic Review*, 111(7): 2342-75.
+
+#### Sessions 14–15: Gender, Sexual Behavior, and Female Labor Supply
+
+- Bursztyn, Leonardo, Alessandra L. González, and David Yanagizawa-Drott (2020). "Misperceived social norms: Women working outside the home in Saudi Arabia." *American Economic Review* 110, no. 10: 2997-3029.
+- Diva Dhar, Tarun Jain, and Seema Jayachandran (2021). "Reshaping Adolescents' Gender Attitudes: Evidence from a School-Based Experiment in India." 
+- \*\*\* Qian, Nancy (2008). “[Missing Women and the Price of Tea in China](https://academic.oup.com/qje/article-abstract/123/3/1251/1928174).” *Quarterly Journal of Economics*, 123(3), 1251-1285.
+- McKelway, Madeline (2021). "Women’s employment in India: Intra-household and intra-personal constraints."
+- Conlon, John J., Malavika Mani, Gautam Rao, Matthew W. Ridley, and Frank Schilbach (2021). "Learning in the Household." No. w28844. National Bureau of Economic Research. 
+- Duflo, Esther, Pascaline Dupas, and Michael Kremer (2015). "Education, HIV, and early fertility: Experimental evidence from Kenya." *American Economic Review* 105, no. 9: 2757-97. 
+- Ashraf, Nava, Erica Field, and Jean Lee (2014). "Household bargaining and excess fertility: an experimental study in Zambia." *American Economic Review* 104, no. 7: 2210-37. 
+- Munshi, Kaivan, and Jacques Myaux (2006). "Social norms and the fertility transition." *Journal of Development Economics* 80, no. 1: 1-38. 
+- Miller, Grant (2010). "Contraception as development? New evidence from family planning in Colombia." *The Economic Journal* 120, no. 545: 709-736. 
+- Jayachandran, Seema, and Rohini Pande (2017). "Why are Indian children so short? The role of birth order and son preference." *American Economic Review* 107, no. 9: 2600-2629. 
+- Duflo, Esther (2012). "Women empowerment and economic development." *Journal of Economic Literature* 50, no. 4: 1051-79.
+- Jayachandran, Seema (2015). "The Roots of Gender Inequality in Developing Countries." *Annu. Rev. Econ* 7: 63-88.
+- Jayachandran, Seema, and Ilyana Kuziemko (2011). "Why do mothers breastfeed girls less than boys? Evidence and implications for child health in India." *The Quarterly journal of Economics* 126, no. 3: 1485-1538. 
+- Banerjee, Abhijit, Eliana La Ferrara, and Victor H. Orozco-Olvera (2019). "The entertaining way to behavioral change: Fighting HIV with MTV." No. w26096. National Bureau of Economic Research.
