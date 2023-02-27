@@ -175,7 +175,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Teacher Absence**
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
-- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.       
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.        
       
     **Curriculum, Pedagogy, Tracking, Inputs, etc.**
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
@@ -259,9 +259,9 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 
 #### Session 13: Family
 
-***READ IN DETAIL:*** Udry, Christopher (1996). “[Gender, Agricultural Production and the Theory of the Household.](https://www.jstor.org/stable/2138950)” *Journal of 
+***READ IN DETAIL:*** Udry, Christopher (1996). “[Gender, Agricultural Production and the Theory of the Household.](https://www.jstor.org/stable/2138950)” \*Journal of
 
-Political Economy*, 104(5), 1010-1046. 
+Political Economy\*, 104(5), 1010-1046. 
 
 *Other Readings*
 
@@ -275,7 +275,6 @@ Political Economy*, 104(5), 1010-1046. 
 - Lundberg, Shelly J., Robert A. Pollak, and Terence J. Wales (1997). "Do Husbands and Wives Pool their Resources? Evidence from the United Kingdom Child Benefit." *Journal of Human Resources*, 32(3): 463–480. 
 - Ashraf, Nava (2009). "Spousal Control and Intra-Household Decision Making: An Experimental Study in the Philippines." *American Economic Review*, 99(4): 1245-1277. 
 - Robinson, Jonathan (2012). “Limited Insurance Within the Household: Evidence from a Field Experiment in Kenya.” *American Economic Journal: Applied Economics,* 4(4): 140–164.
-- Schaner, Simone (2015). “Do Opposites Detract? Intrahousehold Preference Heterogeneity and Inefficient Strategic Savings.” *American Economic Journal: Applied Economics.* 7(2): 135-74. 
-    
+- Schaner, Simone (2015). “Do Opposites Detract? Intrahousehold Preference Heterogeneity and Inefficient Strategic Savings.” *American Economic Journal: Applied Economics.* 7(2): 135-74.
 - Schaner, Simone (2016). “The Cost of Convenience? Transaction Costs, Bargaining Power, and Savings Account Use in Kenya.” *Journal of Human Resources*, 52(4): 919-45 
 - Field, Erica, Rohini Pande, Natalia Rigol, Simone Schaner, and Charity Troyer Moore (2021). “On Her Own Account: How Strengthening Women’s Financial Control Impacts Labor Supply and Gender Norms,” *American Economic Review*, 111(7): 2342-75.
