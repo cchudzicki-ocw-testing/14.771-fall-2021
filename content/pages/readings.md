@@ -175,7 +175,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Teacher Absence**
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
-- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.              
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.               
       
     **Curriculum, Pedagogy, Tracking, Inputs, etc.**
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
@@ -301,7 +301,7 @@ Political Economy\*, 104(5), 1010-1046. 
 **Sharecropping and Moral Hazard**
 
 - \*\*Burchardi, Konrad B., Selim Gulesci, Benedetta Lerva, Munshi Sulaiman (2019), “[Moral Hazard: Experimental Evidence from Tenancy Contracts,](https://academic.oup.com/qje/article/134/1/281/5106373)” *The Quarterly Journal of Economics*, 134(1): 281-347. 
-- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,      
+- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,       
       
     41(2): 219-55. 
 - Shaban, Radwan Ali (1987). "Testing between Competing Models of Sharecropping." *Journal of Political Economy*, 95 (5): 893-920. 
@@ -431,8 +431,7 @@ Political Economy\*, 104(5), 1010-1046. 
 **Sources of Credit Constraints: Adverse Selection, Moral Hazard, and Monitoring**
 
 - \*\*\* Banerjee, Abhijit (2004)."[Contracting Constraints, Credit Markets, and Economic Development" (PDF)](http://web.mit.edu/14.771/www/con-dev-april-2002-v-6-23.pdf). In M. Dewatripont, L. Hansen and S. Turnovsky, eds. Advances in Economics and Econometrics: Theory and Applications, Eight World Congress of the Econometric Society, Volume III. Cambridge University Press, pp. 1-46. 
-- \*\*\*\*Karlan, Dean and Jonathan Zinman (2009). “[Observing Unobservables: Identifying Information Asymmetries with a Consumer Credit Field Experiment](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA5781).”  *Econometrica*, 77(6): 1993-2008. 
-    
+- \*\*\*\*Karlan, Dean and Jonathan Zinman (2009). “[Observing Unobservables: Identifying Information Asymmetries with a Consumer Credit Field Experiment](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA5781).”  *Econometrica*, 77(6): 1993-2008.
 - Banerjee, Abhijit and Esther Duflo (2010). “Giving Credit Where it is Due.” *Journal of Economic Perspectives*, 24(3): 61-80. 
 - Aleem, Irfan (1990). "Imperfect Information, Screening and the Costs of Informal Lending: A Study of a Rural Credit Market in Pakistan." *World Bank Economic Review*, 4(3): 329-349. 
 - Banerjee, Abhijit and Esther Duflo (2014). "Do Firms Want to Borrow More? Testing Credit Constraints Using a Directed Lending Program." *Review of Economic Studies,* 81 (2): 572-607. 
@@ -457,8 +456,7 @@ Political Economy\*, 104(5), 1010-1046. 
 - \*\*\* Feigenberg, Benjamin, Erica Field and Rohini Pande (2013). “[The Economic Returns to Social Interaction: Experimental Evidence from Microfinance](https://academic.oup.com/restud/article-abstract/80/4/1459/1582821?redirectedFrom=fulltext).” *Review of Economic Studies*, 80(4): 1459-1483. 
 - Bryan, Gharad, Dean Karlan, and Jonathan Zinman (2015). "Referrals: Peer Screening and Enforcement in a Consumer Credit Field Experiment." *American Economic Journal: Microeconomics*, 7(3): 174-204.
 - Giné, Xavier and Dean Karlan (2014). "Group versus Individual Liability: Short and Long Term Evidence from Philippine Microcredit Lending Groups." *Journal of Development Economics*, 107: 65–83. 
-- Field, Erica and Rohini Pande (2008). “Repayment Frequency and Default in Micro-finance: Evidence from India.” *Journal of the European Economics Association Papers and Proceedings 6(2-3): 501-509.* 
-    
+- Field, Erica and Rohini Pande (2008). “Repayment Frequency and Default in Micro-finance: Evidence from India.” *Journal of the European Economics Association Papers and Proceedings 6(2-3): 501-509.*
 - Banerjee, Abhijit, Dean Karlan and Jonathan Zinman (2015). “Six Randomized Evaluations of Microcredit: Introduction and Further Steps.” *American Economic Journal: Applied Economics*, 7(1): 1-21. 
 - Banerjee, Abhijit, Esther Duflo, Rachel Glennerster, and Cynthia Kinnan (2015). "The Miracle of Microfinance? Evidence from a Randomized Evaluation." *American Economic Journal: Applied Economics*, 7(1): 22-53. 
 - Tarozzi, Alessandro, Jaikishan Desai, and Kristin Johnson (2015). "The Impacts of Microcredit: Evidence from Ethiopia." *American Economic Journal: Applied Economics*, 7(1): 54-89.
