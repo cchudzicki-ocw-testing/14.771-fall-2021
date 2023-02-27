@@ -175,7 +175,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Teacher Absence**
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
-- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.      
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.       
       
     **Curriculum, Pedagogy, Tracking, Inputs, etc.**
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
@@ -256,3 +256,26 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Almond, Douglas, Yuyu Chen, Michael Greenstone, and Hongbin Li (2009). "Winter Heating or Clean Air? Unintended Impacts of China's Huai River Policy." *American Economic Review*, 99(2): 184–90. 
 - Burgess, Robin, Dave Donaldson, Olivier Deschenes and Michael Greenstone (2017). “Weather and Death in India: Mechanisms and Implications for Climate Change.” 
 - Buchmann, Nina, Erica M. Field, Rachel Glennerster, and Reshmaan N. Hussam (2019). "Throwing the baby out with the drinking water: unintended consequences of arsenic mitigation efforts in Bangladesh." No. w25729. National Bureau of Economic Research.
+
+#### Session 13: Family
+
+***READ IN DETAIL:*** Udry, Christopher (1996). “[Gender, Agricultural Production and the Theory of the Household.](https://www.jstor.org/stable/2138950)” *Journal of 
+
+Political Economy*, 104(5), 1010-1046. 
+
+*Other Readings*
+
+- \*\*\* Browning, Martin and Pierre-André Chiappori (1998). “[Efficient Intra-Household Allocations: A General Characterization and Empirical.](http://www.jstor.org/stable/2999616?&Search=yes&searchText=econometrica&searchText=chiappori&list=hide&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dchiappori%26gw%3Djtx%26prq%3Deconometrica%26Search%3DSearch%26hp%3D25%26wc%3Don%26swp%3Don&prevSearch=&item=7&ttl=534&returnArticleService=showFullText) *Econometrica*, 66 (6): 1241-1278. 
+- Thomas, Duncan (1994). “Like Father, Like Son: Like Mother, Like Daughter: Parental Resources and Child Height.” *Journal of Human Resources*, 24(4): 950-88. 
+- \*\*\* Duflo, Esther and Christopher Udry (2004). "[Intra-household Resource Allocation in Côte d'Ivoire: Social Norms, Separate Accounts and Consumption Choices](https://www.nber.org/papers/w10498).” NBER Working Paper No. 10498. 
+- \*\*\* Duflo, Esther (2003). "[Grandmothers and Granddaughters: Old Age Pension and Intra-household Allocation in South Africa](https://openknowledge.worldbank.org/handle/10986/17173)." *The* *World Bank Economic Review*, 17(1): 1-25. 
+- Basu, Kaushik (2006). "Gender and Say: A Model of Household Behaviour with Endogenously Determined Balance of Power." *The Economic Journal*, 116(511): 558-580. 
+- Chiappori, Pierre-André, Bernard Fortin and Guy Lacroix (2002). “Marriage Market, Divorce Legislation, and Household Labor Supply.” *Journal of Political Economy*, 110(1): 37-72. 
+- Angrist, Josh (2002). “How Do Sex Ratios Affect Marriage and Labor Markets? Evidence from America’s Second Generation.” *The Quarterly Journal of Economics*, 117(3)997-1038. 
+- Lundberg, Shelly J., Robert A. Pollak, and Terence J. Wales (1997). "Do Husbands and Wives Pool their Resources? Evidence from the United Kingdom Child Benefit." *Journal of Human Resources*, 32(3): 463–480. 
+- Ashraf, Nava (2009). "Spousal Control and Intra-Household Decision Making: An Experimental Study in the Philippines." *American Economic Review*, 99(4): 1245-1277. 
+- Robinson, Jonathan (2012). “Limited Insurance Within the Household: Evidence from a Field Experiment in Kenya.” *American Economic Journal: Applied Economics,* 4(4): 140–164.
+- Schaner, Simone (2015). “Do Opposites Detract? Intrahousehold Preference Heterogeneity and Inefficient Strategic Savings.” *American Economic Journal: Applied Economics.* 7(2): 135-74. 
+    
+- Schaner, Simone (2016). “The Cost of Convenience? Transaction Costs, Bargaining Power, and Savings Account Use in Kenya.” *Journal of Human Resources*, 52(4): 919-45 
+- Field, Erica, Rohini Pande, Natalia Rigol, Simone Schaner, and Charity Troyer Moore (2021). “On Her Own Account: How Strengthening Women’s Financial Control Impacts Labor Supply and Gender Norms,” *American Economic Review*, 111(7): 2342-75.
