@@ -175,7 +175,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Teacher Absence**
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
-- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.            
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.             
       
     **Curriculum, Pedagogy, Tracking, Inputs, etc.**
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
@@ -301,7 +301,7 @@ Political Economy\*, 104(5), 1010-1046. 
 **Sharecropping and Moral Hazard**
 
 - \*\*Burchardi, Konrad B., Selim Gulesci, Benedetta Lerva, Munshi Sulaiman (2019), “[Moral Hazard: Experimental Evidence from Tenancy Contracts,](https://academic.oup.com/qje/article/134/1/281/5106373)” *The Quarterly Journal of Economics*, 134(1): 281-347. 
-- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,    
+- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,     
       
     41(2): 219-55. 
 - Shaban, Radwan Ali (1987). "Testing between Competing Models of Sharecropping." *Journal of Political Economy*, 95 (5): 893-920. 
@@ -382,3 +382,48 @@ Political Economy\*, 104(5), 1010-1046. 
 - Bachas, Pierre, Lucie Gadenne, and Anders Jensen (2020). “Informality, Consumption Taxes, and Redistribution.” NBER Working Paper 27429.
 - Londoño-Vélez, Juliana and Javier Ávila-Mahecha (2021). “Enforcing Wealth Taxes in the Developing World: Quasi-experimental Evidence from Colombia.” *American Economic Review: Insights*, 3(2): 131-48. 
 - Almunia, Miguel, Jonas Hjort, Justine Knebelmann, and Lin Tian (2021). “Strategic or Confused Firms? Evidence from ‘Missing’ Transactions in Uganda.”
+
+#### Sessions 19–21: Labor
+
+**Labor Supply and Labor Demand in Rural Labor Markets**
+
+*Labor Supply: Testing for Separation*
+
+- \*\*\* LaFave, Daniel and Duncan Thomas (2016). “[Farms, Families, and Markets: New Evidence on Completeness of Markets in Agricultural Settings](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA12987).” *Econometrica,* 84(5): 1917-1960. 
+- LaFave, Daniel R., Evan D. Peet, and Duncan Thomas (2020). “Farm Profits, Prices and Household Behavior,” National Bureau of Economic Research.
+
+*Classical Labor Supply*
+
+- Jayachandran, Seema (2006). “Selling Labor Low: Wage Responses to Productivity Shocks in Developing Countries.” *Journal of Political Economy*, 114(3): 538-575. 
+- Imbert, Clément and John Papp (2015). “Labor Market Effects of Social Programs: Evidence from India's Employment Guarantee.” *American Economic Journal: Applied Economics*, 7(2): 233-263.
+- Goldberg, Jessica (2016). "Kwacha Gonna Do? Experimental Evidence about Labor Supply in Rural Malawi.” *American Economic Journal: Applied Economics*, 8(1): 129-149.
+
+*Nominal Rigidities, Behavioral Issues, and Labor Supply*
+
+- Breza, Emily, Supreet Kaur, and Yogita Shamdasani (2019). “Labor Rationing: A Revealed Preference Approach from Hiring Shocks.” 
+- Kaur, Supreet (2019). “Nominal Wage Rigidity in Village Labor Markets.” *American Economic Review*. 109(10): 3588-3616. 
+- Breza, Emily, Supreet Kaur, and Nandita Krishnaswamy (2018). “Scabs: The Social Suppression of Labor Supply.”
+- Schultz, Theodore W. "The Doctrine of Agricultural Labor of Zero Value." Chapter 4 in Transforming Traditional Agriculture. Chicago, IL: University of Chicago Press, 1964.
+- Hussam, Reshmaan, Erin M. Kelley, Gregory Lane, and Fatima Zahra (2021). “The Psychosocial Value of Employment,” NBER Working Paper No. 28924.
+- Agness, Daniel, Travis Baseler, Sylvain Chassang, Pascaline Dupas, and Erik Snowberg (2020). “Valuing the Time of the Self-Employed.” 
+- Oh, Suanna (2020). “Does Identity Affect Labor Supply,” CDEP-CGEG Working Paper Series. 
+- Kaur, Supreet, Sendhil Mullainathan, Suanna Oh, and Frank Schilbach (2021). “Do Financial Concerns Make Workers Less Productive?” 
+
+*Frictions in Labor Demand*
+
+- Fink, Günther, B. Kelsey Jack, and Felix Masiye (2018). “Seasonal Liquidity, Rural Labor Markets and Agricultural Production.” NBER Working Paper No. 24564.
+
+**Urban Labor Markets, Search, and Frictions**
+
+- \*\*\*Blattman, Christopher and Stefan Dercon (2018). “[The Impacts of Industrial and Entrepreneurial Work on Income and Health: Experimental Evidence from Ethiopia](https://www.aeaweb.org/articles?id=10.1257/app.20170173).” *American Economic Journal: Applied Economics*, 
+    
+    10(3): 1-38*.* 
+- Derenoncourt, Ellora, François Gérard, Lorenzo Lagos, and Claire Montialoux (2021). “Racial Inequality, Minimum Wage Spillovers, and the Informal Sector,” NBER Summer Institute Development Economics.
+- Hjort, Jonas, Xuan Li, and Heather Sarsons, (2020), “Across-Country Wage Compression in Multinationals.” [NBER Working Paper](https://www.nber.org/system/files/working_papers/w26788/w26788.pdf) 
+- Besley, Timothy and Robin Burgess (2004). “Can Labor Regulation Hinder Economic Performance? Evidence from India.” *Quarterly Journal of Economics*, 119(1): 91-134. 
+- Alfonsi, Livia, Oriana Bandiera, Vittorio Bassi, Robin Burgess, Imran Rasul, Munshi Sulaiman, and Anna Vitali (2020). “Tackling Youth Unemployment: Evidence from a Labor Market Experiment in Uganda.” *Econometrica*, 88(6): 2369-2414. 
+- Bertrand, Marianne, Chang-Tai Hsieh, and Nick Tsivanidis (2017). “Contract Labor and Firm Growth in India.” 
+- *Carranza, Eliana, Robert Garlick, Kate Orkin, and Neil Rankin (2020). “Job Search and Hiring with Two-Sided Limited Information about Workseekers’ Skills,”* CID Faculty Working Paper No. 383.
+- Wheeler, Laura, Robert Garlick, Eric Johnson, Patrick Shaw, and Marissa Gargano (2021). “LinkedIn(to) Job Opportunities: Experimental Evidence from Job Readiness Training,” *American Economic Journal: Applied Economics (forthcoming)*. Working Paper.
+- \*\*\* Boudreau, Laura (2020). “[Multinational enforcement of labor law: Experimental evidence from Bangladesh’s apparel sector](https://www8.gsb.columbia.edu/researcharchive/articles/26229).” Working Paper.
+- Boudreau, Laura, Rocco Macchiavello, Virginia Minni, and Mari Tanaka (2021). “Union Leaders: Experimental Evidence from Myanmar,” Columbia Business School. Working Paper.
