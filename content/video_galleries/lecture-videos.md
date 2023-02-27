@@ -32,4 +32,3 @@ videos:
   - 624ade5f-87f3-44f3-9c2a-5f85ee7455fe
   website: development-economics
 ---
-This section contains a full set of lecture videos from the course.
