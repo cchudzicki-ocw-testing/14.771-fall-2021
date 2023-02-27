@@ -175,7 +175,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Teacher Absence**
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
-- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.         
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.          
       
     **Curriculum, Pedagogy, Tracking, Inputs, etc.**
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
@@ -295,3 +295,35 @@ Political Economy\*, 104(5), 1010-1046. 
 - Jayachandran, Seema (2015). "The Roots of Gender Inequality in Developing Countries." *Annu. Rev. Econ* 7: 63-88.
 - Jayachandran, Seema, and Ilyana Kuziemko (2011). "Why do mothers breastfeed girls less than boys? Evidence and implications for child health in India." *The Quarterly journal of Economics* 126, no. 3: 1485-1538. 
 - Banerjee, Abhijit, Eliana La Ferrara, and Victor H. Orozco-Olvera (2019). "The entertaining way to behavioral change: Fighting HIV with MTV." No. w26096. National Bureau of Economic Research.
+
+#### Session 16: Land
+
+**Sharecropping and Moral Hazard**
+
+- \*\*Burchardi, Konrad B., Selim Gulesci, Benedetta Lerva, Munshi Sulaiman (2019), “[Moral Hazard: Experimental Evidence from Tenancy Contracts,](https://academic.oup.com/qje/article/134/1/281/5106373)” *The Quarterly Journal of Economics*, 134(1): 281-347. 
+- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*, 
+    
+    41(2): 219-55. 
+- Shaban, Radwan Ali (1987). "Testing between Competing Models of Sharecropping." *Journal of Political Economy*, 95 (5): 893-920. 
+- Laffont, Jean-Jacques, and Mohamed Salah Matoussi (1995). “Moral Hazard, Financial Constraints and Sharecropping in El Oulja.” *Review of Economic Studies*, 62(3): 381-399. 
+- Banerjee, Abhijit (2000). "Prospects and Strategies for Land Reforms." in B. Pleskovic and J. Stiglitz (eds), Annual World Bank Conference on Development Economics 1999. Washington, DC: World Bank, 253-284.
+- Besley, Timothy, and Robin Burgess (2000). "Land Reform, Poverty Reduction, and Growth: Evidence from India." *Quarterly Journal of Economics*, 115(2): 389-430. 
+
+**Property Rights and Investment Decisions**
+
+- \*\* Goldstein, Markus and Christopher Udry (2008). "[The Profits of Power: Land Rights and Agricultural Investment in Ghana](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/595561)." *Journal of Political Economy*, 116 (6): 981-1022. 
+- \*\* Field, Erica (2007). "[Entitled to Work: Urban Property Rights and Labor Supply in Peru](https://www.jstor.org/stable/25098883)." *Quarterly Journal of Economics*, 122(4): 1561-1602. 
+- Goldstein, Markus, Kenneth Houngbedji, Florence Kondylis, Michael O’Sullivan, and Harris Selod (2018). “Formalization without certification? Experimental evidence on property rights and investment.” *Journal of Development Economics,* 132: 57-74.
+- De Janvry, Alain, Kyle Emerick, Marco Gonzalez-Navarro, and Elisabeth Sadoulet (2015). “Delinking Land Rights from Land Use: Certification and Migration in Mexico,” *American Economic Review*, 105(10), 3125-49. 
+- Galán, JS (2020). “Tied to the Land? Intergenerational Mobility and Agrarian Reform in Colombia” Submitted to *Quarterly Journal of Economics.*
+- Banerjee, Abhijit, Paul J. Gertler, and Maitreesh Ghatak (2002). "Empowerment and Efficiency: Tenancy Reform in West Bengal." *Journal of Political Economy*, 110(2): 239-280. 
+- Do, Quy‐Toan and Lakshmi Iyer (2008). "Land Titling and Rural Transition in Vietnam." *Economic Development and Cultural Change*, 56(3): 531-579. 
+- Field, Erica and Maximo Torero (2006). "Do Property Titles Increase Credit Access Among the Urban Poor? Evidence from a Nationwide Titling Program." 
+- Leight, Jessica (2016). “Reallocating Wealth? Insecure Property Rights and Agricultural Investment in Rural China.” *China Economic Review,* 40: 207-227. 
+- Montero, Eduardo (2021). “Cooperative Property Rights and Development: Evidence from a Land Reform in El Salvador.” 
+
+**Land Market Frictions and Reallocation**
+
+- Ravallion, Martin, and Dominique van de Walle (2006). "Land Reallocation in an Agrarian Transition." *The Economic Journal,* 116(514): 924-942. 
+- Bleakley, Hoyt, and Joseph Ferrie (2015). “Land Openings on the Georgia frontier and the Coase Theorem in the Short-and Long-Run.” 
+- Restuccia, Diego and Raul Santaeulalia-Llopis (2017). “Land Misallocation and Productivity.”
