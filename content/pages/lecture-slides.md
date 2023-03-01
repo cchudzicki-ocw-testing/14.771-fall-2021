@@ -67,17 +67,11 @@ Taught by: Prof. Esther Duflo
 
 Covers theoretical and empirical evidence on how people save. Starts with the neoclassical model, then covers behavioral models.
 
-{{% resource_link "419d5e5b-d662-4e1a-a114-3ae0a48525c6" "**Session 11: Demand for Health (Part 1) (PDF - 1.0MB)**" %}}
+{{% resource_link "419d5e5b-d662-4e1a-a114-3ae0a48525c6" "**Sessions 11–12: Demand for Health  (PDF - 1.0MB)**" %}}
 
 Taught by: Prof. Esther Duflo
 
-Discusses issues with the demand for health care, including the low demand for preventative health care but high demand for curative health care. Large focus on the role of social networks and how to test for this.
-
-{{% resource_link "269f9b76-4c27-405a-9ae3-f775e9901f10" "**Session 12: Demand for Health (Part 2) (PDF - 1.3MB)**" %}}
-
-Taught by: Prof. Esther Duflo
-
-Concludes discussion of demand for health care. At the brief, briefly introduces supply of health care, covering the “know-do” gap, private vs public healthcare, and strengthening incentives.
+Discusses issues with the demand for health care, including the low demand for preventative health care but high demand for curative health care. Large focus on the role of social networks and how to test for this. Briefly introduces supply of health care, covering the “know-do” gap, private vs public healthcare, and strengthening incentives.
 
 {{% resource_link "bf980cd1-0d9a-4f95-a60c-7b71acfc87db" "**Session 13: Family (PDF - 1.0MB)**" %}}
 
@@ -85,7 +79,7 @@ Taught by. Prof. Ben Olken
 
 Introduces models of the family. Focuses on the unitary and collective models and discusses their predictions and empirical evidence for/against them. 
 
-{{% resource_link "90ddf1b3-1fe5-41a2-9db7-947c2fa5fed4" "**Session 14: Supply of Healthcare (PDF - 1.7MB)**" %}}
+**Session 14:** {{% resource_link "269f9b76-4c27-405a-9ae3-f775e9901f10" "**Demand for Health (PDF - 1.0MB**" %}} **/** {{% resource_link "90ddf1b3-1fe5-41a2-9db7-947c2fa5fed4" "**Gender and the Family (PDF - 1.7MB)**" %}}
 
 Taught by: Prof. Esther Duflo
 
