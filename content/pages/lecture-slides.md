@@ -79,7 +79,7 @@ Taught by. Prof. Ben Olken
 
 Introduces models of the family. Focuses on the unitary and collective models and discusses their predictions and empirical evidence for/against them. 
 
-**Session 14:** {{% resource_link "269f9b76-4c27-405a-9ae3-f775e9901f10" "**Demand for Health (PDF - 1.0MB**" %}} **/** {{% resource_link "90ddf1b3-1fe5-41a2-9db7-947c2fa5fed4" "**Gender and the Family (PDF - 1.7MB)**" %}}
+**Session 14:** {{% resource_link "269f9b76-4c27-405a-9ae3-f775e9901f10" "**Supply of Healthcare (PDF - 1.0MB**" %}} **/** {{% resource_link "90ddf1b3-1fe5-41a2-9db7-947c2fa5fed4" "**Gender and the Family (PDF - 1.7MB)**" %}}
 
 Taught by: Prof. Esther Duflo
 
@@ -115,13 +115,13 @@ Taught by: Prof. Ben Olken
 
 Continues discussion of how the public sector redistributes. This lecture focuses on empirical evidence on identifying who the recipients of these programs should be. Also includes introduction to GMM.
 
-**Session 20: Public Finance (Part 3) (PDF)**
+{{% resource_link "2f5faeaa-0128-474f-9f55-f53b5399965d" "**Session 20: Public Finance (Part 3) (PDF)**" %}}
 
-Session 21: Public Finance (Part 3, continued) (PDF) / Public Finance 4 (PDF)
+**Session 21:** {{% resource_link "a41c65a2-4f11-4656-a4a8-bb0e36d0cf87" "**Public Finance (Part 3, continued) (PDF)**" %}} **/ Public Finance 4 (PDF) / Labor (Part 1) (PDF)**
 
-**Session 22: Labor (Part 1) (PDF)**
+**Session 22: Labor (Part 2) (PDF)**
 
-**Session 23: Labor (Part 2) (PDF)**
+**Session 23: Labor (Part 3) (PDF)**
 
 Taught by: Prof. Ben Olken
 
