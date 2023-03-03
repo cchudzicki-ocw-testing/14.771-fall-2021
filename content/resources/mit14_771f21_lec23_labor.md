@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.771 Fall 2021 Lectures 19-21: Labor Markets'
+title: 14.771 Fall 2021 Lecture 23 Labor
 uid: 2f737807-0b8a-4a9a-98f6-7bc73b60aa1c
 video_files:
   video_captions_file: ''
