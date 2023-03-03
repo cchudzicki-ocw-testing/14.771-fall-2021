@@ -91,38 +91,46 @@ Taught by: Prof. Esther Duflo
 
 The first part concludes the evidence on gender and the family from the previous lecture. The second part discusses empirical evidence on female labor force participation.
 
-{{% resource_link "673260f0-a059-441f-995b-0338b1014f06" "**Session 16: Land Markets (Part 1) (PDF - 1.3MB)**" %}}
+{{% resource_link "c1539212-3a8d-4430-8368-daf82ab8c4f7" "**Session 16: Land Markets (Part 1) (PDF)**" %}}
 
 Taught by: Prof. Ben Olken
 
 Presents simple principal agent models of land usage and discusses empirical evidence to test them. Topics are why the allocation of land matters and why secure property rights matter.
 
-{{% resource_link "7e39ac42-e7e3-40dd-b38c-4aabb3ffb717" "**Session 17: Public Finance (Part 1) (PDF - 2.4MB)**" %}}
+{{% resource_link "35d91742-89f3-4127-984c-5c47532b5c01" "**Session 17: Land Markets (Part 2) (PDF)**" %}}
 
 Taught by: Prof. Ben Olken
 
 Continues the discussion of land markets from the previous lecture.
 
-{{% resource_link "412fc423-0d71-4cc0-9fe0-9cc63e57e5d3" "**Session 18: Public Finance (Part 2) (PDF - 1.2MB)**" %}}
+**Session 18:** {{% resource_link "8e4d173c-a617-47a7-b041-1568cee9394f" "**Land Markets (Part 3) (PDF)**" %}} **/** {{% resource_link "c5098315-6d48-4a32-b9d4-d6ed5527d75b" "**Public Finance (Part 1) (PDF)**" %}}
 
 Taught by: Prof. Ben Olken
 
 Concludes discussion of land markets. Then begins discussion of the public sector, focusing today on empirical evidence on how social safety nets work, or could work better, in developing countries.
 
-{{% resource_link "3347b14c-af8a-466e-beb5-949a85b5344e" "**Session 19–21: Public Finance (continued) (PDF - 3.0MB)**" %}}
+{{% resource_link "96399221-b035-42e7-93b8-f2ea59d680c5" "**Session 19: Public Finance (Part 2) (PDF - 1.1MB)**" %}}
 
 Taught by: Prof. Ben Olken
 
 Continues discussion of how the public sector redistributes. This lecture focuses on empirical evidence on identifying who the recipients of these programs should be. Also includes introduction to GMM.
 
-{{% resource_link "52fae776-5e38-40bc-a02b-3e552ddda866" "**Session 22: Credit (Part 1) (PDF)**" %}}
+**Session 20: Public Finance (Part 3) (PDF)**
+
+Session 21: Public Finance (Part 3, continued) (PDF) / Public Finance 4 (PDF)
+
+**Session 22: Labor (Part 1) (PDF)**
+
+**Session 23: Labor (Part 2) (PDF)**
 
 Taught by: Prof. Ben Olken
 
 Continues discussion of labor, with this lecture focusing on empirical papers covering rural labor supply.
 
-{{% resource_link "c26ad91f-8bf8-4de6-8291-04930ba58851" "**Session 23: Credit (Part 2) (PDF - 1.3MB)**" %}}
+**Session 24: Labor (Part 3) (PDF - 1.1MB) / Credit (PDF)**
 
 Taught by: Prof. Ben Olken
 
 Concludes discussion of labor. Continues with further empirical evidence on rural labor supply, then moves onto discussion and evidence about urban labor markets.
+
+**Session 25: Credit (PDF)**
