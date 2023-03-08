@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.771 Fall 2021 Lecture 16: Land Markets'
+title: '14.771 Fall 2021 Lecture 16: Land Markets (Part 1)'
 uid: c1539212-3a8d-4430-8368-daf82ab8c4f7
 video_files:
   video_captions_file: ''
