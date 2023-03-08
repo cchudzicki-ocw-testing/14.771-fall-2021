@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.771 Fall 2021 Lectures 22:  Labor Markets'
+title: '14.771 Fall 2021 Lectures 22:  Labor Markets (Part 2)'
 uid: 217df6b4-aaf4-497b-be13-29a7f96005ce
 video_files:
   video_captions_file: ''
