@@ -7,8 +7,6 @@ draft: false
 title: Lecture Slides
 uid: 210b93cc-83fd-4a0e-be7d-fdd67b8ab69d
 ---
-This course was team-taught by Prof. Esther Duflo and Prof. Benjamin Olken. Prof. Frank Schilbach was a guest lecturer for sessions 4 and 5. 
-
 {{% resource_link "b596f9ab-19d0-4170-8a4f-2a89cc063628" "Session 1: Introduction (PDF - 1.8MB)" %}}
 
 {{% resource_link "955fc0d0-ef5f-4943-8532-d3c2164412d6" "Session 2: Poverty Traps: Theory (PDF - 1.0MB)" %}}
