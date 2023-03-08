@@ -36,6 +36,6 @@ video_metadata:
 ---
 Description: The first part concludes the supply of healthcare from Lecture 12. The second part discusses more evidence on the basic household models, including on decision making and information flow.
 
-Lecture 14 slides: {{% resource_link "269f9b76-4c27-405a-9ae3-f775e9901f10" "Supply of Healthcare (PDF - 1.0MB" %}}) / {{% resource_link "90ddf1b3-1fe5-41a2-9db7-947c2fa5fed4" "Gender and the Family (PDF - 1.7MB)" %}}
+Lecture 14 slides: {{% resource_link "bb14bac6-ce8b-47a1-af79-9e45923db151" "Supply of Healthcare (PDF - 1.0MB)" %}} / {{% resource_link "90ddf1b3-1fe5-41a2-9db7-947c2fa5fed4" "Gender and the Family (PDF - 1.7MB)" %}}
 
 Instructor: Esther Duflo
