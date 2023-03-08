@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.771 Fall 2021 Lecture14: Supply of Healthcare'
+title: '14.771 Fall 2021 Lecture 14: Supply of Healthcare'
 uid: bb14bac6-ce8b-47a1-af79-9e45923db151
 video_files:
   video_captions_file: ''
