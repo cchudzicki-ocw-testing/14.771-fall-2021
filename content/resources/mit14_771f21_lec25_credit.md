@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'MIT 14.771 Fall 2021 Lecture 25: Credit'
+title: 'MIT 14.771 Fall 2021 Lecture 25: Credit (Part Two)'
 uid: 72f711a0-d39e-4988-9330-a98925d14770
 video_files:
   video_captions_file: ''
