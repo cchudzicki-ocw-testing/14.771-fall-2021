@@ -34,6 +34,8 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: OlEM_etZCVE
 ---
-Description: The first part concludes the supply of healthcare from Lecture 12. The second part discusses more evidence on the basic household models, including on decisionmaking and information flow.
+Description: The first part concludes the supply of healthcare from Lecture 12. The second part discusses more evidence on the basic household models, including on decision making and information flow.
+
+Lecture 14 slides: Supply of Healthcare (PDF - 1.0MB) / Gender and the Family (PDF - 1.7MB)
 
 Instructor: Esther Duflo
