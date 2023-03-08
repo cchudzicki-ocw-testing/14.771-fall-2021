@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Lecture 11; Demand for Health (Part 1)
+title: 'Lecture 11: Demand for Health (Part 1)'
 uid: f77f3532-b8f4-4300-b164-59b012ee7397
 video_files:
   video_captions_file: /courses/14-771-development-economics-fall-2021/14UzBjs66mtUcKdrmcDe4u__Lm0m1cQx4_transcript.webvtt
