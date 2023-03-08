@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.771 Fall 2021 Lecture 24: Labor'
+title: '14.771 Fall 2021 Lecture 24: Labor (Part 3)'
 uid: 1a550b10-d5ca-4a83-ab39-a14f36ec4f4d
 video_files:
   video_captions_file: ''
