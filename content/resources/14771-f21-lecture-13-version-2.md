@@ -36,4 +36,6 @@ video_metadata:
 ---
 Description: Introduces models of the family. Focuses on the unitary and collective models and discusses their predictions and empirical evidence for/against them. 
 
+{{% resource_link "bf980cd1-0d9a-4f95-a60c-7b71acfc87db" "Lecture 13 slides: Family (PDF - 1.0MB)" %}}
+
 Instructor: Ben Olken
