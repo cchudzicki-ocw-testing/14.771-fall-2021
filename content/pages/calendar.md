@@ -5,54 +5,54 @@ draft: false
 title: Calendar
 uid: 0c86ad82-2fd1-4b52-b14e-472cff5fd0c2
 ---
-This course was team-taught by Prof. Esther Duflo and Prof. Benjamin Olken
+This course was team-taught by Prof. Esther Duflo and Prof. Benjamin Olken. Prof. Frank Schilbach was a guest lecturer for sessions 4 and 5. 
 
-Session 1: Introduction
+Session 1: Introduction (Esther Duflo)
 
-Session 2: Poverty Traps: Theory
+Session 2: Poverty Traps: Theory (Esther Duflo)
 
-Session 3: Poverty Traps: Graduation Programs
+Session 3: Poverty Traps: Graduation Programs (Esther Duflo)
 
-Session 4–5: Behavioral Development Economics
+Session 4–5: Behavioral Development Economics (Frank Schilbach)
 
 - *Problem set 1 due*
 
-Session 6: Investing in Human Capital: Theory
+Session 6: Investing in Human Capital: Theory (Esther Duflo)
 
-Session 7: Demand for Education
+Session 7: Demand for Education (Esther Duflo)
 
-Session 8: Private and Social Returns to Education
+Session 8: Private and Social Returns to Education (Esther Duflo)
 
-Session 9: Supply of Education
+Session 9: Supply of Education (Esther Duflo)
 
-Session 10: Savings
+Session 10: Savings (Esther Duflo)
 
 - *Problem set 2 due*
 
-Session 11–12: Demand for Health 
+Session 11–12: Demand for Health (Esther Duflo)
 
-Session 13: Family
+Session 13: Family (Ben Olken)
 
-Session 14: Gender and the Family
+Session 14: Gender and the Family (Esther Duflo)
 
 - *Problem set 3 due*
 
-Session 15: Gender and the Labor Market
+Session 15: Gender and the Labor Market (Esther Duflo)
 
-Session 16: Land Markets (Part 1)
+Session 16: Land Markets (Part 1) (Ben Olken)
 
-Session 17: Land Markets (Part 2)
+Session 17: Land Markets (Part 2) (Ben Olken)
 
 - *Problem set 4 due*
 
-Session 18: Public Finance (Tax)
+Session 18: Public Finance (Tax) (Ben Olken)
 
-Session 19–21: Public Finance 
+Session 19–21: Public Finance  (Ben Olken)
 
 - *Problem set 5 due*
 - *Replication exercise due*
 - *Research proposal due*
 
-Session 22–23: Labor
+Session 22–23: Labor (Ben Olken)
 
-Session 24–25: Credit
+Session 24–25: Credit (Ben Olken)
