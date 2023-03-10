@@ -37,4 +37,6 @@ video_metadata:
 ---
 Description: Covers empirical evidence on the returns to education. Large focus on methodological challenges of measuring the private and socials returns. Discusses the use of randomization as an instrument and the LATE Theorem.
 
+{{% resource_link "db7e5678-596c-42bd-955b-31652791c27c" "Session 8 lecture slides (PDF - 1.4MB)" %}}
+
 Instructor: Esther Duflo
