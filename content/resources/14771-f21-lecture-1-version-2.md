@@ -36,6 +36,6 @@ video_metadata:
 ---
 **Description:** This video introduces the course. The class discusses the enormous differences in income and other important outcomes around the world. Prof. Duflo previews the main topics of the course.
 
-{{% resource_link "b596f9ab-19d0-4170-8a4f-2a89cc063628" "Session 1 Lecture Slides (PDF - 1.8MB)" %}}
+{{% resource_link "b596f9ab-19d0-4170-8a4f-2a89cc063628" "Session 1 lecture slides (PDF - 1.8MB)" %}}
 
 **Instructor:** Esther Duflo
