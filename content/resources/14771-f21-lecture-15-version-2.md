@@ -36,4 +36,6 @@ video_metadata:
 ---
 Description: The first part concludes the evidence on gender and the family from the previous lecture. The second part discusses empirical evidence on female labor force participation.
 
+Session 15 lecture slides (PDF)
+
 Instructor: Esther Duflo
