@@ -36,4 +36,6 @@ video_metadata:
 ---
 Description: Covers theoretical and empirical evidence on how people save. Starts with the neoclassical model, then covers behavorial models.
 
+Session 10 lecture slides (PDF - 1.6MB)
+
 Instructor: Esther Duflo
