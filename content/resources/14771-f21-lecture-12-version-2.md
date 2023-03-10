@@ -36,4 +36,6 @@ video_metadata:
 ---
 Description: Concludes discussion of demand for health care. At the brief, briefly introduces supply of health care, covering the "know-do" gap, private vs public healthcare, and strengthening incentives
 
+{{% resource_link "419d5e5b-d662-4e1a-a114-3ae0a48525c6" "Session 12 lecture slides (PDF - 1.0MB)" %}}
+
 Instructor: Esther Duflo
