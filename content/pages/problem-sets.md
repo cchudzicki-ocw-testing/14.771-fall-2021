@@ -26,6 +26,8 @@ Problem Set Solutions
 {{% resource_link "2d43d48c-8d4e-44ec-9df7-cd216365e97c" "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
+ 
+
 {{% resource_link "b08155a1-9d56-41dc-8e70-bc6df027952d" "Problem Set 2 Data Set (CSV)" %}}
 
  
