@@ -38,4 +38,6 @@ video_metadata:
 ---
 Description: Part 1 of 2 of Behavioral Development Economics. Introduces and provides history of behavioral development, discusses the Euler Puzzle, provides an application to health, and a discussion of demand for commitment.
 
+{{% resource_link "f591216e-46c3-491b-92c8-aaa9c5722a33" "Session 4 lecture slides (PDF)" %}}
+
 Instructor: Frank Schilbach
