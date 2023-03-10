@@ -37,6 +37,6 @@ video_metadata:
 ---
 **Description:** Part 1 of 2 of Poverty Traps. The first half discusses the Dasgupta and Ray (1986) model of nutrition-based poverty traps. The second half discusses how to use evidence to test for a poverty trap, focusing on evidence for a nutrition-based poverty trap.
 
-{{% resource_link "955fc0d0-ef5f-4943-8532-d3c2164412d6" "Session 2: Lecture Slides (PDF - 1.0MB)" %}}
+{{% resource_link "955fc0d0-ef5f-4943-8532-d3c2164412d6" "Session 2 lecture slides (PDF - 1.0MB)" %}}
 
 **Instructor:** Esther Duflo
