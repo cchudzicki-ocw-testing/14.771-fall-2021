@@ -37,4 +37,6 @@ video_metadata:
 ---
 Description: Discusses issues with the demand for health care, including the low demand for preventative health care but high demand for curative health care. Large focus on the role of social networks and how to test for this.
 
+{{% resource_link "419d5e5b-d662-4e1a-a114-3ae0a48525c6" "Session 11 lecture slides (PDF - 1.0MB)" %}}
+
 Instructor: Esther Duflo
