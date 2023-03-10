@@ -37,4 +37,6 @@ video_metadata:
 ---
 Description: Covers a version of the neoclassical model of human capital investment, with a focus on education, to prepare for coming lectures on education and health. Highlights and discusses the role of various assumptions and policy implications.
 
+{{% resource_link "d67e2f0d-16eb-467c-a66b-16d83ae34b9d" "Session 6 lecture slides (PDF)" %}}
+
 Instructor: Esther Duflo
