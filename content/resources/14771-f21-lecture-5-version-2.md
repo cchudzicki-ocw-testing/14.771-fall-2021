@@ -35,4 +35,6 @@ video_metadata:
 ---
 Description: Part 2 of 2 of Behavioral Development Economics. Discusses papers covering financial strain, sleep, and mental health.
 
+{{% resource_link "36c97074-8ee0-4551-a5d5-eab68b7b259d" "Session 5 lecture slides (PDF)" %}}
+
 Instructor: Frank Schilbach
