@@ -38,4 +38,6 @@ video_metadata:
 ---
 Description: Covers various empirical papers on the demand for educations and what factors households respond to. Discusses responses to direct costs, indirect costs, and information. Also introduces differences in differences.
 
+{{% resource_link "5c55ace2-f3bd-4408-9792-b00c07fa7aa3" "Session 7 lecture slides (PDF - 1.7MB)" %}}
+
 Instructor: Esther Duflo
