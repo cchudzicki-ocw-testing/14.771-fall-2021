@@ -43,7 +43,7 @@ Session 18: {{% resource_link "8e4d173c-a617-47a7-b041-1568cee9394f" "Land Marke
 
 {{% resource_link "96399221-b035-42e7-93b8-f2ea59d680c5" "Session 19: Public Finance (Part 2) (PDF - 1.1MB)" %}}
 
-{{% resource_link "2f5faeaa-0128-474f-9f55-f53b5399965d" "Session 20: Public Finance (Part 3) (PDF)" %}}
+{{% resource_link "72003b12-1cee-46a9-907f-1c8964441787" "Session 20: Public Finance (Part 3) (PDF)" %}}
 
 Session 21: {{% resource_link "a41c65a2-4f11-4656-a4a8-bb0e36d0cf87" "Public Finance 4 (PDF)" %}} / {{% resource_link "0fec286d-cfcb-4937-a1a4-af7ae8efacf3" "Labor (Part 1) (PDF)" %}}
 
