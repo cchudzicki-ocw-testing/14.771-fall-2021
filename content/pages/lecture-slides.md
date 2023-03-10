@@ -31,7 +31,7 @@ uid: 210b93cc-83fd-4a0e-be7d-fdd67b8ab69d
 
 {{% resource_link "bf980cd1-0d9a-4f95-a60c-7b71acfc87db" "Session 13: Family (PDF - 1.0MB)" %}}
 
-Session 14: Supply of Healthcare (PDF - 1.0MB / {{% resource_link "90ddf1b3-1fe5-41a2-9db7-947c2fa5fed4" "Gender and the Family (PDF - 1.7MB)" %}}
+Session 14: {{% resource_link "bb14bac6-ce8b-47a1-af79-9e45923db151" "Supply of Healthcare (PDF - 1.0MB" %}} / {{% resource_link "90ddf1b3-1fe5-41a2-9db7-947c2fa5fed4" "Gender and the Family (PDF - 1.7MB)" %}}
 
 {{% resource_link "c2d29671-e559-404f-9ebb-93fa9d5bdfe0" "Session 15: Gender and the Labor Market (PDF)" %}}
 
