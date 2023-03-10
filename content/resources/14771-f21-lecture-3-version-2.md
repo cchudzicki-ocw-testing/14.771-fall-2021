@@ -37,4 +37,6 @@ video_metadata:
 ---
 Description: Part 2 of 2 of Poverty Traps. Discusses the recent literature on "graduation" programs that provide large capital infusions and assistance aimed at breaking poverty traps. Also introduces the Rubin Causal Model.
 
+Session 3 lecture slides (PDF)
+
 Instructor: Esther Duflo
