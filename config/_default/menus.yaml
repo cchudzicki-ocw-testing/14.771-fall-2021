@@ -36,3 +36,13 @@ leftnav:
   parent: b9604dd4-9a1d-41f8-be09-a70683d6185b
   url: /pages/problem-sets
   weight: 10
+- identifier: 24e70b89-0be0-4c21-b065-5d57239a329f
+  name: Replication Assignment
+  parent: b9604dd4-9a1d-41f8-be09-a70683d6185b
+  url: /pages/replication-assignment
+  weight: 20
+- identifier: 1368f3db-9acc-4bec-a0cf-a238a8077e39
+  name: Research Proposal
+  parent: b9604dd4-9a1d-41f8-be09-a70683d6185b
+  url: /pages/research-proposal
+  weight: 30
