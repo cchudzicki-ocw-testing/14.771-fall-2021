@@ -6,7 +6,7 @@ draft: false
 title: Assignments
 uid: b9604dd4-9a1d-41f8-be09-a70683d6185b
 ---
-Students were asked to complete three assignments for the course:
+Students were asked to complete the following assignments for the course:
 
 - {{% resource_link "6c75a918-cb45-4f97-9b7c-e72163e337da" "Problem Sets" %}}
 - {{% resource_link "24e70b89-0be0-4c21-b065-5d57239a329f" "Replication Assignment" %}}: Write an essay that reviews, replicates, and extends an empirical paper in one of the topics covered in the course.
