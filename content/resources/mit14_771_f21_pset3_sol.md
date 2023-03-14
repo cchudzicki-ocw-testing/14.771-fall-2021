@@ -1,7 +1,7 @@
 ---
 body: ''
 content_type: resource
-draft: false
+draft: true
 file: /courses/14-771-development-economics-fall-2021/mit14_771_f21_pset3_sol.pdf
 file_type: application/pdf
 image_metadata:
