@@ -1,7 +1,7 @@
 ---
 body: ''
 content_type: resource
-draft: false
+draft: true
 file: /courses/14-771-development-economics-fall-2021/pset2_solutionsdo.do
 file_type: application/octet-stream
 image_metadata:
