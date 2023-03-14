@@ -5,6 +5,8 @@ draft: false
 title: Readings
 uid: 5dfbe6d1-5e31-407e-9958-925aac0c4e28
 ---
+Readings marked \*\*\* are required.  
+
 #### Session 1: Introduction
 
 - Banerjee, Abhijit V., and Esther Duflo (2007). "The Economic Lives of the Poor". *Journal of Economic Perspectives,* 21(1): 141-168. 
@@ -21,7 +23,7 @@ uid: 5dfbe6d1-5e31-407e-9958-925aac0c4e28
 
 #### Sessions 2–3: Poverty Traps
 
-***READ IN DETAIL***
+*Read the following in detail:*
 
 - \*\*\* Dasgupta, Partha and Debraj Ray (1986). "[Inequality as a Determinant of Malnutrition and Unemployment: Theory](https://www.semanticscholar.org/paper/Inequality-as-a-Determinant-of-Malnutrition-and-%3A-Dasgupta-Ray/d5eb593a302dee4e4ecb4e87b4fcc2c1973f35e0)." *The Economic Journal*, Vol. 96 (384), pp. 1011-1034. 
 -  \*\*\* Srinivasan, T. N. (1994). "[Destitution: A Discourse." (PDF - 2.4MB)](https://www.jstor.org/stable/pdf/2728797.pdf). *Journal of Economic Literature*, Vol. 32 (4), pp. 1842-55. 
@@ -141,7 +143,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 
 **Evidence (Part 2) –Private and Social returns to education**
 
-*READ IN DETAIL*
+*Read the following in detail:*
 
 \*\*\* Duflo, Esther, Pascaline Dupas, and Michael Kremer (2021). "[The impact of free secondary education: Experimental evidence from Ghana](https://www.nber.org/papers/w28937)." No. w28937. National Bureau of Economic Research.
 
@@ -175,7 +177,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Teacher Absence**
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
-- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.               
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.                
       
     **Curriculum, Pedagogy, Tracking, Inputs, etc.**
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
@@ -217,10 +219,10 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 
 **The demand for health**
 
-*TO READ IN DETAIL*
+*Read the following in detail:*
 
-- Banerjee, Abhijit, Arun G. Chandrasekhar, Esther Duflo, and Matthew O. Jackson (2019). "Using gossips to spread information: Theory and evidence from two randomized controlled trials." *The Review of Economic Studies* 86, no. 6: 2453-2490. 
-- Chernozhukov, Victor, Mert Demirer, Esther Duflo, and Ivan Fernandez-Val (2020). "Generic Machine Learning Inference on Heterogeneous Treatment Effects in Randomized Experiments, with an Application to Immunization in India." No. w24678. National Bureau of Economic Research. 
+- \*\*\* Banerjee, Abhijit, Arun G. Chandrasekhar, Esther Duflo, and Matthew O. Jackson (2019). "Using gossips to spread information: Theory and evidence from two randomized controlled trials." *The Review of Economic Studies* 86, no. 6: 2453-2490. 
+- \*\*\* Chernozhukov, Victor, Mert Demirer, Esther Duflo, and Ivan Fernandez-Val (2020). "Generic Machine Learning Inference on Heterogeneous Treatment Effects in Randomized Experiments, with an Application to Immunization in India." No. w24678. National Bureau of Economic Research. 
 
 **Other readings**
 
@@ -259,9 +261,9 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 
 #### Session 13: Family
 
-***READ IN DETAIL:*** Udry, Christopher (1996). “[Gender, Agricultural Production and the Theory of the Household.](https://www.jstor.org/stable/2138950)” \*Journal of
+*Read the following in detail:*
 
-Political Economy\*, 104(5), 1010-1046. 
+ Udry, Christopher (1996). “[Gender, Agricultural Production and the Theory of the Household.](https://www.jstor.org/stable/2138950)” \*Journal of Political Economy\*, 104(5), 1010-1046. 
 
 *Other Readings*
 
@@ -301,7 +303,7 @@ Political Economy\*, 104(5), 1010-1046. 
 **Sharecropping and Moral Hazard**
 
 - \*\*Burchardi, Konrad B., Selim Gulesci, Benedetta Lerva, Munshi Sulaiman (2019), “[Moral Hazard: Experimental Evidence from Tenancy Contracts,](https://academic.oup.com/qje/article/134/1/281/5106373)” *The Quarterly Journal of Economics*, 134(1): 281-347. 
-- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,       
+- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,        
       
     41(2): 219-55. 
 - Shaban, Radwan Ali (1987). "Testing between Competing Models of Sharecropping." *Journal of Political Economy*, 95 (5): 893-920. 
@@ -449,7 +451,7 @@ Political Economy\*, 104(5), 1010-1046. 
 
 **Microfinance: Impacts and Mechanisms**
 
-- \*\*\*\*\* Meager, Rachael (2019). “[Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments](https://www.aeaweb.org/articles?id=10.1257/app.20170299),” *American Economic Journal: Applied Economics*, 11(1): 57-91. 
+- \*\*\*Meager, Rachael (2019). “[Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments](https://www.aeaweb.org/articles?id=10.1257/app.20170299),” *American Economic Journal: Applied Economics*, 11(1): 57-91. 
 - \*\*\* Hussam, Reshmaan, Natalia Rigol, and Benjamin N. Roth (2020). “[Targeting High Ability Entrepreneurs Using Community Information: Mechanism Design in The Field](https://www.aeaweb.org/articles?id=10.1257/aer.20200751),” PEDL Research Paper. 
 - \*\*\* Field, Erica, John Papp, Rohini Pande and Natalia Rigol (2013). “[Does the Classic Microfinance Model Discourage Entrepreneurship Among the Poor? Experimental Evidence from India](https://www.aeaweb.org/articles?id=10.1257/aer.103.6.2196),” *American Economic Review*, 103(6): 2196-2226.
 - \*\*\* Karlan, Dean (2007). "[Social Connections and Group Banking](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0297.2007.02015.x)." *The Economic Journal*, 117(517): F52-F84. 
