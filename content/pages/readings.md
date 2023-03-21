@@ -7,7 +7,7 @@ uid: 5dfbe6d1-5e31-407e-9958-925aac0c4e28
 ---
 Readings marked \*\*\* are required.  
 
-#### Session 1: Introduction
+### Session 1: Introduction
 
 - Banerjee, Abhijit V., and Esther Duflo (2007). "The Economic Lives of the Poor". *Journal of Economic Perspectives,* 21(1): 141-168. 
 - Banerjee, Abhijit (2008). "Big Answers for Big Questions: The Presumption of Growth Policy." Brookings Global Economy and Development. 
@@ -21,7 +21,7 @@ Readings marked \*\*\* are required.  
 - Sala i Martin, Xavier (2006). "The World Distribution of Income: Falling Poverty and… Convergence, Period." *Quarterly Journal of Economics*, Vol. 121, No. 2: 351-397. 
 - World Bank (2021). “World Development Indicators 2020.”
 
-#### Sessions 2–3: Poverty Traps
+### Sessions 2–3: Poverty Traps
 
 *Read the following in detail:*
 
@@ -54,7 +54,7 @@ Readings marked \*\*\* are required.  
 
 #### Sessions 3–4: Behavioral Economics
 
-1. \*\*\*Bessone, P., Rao, G., Schilbach, F., Schofield, H., & Toma, M. (2021). "[The economic consequences of increasing sleep among the urban poor](https://academic.oup.com/qje/article-abstract/136/3/1887/6217436?redirectedFrom=fulltext)." *The Quarterly Journal of Economics*, 136(3), 1887-1941. 
+\*\*\*Bessone, P., Rao, G., Schilbach, F., Schofield, H., & Toma, M. (2021). "[The economic consequences of increasing sleep among the urban poor](https://academic.oup.com/qje/article-abstract/136/3/1887/6217436?redirectedFrom=fulltext)." *The Quarterly Journal of Economics*, 136(3), 1887-1941. 
 
 **A: General Introduction / reference**
 
@@ -177,7 +177,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Teacher Absence**
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
-- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.                
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.                 
       
     **Curriculum, Pedagogy, Tracking, Inputs, etc.**
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
@@ -303,7 +303,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 **Sharecropping and Moral Hazard**
 
 - \*\*Burchardi, Konrad B., Selim Gulesci, Benedetta Lerva, Munshi Sulaiman (2019), “[Moral Hazard: Experimental Evidence from Tenancy Contracts,](https://academic.oup.com/qje/article/134/1/281/5106373)” *The Quarterly Journal of Economics*, 134(1): 281-347. 
-- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,        
+- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,         
       
     41(2): 219-55. 
 - Shaban, Radwan Ali (1987). "Testing between Competing Models of Sharecropping." *Journal of Political Economy*, 95 (5): 893-920. 
