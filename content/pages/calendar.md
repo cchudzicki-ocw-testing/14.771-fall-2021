@@ -7,17 +7,17 @@ uid: 0c86ad82-2fd1-4b52-b14e-472cff5fd0c2
 ---
 This course was team-taught by Prof. Esther Duflo and Prof. Benjamin Olken. Prof. Frank Schilbach was a guest lecturer for sessions 4 and 5. 
 
-Session 1: Introduction (Esther Duflo)
+**Session 1:** Introduction (Esther Duflo)
 
-Session 2: Poverty Traps: Theory (Esther Duflo)
+**Session 2:** Poverty Traps: Theory (Esther Duflo)
 
-Session 3: Poverty Traps: Graduation Programs (Esther Duflo)
+**Session 3:** Poverty Traps: Graduation Programs (Esther Duflo)
 
-Session 4–5: Behavioral Development Economics (Frank Schilbach)
+**Session 4–5:** Behavioral Development Economics (Frank Schilbach)
 
 - *Problem set 1 due*
 
-Session 6: Investing in Human Capital: Theory (Esther Duflo)
+**Session 6:** Investing in Human Capital: Theory (Esther Duflo)
 
 Session 7: Demand for Education (Esther Duflo)
 
