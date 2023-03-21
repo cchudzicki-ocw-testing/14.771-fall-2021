@@ -37,14 +37,14 @@ Not required reading for this class, but you will find them useful and probably 
 *Books*
 
 - Ray, Debraj. *Development Economics*. Princeton University Press, 1998. ISBN: 9780691017068.
--  Bardhan, Pranab and Christopher Udry. *Development Microeconomics*. Oxford: Oxford University Press, 1999. ISBN: 9780198773719.
--  Banerjee, Abhijit and Esther Duflo. *Poor Economics*. Public Affairs, 2011. ISBN: 9781610390934.
--  Angrist, Josh and Stephen Pishke. *Mostly Harmless Econometrics*. Princeton and Oxford: Princeton University Press, 2009. ISBN: 9780691120355.
--  Imbens, Guido and Donald Rubin. *Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction*. Cambridge University Press, 2015. ISBN: 978-0521885881.
+- Bardhan, Pranab and Christopher Udry. *Development Microeconomics*. Oxford: Oxford University Press, 1999. ISBN: 9780198773719.
+- Banerjee, Abhijit and Esther Duflo. *Poor Economics*. Public Affairs, 2011. ISBN: 9781610390934.
+- Angrist, Josh and Stephen Pishke. *Mostly Harmless Econometrics*. Princeton and Oxford: Princeton University Press, 2009. ISBN: 9780691120355.
+- Imbens, Guido and Donald Rubin. *Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction*. Cambridge University Press, 2015. ISBN: 9780521885881.
 
 *Articles*
 
--  Duflo, Esther, Rachel Glennerster, and Michael Kremer (2007). “[Using Randomization in Development Economics Research: A Toolkit." (PDF)](https://www.povertyactionlab.org/sites/default/files/research-paper/Using-Randomization-in-Development-Economics.pdf.). *Handbook of Development Economics*, 4, Chapter 61. (Recommended)
+- Duflo, Esther, Rachel Glennerster, and Michael Kremer (2007). “[Using Randomization in Development Economics Research: A Toolkit." (PDF)](https://www.povertyactionlab.org/sites/default/files/research-paper/Using-Randomization-in-Development-Economics.pdf.). *Handbook of Development Economics*, 4, Chapter 61. (Recommended)
 - Imbens, Guido and Jeffrey M. Wooldridge (2009). “[Recent Developments in the Econometrics of Program Evaluation” (PDF - 1MB)](https://dash.harvard.edu/bitstream/handle/1/3043416/imbens_recent.pdf?sequence). *Journal of Economic Literature*, 47(1): 5–86. 
 
 See the {{% resource_link "5dfbe6d1-5e31-407e-9958-925aac0c4e28" "Readings section" %}}.
