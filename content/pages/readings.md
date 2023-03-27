@@ -5,7 +5,7 @@ draft: false
 title: Readings
 uid: 5dfbe6d1-5e31-407e-9958-925aac0c4e28
 ---
-Readings marked \*\*\* are required.  
+#### Readings marked \*\*\* are required.  
 
 ## Session 1: Introduction
 
@@ -304,7 +304,7 @@ Read in detail:
 *Sharecropping and Moral Hazard*
 
 - \*\*Burchardi, Konrad B., Selim Gulesci, Benedetta Lerva, Munshi Sulaiman (2019), “[Moral Hazard: Experimental Evidence from Tenancy Contracts,](https://academic.oup.com/qje/article/134/1/281/5106373)” *The Quarterly Journal of Economics*, 134(1): 281-347. 
-- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,           
+- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,            
       
     41(2): 219-55. 
 - Shaban, Radwan Ali (1987). "Testing between Competing Models of Sharecropping." *Journal of Political Economy*, 95 (5): 893-920. 
