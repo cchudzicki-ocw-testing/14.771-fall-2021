@@ -153,7 +153,7 @@ Read in detail:
 - Duflo, Esther, Pascaline Dupas, and Michael Kremer (2015). "Education, HIV, and early fertility: Experimental evidence from Kenya." *American Economic Review* 105, no. 9: 2757-97. 
 - \*\*\* Duflo, Esther (2004). “[The Medium Run Effects of Educational Expansion: Evidence from a Large School Construction Program in Indonesia](https://www.nber.org/papers/w8710).” *Journal of Development Economics*, 74(1), 163-197. 
 
-**Education: The Supply Side  \[Duflo\]**
+Education: The Supply Side  \[Duflo\]
 
 *General*
 
@@ -304,7 +304,7 @@ Read in detail:
 *Sharecropping and Moral Hazard*
 
 - \*\*Burchardi, Konrad B., Selim Gulesci, Benedetta Lerva, Munshi Sulaiman (2019), “[Moral Hazard: Experimental Evidence from Tenancy Contracts,](https://academic.oup.com/qje/article/134/1/281/5106373)” *The Quarterly Journal of Economics*, 134(1): 281-347. 
-- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,             
+- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,              
       
     41(2): 219-55. 
 - Shaban, Radwan Ali (1987). "Testing between Competing Models of Sharecropping." *Journal of Political Economy*, 95 (5): 893-920. 
