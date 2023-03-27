@@ -7,7 +7,7 @@ uid: 5dfbe6d1-5e31-407e-9958-925aac0c4e28
 ---
 Readings marked \*\*\* are required.  
 
-### Session 1: Introduction
+## Session 1: Introduction
 
 - Banerjee, Abhijit V., and Esther Duflo (2007). "The Economic Lives of the Poor". *Journal of Economic Perspectives,* 21(1): 141-168. 
 - Banerjee, Abhijit (2008). "Big Answers for Big Questions: The Presumption of Growth Policy." Brookings Global Economy and Development. 
@@ -21,7 +21,7 @@ Readings marked \*\*\* are required.  
 - Sala i Martin, Xavier (2006). "The World Distribution of Income: Falling Poverty and… Convergence, Period." *Quarterly Journal of Economics*, Vol. 121, No. 2: 351-397. 
 - World Bank (2021). “World Development Indicators 2020.”
 
-### Sessions 2–3: Poverty Traps
+## Sessions 2–3: Poverty Traps
 
 *Read the following in detail:*
 
@@ -52,17 +52,17 @@ Readings marked \*\*\* are required.  
 - Banerjee, Abhijit, Esther Duflo, and Garima Sharma (2021). "Long-Term Effects of the Targeting the Ultra Poor Program." *American Economic Review: Insights* (forthcoming). 
 - Kraay, Aart, and David McKenzie (2014). "Do poverty traps exist? Assessing the evidence." *Journal of Economic Perspectives* 28, no. 3: 127-48.
 
-#### Sessions 3–4: Behavioral Economics
+## Sessions 3–4: Behavioral Economics
 
-\*\*\*Bessone, P., Rao, G., Schilbach, F., Schofield, H., & Toma, M. (2021). "[The economic consequences of increasing sleep among the urban poor](https://academic.oup.com/qje/article-abstract/136/3/1887/6217436?redirectedFrom=fulltext)." *The Quarterly Journal of Economics*, 136(3), 1887-1941. 
+\*\*\*Bessone, P., Rao, G., Schilbach, F., Schofield, H., & Toma, M. (2021). "[The economic consequences of increasing sleep among the urban poor](https://academic.oup.com/qje/article-abstract/136/3/1887/6217436?redirectedFrom=fulltext)." *The Quarterly Journal of Economics*, 136(3), 1887-1941.  
 
-**A: General Introduction / reference**
+*General Introduction / reference*
 
 \*\*\* Kremer, Michael, Gautam Rao, and Frank Schilbach (2019). "[Behavioral Development Economics](https://www.sciencedirect.com/science/article/abs/pii/S2352239918300265)." In *Handbook of Behavioral Economics, Vol. 2*. 2019. ISBN: 9780444633750.
 
 More generally, the recent [*Handbook of Behavioral Economics*](https://www.amazon.com/Handbook-Behavioral-Economics-Foundations-Applications/dp/044463374X) provides great overviews of recent work on various topics, e.g. time preferences, limited attention, beliefs, behavioral IO, etc.
 
-**The Euler Equation Puzzle and Demand for Commitment**
+*The Euler Equation Puzzle and Demand for Commitment*
 
 - \*\*\*Behavioral Development Economics Handbook Chapter (see above), Sections 1 to 4.
 - Banerjee and Duflo (2010). “Growth Theory through the Lens of Development Economics”. Handbook of Economic Growth. 
@@ -77,7 +77,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Bai Liang, Ben Handel, Edward Miguel, and Gautam Rao (2021). “Self-Control and Demand for Preventative Health: Evidence from Hypertension in India.” Review of Economics and Statistics. 
 - Brune, Lasse, Eric Chyn, and Jason Kerwin (2021). “Pay me Later: Savings Contsraints and the Demand for Deferred Payments” American Economic Review 111(7). 2179-2212. 
 
-**Scarcity and Limited Attention**
+*Scarcity and Limited Attention*
 
 - Banerjee, Abhijit V., and Sendhil Mullainathan (2008). "Limited Attention and Income Distribution." *American Economic Review*, 98(2): 489-93. 
 - Mani, A., S. Mullainathan, E. Shafir, and J. Zhao (2013). “Poverty Impedes Cognitive Function.” *Science*, 341, 976-980.
@@ -86,7 +86,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Fehr, Dietmar and Guenther Fink, and Kelsey Jack (2021): “Poor and Rational: Decision-Making under Scarcity.” Mimeo.
 - Kaur, Supreet, Sendhil Mullainathan, Suanna Oh, and Frank Schilbach (2021): “Do Financial Concerns Make Workers Less Productive?”. 
 
-**Sleep**
+*Sleep*
 
 - Lim, Julian and David Dinges (2010). “A Meta-Analysis of the Impact of Short-Term Sleep Deprivation on Cognitive Variables.” Psychological Bulletin 136(3): 375-389. 
 - Walker, Matthew (2017). “Why We Sleep”. 
@@ -103,13 +103,13 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Lund, Crick, et al. (2018). “Economic Impacts of Mental Health Interventions in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis” 
 - McKelway, Maddie (2021). “Women’s Employment in India: Intra-Household and Intra-Personal Constraints”.
 
-#### Sessions 6–9: Education
+## Sessions 6–9: Education
 
-**General Readings on Education (Review Articles)**
+*General Readings on Education (Review Articles)*
 
 - Muralidharan, Karthik (2017). “Field Experiments in Education in Developing Countries.” Draft prepared for the *Handbook of Field Experiments.* 
 
-**The Neo-Classical Model: Returns, Costs, and Budget Constraints**
+*The Neo-Classical Model: Returns, Costs, and Budget Constraints*
 
 - \*\*\* Banerjee, Abhijit (2004). “[Educational Policy and the Economics of the Family.](https://www.sciencedirect.com/science/article/abs/pii/S0304387803001780)” *Journal of Development Economics*, 74 3-32. 
 - Becker, Gary (1981). *A Treatise on the Family.* Harvard University Press. ISBN 9780674906990.
@@ -117,13 +117,13 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Loury, Glenn (1981). “Intergenerational Transfers and the Distribution of Earnings.” *Econometrica*, 49 (4) 843-867.
 - Strauss, John and Duncan Thomas (1995). "Human Resources: Empirical Modeling of Household and Family Decisions." In Behrman, Jere and T.N. Srinivasan, eds., *Handbook of Development Economics, Volume 3*. pp. 1885-2023. 
 
-**Evidence – What do household respond to?**
+*Evidence—What do household respond to?*
 
-***READ IN DETAIL***
+Read in detail:
 
 - Duflo, Esther (2001), "Schooling and Labor Market Consequences of School Construction in Indonesia: Evidence from an Unusual Policy Experiment." *American Economic Review*, Vol. 91 (4), pp 795-813. 
 
-**Perceived Returns and Benefits**
+*Perceived Returns and Benefits*
 
 - \*\*\* Jensen, Robert (2010). “[The Perceived Return to Education and the Demand for Schooling](https://academic.oup.com/qje/article-abstract/125/2/515/1882172?redirectedFrom=fulltext).” *Quarterly Journal of Economics* 125 (2), p 515-548. 
 - \*\*\* Jensen, Robert (2012). "[Do Labor Market Opportunities Affect Young Women's Work and Family Decisions? Experimental Evidence from India](https://academic.oup.com/qje/article-abstract/127/2/753/1823744)." *Quarterly Journal of Economics*, 127(2), p. 753-792.
@@ -131,17 +131,17 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - \*\*\* Jayachandran, Seema and Adriana Lleras-Muney (2009). “[Life Expectancy and Human Capital Investments: Evidence from Maternal Mortality Declines](https://academic.oup.com/qje/article-abstract/124/1/349/1890364?redirectedFrom=fulltext).” *Quarterly Journal of Economics*, Vol 124 (1) pp. 349-397.
 - \*\*\* Qian, Nancy (2008). “[Missing Women and the Price of Tea in China](https://academic.oup.com/qje/article-abstract/123/3/1251/1928174?redirectedFrom=fulltext).” *Quarterly Journal of Economics*, 123(3), 1251-1285. 
 
-**Costs and opportunity costs: School building and Conditional Cash transfers**
+*Costs and opportunity costs: School building and Conditional Cash transfers*
 
 - Benhassine, Najy, Florencia Devoto, Esther Duflo, Pascaline Dupas, and Victor Pouliquen (2015). "Turning a shove into a nudge? A "labeled cash transfer" for education." *American Economic Journal: Economic Policy* 7, no. 3: 86-125.
 - Baird, Sarah, Craig McIntosh, and Berk Özler (2011). "Cash or Condition? Evidence from a Cash Transfer Experiment." Oxford University Press, vol. 126(4), pages 1709-1753.
 
-**Intra-family information gap and behavioral issues**
+*Intra-family information gap and behavioral issues*
 
 - Bursztyn, Leonardo and Lucas C. Coffman (2012). “The Schooling Decision: Family Preferences, Intergenerational Conflict, and Moral Hazard in the Brazilian Favelas.” *Journal of Political Economy*, Vol. 120, No. 3, pp. 359-397. 
 - \*\*\* Dizon-Ross, Rebecca (2019). "[Parents' beliefs about their children's academic ability: Implications for educational investments](https://www.nber.org/papers/w24610)." *American Economic Review* 109, no. 8: 2728-65. 
 
-**Evidence (Part 2) –Private and Social returns to education**
+*Evidence (Part 2)—Private and Social returns to education*
 
 *Read the following in detail:*
 
@@ -153,49 +153,50 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Duflo, Esther, Pascaline Dupas, and Michael Kremer (2015). "Education, HIV, and early fertility: Experimental evidence from Kenya." *American Economic Review* 105, no. 9: 2757-97. 
 - \*\*\* Duflo, Esther (2004). “[The Medium Run Effects of Educational Expansion: Evidence from a Large School Construction Program in Indonesia](https://www.nber.org/papers/w8710).” *Journal of Development Economics*, 74(1), 163-197. 
 
-**Education: The Supply Side  \[Duflo\]**
+### **Education: The Supply Side  \[Duflo\]**
 
-**General**
+*General*
 
 - \*\*\*Banerjee, Abhijit, Rukmini Banerji, James Berry, Esther Duflo, Harini Kannan, Shobhini Mukerji, Marc Shotland, and Michael Walton (2017). "[From proof of concept to scalable policies: Challenges and solutions, with an application](https://www.nber.org/papers/w22931)." *Journal of Economic Perspectives* 31, no. 4: 73-102. 
 - Duflo Esther, Pascaline Dupas, and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74.
 - \*\*\* Glewwe, Paul and Michael Kremer (2006). "[Schools, Teachers, and Education Outcomes in Developing Countries](https://www.hks.harvard.edu/centers/cid/publications/faculty-working-papers/cid-working-paper-no.-122)." in *Handbook of the Economics of Education*, Elsevier. 
 - Duflo, Esther and Michael Kremer (2003). "Use of Randomization in the Evaluation of Development Effectiveness." MIT-Harvard. Proceedings of the Conference on Evaluating Development Effectiveness, July 15-16, 2003, World Bank Operations Evaluation Department (OED) Washington, D.C. 
 
-**Class Size**
+*Class Size*
 
 - \*\*\* Angrist, Joshua and Victor Lavy (1999). "[Using Maimonides' Rule to Estimate the Effect of Class Size on Scholastic Achievement](https://www.jstor.org/stable/2587016)," *Quarterly Journal of Economics*, Vol 114 (2), pp. 533-575. 
 - \*\*\* Urquiola, Miguel and Eric Verhoogen, (2009). “[Class Size Caps, Sorting, and the Regression Discontinuity Design](https://www.aeaweb.org/articles?id=10.1257/aer.99.1.179).” *American Economic Review*. Vol. (99)1: 179–215. 
 
-**Incentives**
+*Incentives*
 
 - Muralidharan, Karthik and Venkatesh Sundararaman (2011). "Teacher Performance Pay: Experimental Evidence from India." *Journal of Political Economy*, Vol. 119, No. 1, pp. 39-77.
 - Glewwe, Paul, Nauman Ilias, and Michael Kremer (2010). "Teacher incentives." *American Economic Journal: Applied Economics* 2, no. 3: 205-27. [Final](http://pubs.aeaweb.org.libproxy.mit.edu/doi/pdfplus/10.1257/app.2.3.205)
 - Kremer, Michael, Edward Miguel, and Rebecca Thornton. "Incentives to learn." *The Review of Economics and Statistics* 91, no. 3 (2009): 437-456. 
 - Duflo, E., Hanna, R., & Ryan, S. P. (2012). “Incentives Work: Getting Teachers to Come to School.”  *The American Economic Review*, 102(4), 1241-1278. 
 
-**Teacher Absence**
+*Teacher Absence*
 
 - Chaudhury, Nazmul, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, and F. Halsey Rogers (2005)."Teacher Absence in India: A Snapshot." *Journal of the European Economic Association*. 3, No. 2-3, Pages 658-667. 
-- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.                 
-      
-    **Curriculum, Pedagogy, Tracking, Inputs, etc.**
+- Banerjee, Abhijit and Esther Duflo (2006). “Addressing Absence.” *Journal of Economic Perspectives*, 20(1) 117-132.                
+
+*Curriculum, Pedagogy, Tracking, Inputs, etc.*
+
 - \*\*\*Duflo Esther, Pascaline Dupas and Michael Kremer (2011). “Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya.” *American Economic Review*, Vol.101(5), pp. 1739-74. 
 - Glewwe, Paul, Michael Kremer and Sylvie Moulin (2009). "Many Children Left Behind? Textbooks and Test Scores in Kenya." *American Economic Journal: Applied Economics*, Vol.1(1)112-135. [Final](http://pubs.aeaweb.org.libproxy.mit.edu/doi/pdfplus/10.1257/app.1.1.112)
 - Muralidharan, Karthik and Venkatesh Sundararaman (2013). “Contract Teachers: Experimental Evidence from India.” 
 - Banerjee, Abhijit, Shawn Cole, Esther Duflo and Leigh Linden (2007). "Remedying Education: Evidence from Two Randomized Experiments in India." *Quarterly Journal of Economics*, Vol. 122 (3) 1235-1264. 
 - Dillon, Moira R., Harini Kannan, Joshua T. Dean, Elizabeth S. Spelke, and Esther Duflo (2017). "Cognitive science in the field: A preschool intervention durably enhances intuitive but not formal mathematics." *Science* 357, no. 6346: 47-55.
 
-**School Choice**
+*School Choice*
 
 - Angrist, Joshua, Eric Bettinger, and Michael Kremer, (2006). “Long-Term Educational Consequences of Secondary School Vouchers: Evidence from Administrative Records in Colombia.” *American Economic Review.* Volume 96(3) 847-862. 
 - Angrist, Joshua, Eric Bettinger, Erik Bloom, Michael Kremer and Elizabeth King (2002). “Vouchers for Private Schooling in Colombia: Evidence from Randomized Natural Experiments.” *The American Economic Review*, December, Volume 92(5) 1535-1558. 
 - Urquiola, Miguel and Chang-Tai Hsieh, (2006). “The Effects of Generalized School Choice on Achievement and Stratification: Evidence from Chile's School Voucher Program.” *Journal of Public Economics*, 90 (8-9) 1477-1503. 
 - Foster, Andrew and Mark Rosenzweig (1996). “Technical Change and Human-Capital Returns and Investments: Evidence from the Green Revolution.” *American Economic Review*, 86(4) 931-953.
 
-#### Session 10: Time Preferences and Savings
+## Session 10: Time Preferences and Savings
 
-**Hyperbolic Discounting/Time Preferences, Demand for commitment**
+*Hyperbolic Discounting/Time Preferences, Demand for commitment*
 
 - Ericson, Keith Marzilli, and David Laibson (2019). "Intertemporal choice." In *Handbook of Behavioral Economics: Applications and Foundations* 1, vol. 2, pp. 1-67. North-Holland. 
 - Cohen, J.D, K.M. Ericson, D. Laibson, and J.M. White (2020). “Measuring Time Preferences.” *Journal of Economic Literature*. 58(2): 299-347.
@@ -205,7 +206,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Andreoni, James, Michael Callen, Karrar Jaffar, Yasir Khan, and Charles Sprenger (2020). “Using Preference Estimates to Customize Incentives: An Application to Polio Vaccination Drives in Pakistan.” NBER.
 - Schilbach, Frank (2019). “Alcohol and Self-Control: A Field Experiment in India.”, *American Economic Review*. 109(4): 1290-1322. 
 
-**Savings**
+*Savings*
 
 - Ashraf, Nava, Dean Karlan, and Wesley Yin (2006). "Tying Odysseus to the mast: Evidence from a commitment savings product in the Philippines." *The Quarterly Journal of Economics* 121, no. 2: 635-672. 
 - Blumenstock, Joshua, Michael Callen, and Tarek Ghani (2018). "Why do defaults affect behavior? Experimental evidence from Afghanistan." *American Economic Review* 108, no. 10: 2868-2901.
@@ -215,16 +216,16 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Dupas, Pascaline, Dean Karlan, Jonathan Robinson, and Diego Ubfal (2018). "Banking the unbanked? Evidence from three countries." *American Economic Journal: Applied Economics* 10, no. 2: 257-97.
 - Schaner, Simone (2018). "The persistent power of behavioral change: Long-run impacts of temporary savings subsidies for the poor." *American Economic Journal: Applied Economics* 10, no. 3: 67-100.
 
-#### Sessions 11–12: Health
+## Sessions 11–12: Health
 
-**The demand for health**
+*The demand for health*
 
 *Read the following in detail:*
 
 - \*\*\* Banerjee, Abhijit, Arun G. Chandrasekhar, Esther Duflo, and Matthew O. Jackson (2019). "Using gossips to spread information: Theory and evidence from two randomized controlled trials." *The Review of Economic Studies* 86, no. 6: 2453-2490. 
 - \*\*\* Chernozhukov, Victor, Mert Demirer, Esther Duflo, and Ivan Fernandez-Val (2020). "Generic Machine Learning Inference on Heterogeneous Treatment Effects in Randomized Experiments, with an Application to Immunization in India." No. w24678. National Bureau of Economic Research. 
 
-**Other readings**
+*Other readings*
 
 - \*\*\* Dupas, Pascaline (2014). “[Short-Run Subsidies and Long-Run Adoption of New Health Products: Evidence from a Field Experiment.](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA9508)” *Econometrica* 82(1), pp. 197-28. 
 - Cohen, Jessica and Pascaline Dupas (2010). “Free Distribution or Cost-Sharing? Evidence from a Randomized Malaria Prevention Experiment.” *Quarterly Journal of Economics* 125 (1), pp.1-45. 
@@ -235,7 +236,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Banerjee, Abhijit, Esther Duflo, Rachel Glennerster, Dhruva Kothari (2010). "Improving Immunisation Coverage in Rural India: Clustered Randomised Controlled Evaluation of Immunisation Campaigns With and Without Incentives." *BMJ*, 340:c2220. 
 - Thornton, Rebecca L. (2008). "The Demand for, and Impact of, Learning HIV Status." *American Economic Review*, 98(5): 1829-63.
 
-**Health Care**
+*Health Care*
 
 - \*\*\* Das, Jishnu, Alaka Holla, Aakash Mohpal, and Karthik Muralidharan (2016). "[Quality and accountability in health care delivery: audit-study evidence from primary care in India.](https://www.aeaweb.org/articles?id=10.1257/aer.20151138)" *American Economic Review* 106, no. 12: 3765-99. 
 - Das, Jishnu, Alaka Holla, Veena Das, Manoj Mohanan, Diana Tabak, and Brian Chan (2012). "In urban and rural India, a standardized patient study showed low levels of provider training and huge quality gaps." *Health Affairs* 31, no. 12: 2774-2784. 
@@ -251,7 +252,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Olken, Benjamin, Junko Onishi, and Susan Wong (2014). “Should Aid Reward Performance? Evidence From a Field Experiment on Health and Education in Indonesia.”*American Economic Journal: Applied Economics6* (4)*.*
 - Banerjee, Abhijit V., Esther Duflo, and Rachel Glennerster (2008). "Putting a band-aid on a corpse: incentives for nurses in the Indian public health care system." *Journal of the European Economic Association* 6, no. 2-3: 487-500. 
 
-**Infrastructure and the Environment \[for reference only\]**
+*Infrastructure and the Environment \[for reference only\]*
 
 - Kremer, Michael, Jessica Leino, Edward Miguel, and Alix Peterson Zwane (2011). “Spring Cleaning: Rural Water Impacts, Valuation, and Institutions,” *Quarterly Journal of Economics*. Vol. 126: 145-205.
 - Kremer, Michael, Alix Peterson Zwane and Amrita Ahuja (2010). “Providing Safe Water: Evidence from Randomized Evaluations.” *Annual Review of Resource Economics*, Volume 2. 
@@ -259,7 +260,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Burgess, Robin, Dave Donaldson, Olivier Deschenes and Michael Greenstone (2017). “Weather and Death in India: Mechanisms and Implications for Climate Change.” 
 - Buchmann, Nina, Erica M. Field, Rachel Glennerster, and Reshmaan N. Hussam (2019). "Throwing the baby out with the drinking water: unintended consequences of arsenic mitigation efforts in Bangladesh." No. w25729. National Bureau of Economic Research.
 
-#### Session 13: Family
+## Session 13: Family
 
 *Read the following in detail:*
 
@@ -281,7 +282,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Schaner, Simone (2016). “The Cost of Convenience? Transaction Costs, Bargaining Power, and Savings Account Use in Kenya.” *Journal of Human Resources*, 52(4): 919-45 
 - Field, Erica, Rohini Pande, Natalia Rigol, Simone Schaner, and Charity Troyer Moore (2021). “On Her Own Account: How Strengthening Women’s Financial Control Impacts Labor Supply and Gender Norms,” *American Economic Review*, 111(7): 2342-75.
 
-#### Sessions 14–15: Gender, Sexual Behavior, and Female Labor Supply
+## Sessions 14–15: Gender, Sexual Behavior, and Female Labor Supply
 
 - Bursztyn, Leonardo, Alessandra L. González, and David Yanagizawa-Drott (2020). "Misperceived social norms: Women working outside the home in Saudi Arabia." *American Economic Review* 110, no. 10: 2997-3029.
 - Diva Dhar, Tarun Jain, and Seema Jayachandran (2021). "Reshaping Adolescents' Gender Attitudes: Evidence from a School-Based Experiment in India." 
@@ -298,12 +299,12 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Jayachandran, Seema, and Ilyana Kuziemko (2011). "Why do mothers breastfeed girls less than boys? Evidence and implications for child health in India." *The Quarterly journal of Economics* 126, no. 3: 1485-1538. 
 - Banerjee, Abhijit, Eliana La Ferrara, and Victor H. Orozco-Olvera (2019). "The entertaining way to behavioral change: Fighting HIV with MTV." No. w26096. National Bureau of Economic Research.
 
-#### Session 16: Land
+## Session 16: Land
 
-**Sharecropping and Moral Hazard**
+*Sharecropping and Moral Hazard*
 
 - \*\*Burchardi, Konrad B., Selim Gulesci, Benedetta Lerva, Munshi Sulaiman (2019), “[Moral Hazard: Experimental Evidence from Tenancy Contracts,](https://academic.oup.com/qje/article/134/1/281/5106373)” *The Quarterly Journal of Economics*, 134(1): 281-347. 
-- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,         
+- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,          
       
     41(2): 219-55. 
 - Shaban, Radwan Ali (1987). "Testing between Competing Models of Sharecropping." *Journal of Political Economy*, 95 (5): 893-920. 
@@ -311,7 +312,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Banerjee, Abhijit (2000). "Prospects and Strategies for Land Reforms." in B. Pleskovic and J. Stiglitz (eds), Annual World Bank Conference on Development Economics 1999. Washington, DC: World Bank, 253-284.
 - Besley, Timothy, and Robin Burgess (2000). "Land Reform, Poverty Reduction, and Growth: Evidence from India." *Quarterly Journal of Economics*, 115(2): 389-430. 
 
-**Property Rights and Investment Decisions**
+*Property Rights and Investment Decisions*
 
 - \*\* Goldstein, Markus and Christopher Udry (2008). "[The Profits of Power: Land Rights and Agricultural Investment in Ghana](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/595561)." *Journal of Political Economy*, 116 (6): 981-1022. 
 - \*\* Field, Erica (2007). "[Entitled to Work: Urban Property Rights and Labor Supply in Peru](https://www.jstor.org/stable/25098883)." *Quarterly Journal of Economics*, 122(4): 1561-1602. 
@@ -324,13 +325,13 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Leight, Jessica (2016). “Reallocating Wealth? Insecure Property Rights and Agricultural Investment in Rural China.” *China Economic Review,* 40: 207-227. 
 - Montero, Eduardo (2021). “Cooperative Property Rights and Development: Evidence from a Land Reform in El Salvador.” 
 
-**Land Market Frictions and Reallocation**
+*Land Market Frictions and Reallocation*
 
 - Ravallion, Martin, and Dominique van de Walle (2006). "Land Reallocation in an Agrarian Transition." *The Economic Journal,* 116(514): 924-942. 
 - Bleakley, Hoyt, and Joseph Ferrie (2015). “Land Openings on the Georgia frontier and the Coase Theorem in the Short-and Long-Run.” 
 - Restuccia, Diego and Raul Santaeulalia-Llopis (2017). “Land Misallocation and Productivity.”
 
-#### Sessions 17–18: Public Finance
+#### ***Sessions 17–18: Public Finance***
 
 **The Design of Transfer Programs**
 
@@ -385,7 +386,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Londoño-Vélez, Juliana and Javier Ávila-Mahecha (2021). “Enforcing Wealth Taxes in the Developing World: Quasi-experimental Evidence from Colombia.” *American Economic Review: Insights*, 3(2): 131-48. 
 - Almunia, Miguel, Jonas Hjort, Justine Knebelmann, and Lin Tian (2021). “Strategic or Confused Firms? Evidence from ‘Missing’ Transactions in Uganda.”
 
-#### Sessions 19–21: Labor
+## Sessions 19–21: Labor
 
 **Labor Supply and Labor Demand in Rural Labor Markets**
 
@@ -415,7 +416,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 
 - Fink, Günther, B. Kelsey Jack, and Felix Masiye (2018). “Seasonal Liquidity, Rural Labor Markets and Agricultural Production.” NBER Working Paper No. 24564.
 
-**Urban Labor Markets, Search, and Frictions**
+*Urban Labor Markets, Search, and Frictions*
 
 - \*\*\*Blattman, Christopher and Stefan Dercon (2018). “[The Impacts of Industrial and Entrepreneurial Work on Income and Health: Experimental Evidence from Ethiopia](https://www.aeaweb.org/articles?id=10.1257/app.20170173).” *American Economic Journal: Applied Economics*, 10(3): 1-38*.* 
 - Derenoncourt, Ellora, François Gérard, Lorenzo Lagos, and Claire Montialoux (2021). “Racial Inequality, Minimum Wage Spillovers, and the Informal Sector,” NBER Summer Institute Development Economics.
@@ -428,9 +429,9 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - \*\*\* Boudreau, Laura (2020). “[Multinational enforcement of labor law: Experimental evidence from Bangladesh’s apparel sector](https://www8.gsb.columbia.edu/researcharchive/articles/26229).” Working Paper.
 - Boudreau, Laura, Rocco Macchiavello, Virginia Minni, and Mari Tanaka (2021). “Union Leaders: Experimental Evidence from Myanmar,” Columbia Business School. Working Paper.
 
-#### Sessions 22–23: Credit 
+## Sessions 22–23: Credit 
 
-**Sources of Credit Constraints: Adverse Selection, Moral Hazard, and Monitoring**
+*Sources of Credit Constraints: Adverse Selection, Moral Hazard, and Monitoring*
 
 - \*\*\* Banerjee, Abhijit (2004)."[Contracting Constraints, Credit Markets, and Economic Development" (PDF)](http://web.mit.edu/14.771/www/con-dev-april-2002-v-6-23.pdf). In M. Dewatripont, L. Hansen and S. Turnovsky, eds. Advances in Economics and Econometrics: Theory and Applications, Eight World Congress of the Econometric Society, Volume III. Cambridge University Press, pp. 1-46. 
 - \*\*\*\*Karlan, Dean and Jonathan Zinman (2009). “[Observing Unobservables: Identifying Information Asymmetries with a Consumer Credit Field Experiment](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA5781).”  *Econometrica*, 77(6): 1993-2008.
@@ -438,7 +439,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Aleem, Irfan (1990). "Imperfect Information, Screening and the Costs of Informal Lending: A Study of a Rural Credit Market in Pakistan." *World Bank Economic Review*, 4(3): 329-349. 
 - Banerjee, Abhijit and Esther Duflo (2014). "Do Firms Want to Borrow More? Testing Credit Constraints Using a Directed Lending Program." *Review of Economic Studies,* 81 (2): 572-607. 
 
-**Estimating Credit Constraints, and What Happens When You Relax Them**
+*Estimating Credit Constraints, and What Happens When You Relax Them*
 
 - \*\*\* McKenzie David, Suresh de Mel, and Christopher Woodruff (2008). “[Returns to Capital in Microenterprises: Evidence from a Field Experiment](https://academic.oup.com/qje/article-abstract/123/4/1329/1933166).” *Quarterly Journal of Economics*, 123(4): 1329-72. 
 - McKenzie, David, Suresh de Mel, and Christopher Woodruff (2012). “One-Time Transfers of Cash or Capital Have Long-Lasting Effects on Microenterprises in Sri Lanka.” *Science*, 335(6071): 962-66. 
@@ -449,7 +450,7 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 - Blouin, Arthur, and Rocco Macchiavello (2013). “Tropical Lending: International Prices, Strategic Default and Credit Constraints among Coffee Washing Stations.” 
 - Bernhardt, Arielle, Erica Field, Rohini Pande, and Natalia Rigol (2019). “Household Matters: Revisiting the Returns to Capital among Female Microentrepreneurs,” *American Economic Review: Insights*, 1(2): 141-60. 
 
-**Microfinance: Impacts and Mechanisms**
+*Microfinance: Impacts and Mechanisms*
 
 - \*\*\*Meager, Rachael (2019). “[Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments](https://www.aeaweb.org/articles?id=10.1257/app.20170299),” *American Economic Journal: Applied Economics*, 11(1): 57-91. 
 - \*\*\* Hussam, Reshmaan, Natalia Rigol, and Benjamin N. Roth (2020). “[Targeting High Ability Entrepreneurs Using Community Information: Mechanism Design in The Field](https://www.aeaweb.org/articles?id=10.1257/aer.20200751),” PEDL Research Paper. 
