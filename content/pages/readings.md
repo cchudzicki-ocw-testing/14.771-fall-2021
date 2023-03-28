@@ -9,7 +9,7 @@ Readings marked \*\*\* are required.  
 
 ## Session 1: Introduction
 
-- Banerjee, Abhijit V., and Esther Duflo (2007). "The Economic Lives of the Poor". *Journal of Economic Perspectives,* 21(1): 141-168. 
+- Banerjee, Abhijit V., and Esther Duflo (2007). "The Economic Lives of the Poor." *Journal of Economic Perspectives,* 21(1): 141-168. 
 - Banerjee, Abhijit V., (2008). "Big Answers for Big Questions: The Presumption of Growth Policy." Brookings Global Economy and Development. 
 - Acemoglu, Daron, Simon Johnson, and James A. Robinson (2001). “The Colonial Origins of Comparative Development: An Empirical Investigation.” *American Economic Review*, 91(5), 1369-1401.
 - Acemoglu, Daron, Simon Johnson, and James A. Robinson (2002). “Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution." *The Quarterly Journal of Economics*, 117(4), 1231-1294. 
