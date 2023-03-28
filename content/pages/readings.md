@@ -10,15 +10,15 @@ Readings marked \*\*\* are required.  
 ## Session 1: Introduction
 
 - Banerjee, Abhijit V., and Esther Duflo (2007). "The Economic Lives of the Poor". *Journal of Economic Perspectives,* 21(1): 141-168. 
-- Banerjee, Abhijit (2008). "Big Answers for Big Questions: The Presumption of Growth Policy." Brookings Global Economy and Development. 
+- Banerjee, Abhijit V., (2008). "Big Answers for Big Questions: The Presumption of Growth Policy." Brookings Global Economy and Development. 
 - Acemoglu, Daron, Simon Johnson, and James A. Robinson (2001). “The Colonial Origins of Comparative Development: An Empirical Investigation.” *American Economic Review*, 91(5), 1369-1401.
-- Acemoglu, Daron, Simon Johnson, and James A. Robinson (2002). “Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution." *Quarterly Journal of Economics*, 117(4), 1231-1294. 
+- Acemoglu, Daron, Simon Johnson, and James A. Robinson (2002). “Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution." *The Quarterly Journal of Economics*, 117(4), 1231-1294. 
 - Mankiw, N. Gregory, David Romer, and David N. Weil (1992). “A Contribution to the Empirics of Economic Growth." *The Quarterly Journal of Economics*, Vol. 107, No. 2, 407-437. 
 - Caselli, Francesco (2005), “Accounting for Cross-Country Income Differences.” In Philippe Aghion & Steven Durlauf (ed.), *Handbook of Economic Growth*, edition 1, volume 1, chapter 9, pages 679-741. 
 - Dollar, David and Aart Kraay (2002). "Growth Is Good for the Poor." *Journal of Economic Growth*, 7, 195-225. 
 - Bills, Mark and Pete Klenow (2000). “Does Schooling Cause Growth?” *American Economic Review*, 90(5), 1160-1183. 
 - Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi (2002), “Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development,” *Journal of Economic Growth*, 9(2), 131-165. 
-- Sala i Martin, Xavier (2006). "The World Distribution of Income: Falling Poverty and… Convergence, Period." *Quarterly Journal of Economics*, Vol. 121, No. 2: 351-397. 
+- Sala-i-Martin, Xavier (2006). "The World Distribution of Income: Falling Poverty and… Convergence, Period." *The* *Quarterly Journal of Economics*, Vol. 121, No. 2: 351-397. 
 - World Bank (2021). “World Development Indicators 2020.”
 
 ## Sessions 2–3: Poverty Traps
@@ -40,7 +40,7 @@ Readings marked \*\*\* are required.  
 - \*\*\* Banerjee, Abhijit and Esther Duflo (2004). “[Growth Theory through the Lens of Development Economics” (PDF)](https://economics.mit.edu/sites/default/files/2022-08/Growth%20Theory%20Through%20the%20Lens%20of%20Development%20Econ.pdf). Section 2.1.2. 
 - \*\*\* Haushofer, Johannes and Jeremy Shapiro (2016). “[The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7575201/).” *The Quarterly Journal of Economics*, Volume 131, Issue 4, Pages 1973–2042
 - Jensen, Robert and Nolan Miller (2011). “Do Consumer Price Subsidies Really Improve Nutrition?” *Review of Economics and Statistics*, Vol. 93(4), pp. 1205-1223. 
-- Jensen, Robert and Nolan Miller (2008). “Giffen Behavior and Subsistence Consumption.” *American Economic Review*, 98(4), p. 1553 − 1577. 
+- Jensen, Robert and Nolan Miller (2008). “Giffen Behavior and Subsistence Consumption.” *American Economic Review*, 98(4), p. 1553−1577. 
 - Strauss, John and Duncan Thomas (1998). “Health, Nutrition and Economic Development.” *Journal of Economic Literature*, Vol. 36 (2), 766-817. 
 
 *Breaking the poverty trap: Ultra-poor programs*
@@ -65,11 +65,11 @@ More generally, the recent [*Handbook of Behavioral Economics*](https://www.amaz
 *The Euler Equation Puzzle and Demand for Commitment*
 
 - \*\*\*Behavioral Development Economics Handbook Chapter (see above), Sections 1 to 4.
-- Banerjee and Duflo (2010). “Growth Theory through the Lens of Development Economics”. Handbook of Economic Growth. 
+- Banerjee and Duflo (2010). “Growth Theory through the Lens of Development Economics”. *Handbook of Economic Growth*. 
 - Frederick, S., G. Loewenstein, and T. O'Donoghue (2002). “Time Discounting and Time Preference: A Critical Review.” *Journal of Economic Literature,* 40 (2), 351-401.
-- Ericson, Keith Marzilli, and David Laibson (2019). "Intertemporal choice." In Handbook of Behavioral Economics: Applications and Foundations 1, vol. 2, pp. 1-67. North-Holland. 
+- Ericson, Keith Marzilli, and David Laibson (2019). "Intertemporal choice." In *Handbook of Behavioral Economics: Applications and Foundations* 1, vol. 2, pp. 1-67. North-Holland. 
 - Cohen, J.D, K.M. Ericson, D. Laibson, and J.M. White (2020). “Measuring Time Preferences.” *Journal of Economic Literature*. 58(2): 299-347. 
-- Ashraf, Nava, Dean Karlan, and Wesley Yin (2006). "Tying Odysseus to the mast: Evidence from a commitment savings product in the Philippines." The Quarterly Journal of Economics 121, no. 2: 635-672.
+- Ashraf, Nava, Dean Karlan, and Wesley Yin (2006). "Tying Odysseus to the mast: Evidence from a commitment savings product in the Philippines." *The Quarterly Journal of Economics* 121, no. 2: 635-672.
 - Kaur, Supreet, Michael Kremer, and Sendhil Mullainathan (2015). “Self-Control at Work.” *Journal of Political Economy*. 123(6): 1227-1277. 
 - Laibson, David (2015). “Why Don’t Present-Biased Agents Make Commitments?” *American Economic Review P&P.* 105(5): 267-272. 
 - Schilbach, Frank (2019). “Alcohol and Self-Control: A Field Experiment in India.”, *American Economic Review*. 109(4): 1290-1322.
@@ -153,7 +153,7 @@ Read in detail:
 - Duflo, Esther, Pascaline Dupas, and Michael Kremer (2015). "Education, HIV, and early fertility: Experimental evidence from Kenya." *American Economic Review* 105, no. 9: 2757-97. 
 - \*\*\* Duflo, Esther (2004). “[The Medium Run Effects of Educational Expansion: Evidence from a Large School Construction Program in Indonesia](https://www.nber.org/papers/w8710).” *Journal of Development Economics*, 74(1), 163-197. 
 
-**Education: The Supply Side** 
+**Education: The Supply Side**
 
 *General*
 
@@ -304,7 +304,7 @@ Read in detail:
 *Sharecropping and Moral Hazard*
 
 - \*\*Burchardi, Konrad B., Selim Gulesci, Benedetta Lerva, Munshi Sulaiman (2019), “[Moral Hazard: Experimental Evidence from Tenancy Contracts,](https://academic.oup.com/qje/article/134/1/281/5106373)” *The Quarterly Journal of Economics*, 134(1): 281-347. 
-- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,               
+- Stiglitz, Joseph E. (1974). "Incentives and Risk Sharing in Sharecropping." *The Review of Economic Studies*,                
       
     41(2): 219-55. 
 - Shaban, Radwan Ali (1987). "Testing between Competing Models of Sharecropping." *Journal of Political Economy*, 95 (5): 893-920. 
