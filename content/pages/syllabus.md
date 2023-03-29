@@ -44,7 +44,7 @@ Not required reading for this class, but you will find them useful and probably 
 
 *Articles*
 
-- Duflo, Esther, Rachel Glennerster, and Michael Kremer (2007). “[Using Randomization in Development Economics Research: A Toolkit." (PDF)](https://www.povertyactionlab.org/sites/default/files/research-paper/Using-Randomization-in-Development-Economics.pdf.). *Handbook of Development Economics*, 4, Chapter 61. (Recommended)
+- Duflo, Esther, Rachel Glennerster, and Michael Kremer (2007). “[Using Randomization in Development Economics Research: A Toolkit." (PDF)](https://www.povertyactionlab.org/sites/default/files/research-paper/Using-Randomization-in-Development-Economics.pdf). *Handbook of Development Economics*, 4, Chapter 61. (Recommended)
 - Imbens, Guido and Jeffrey M. Wooldridge (2009). “[Recent Developments in the Econometrics of Program Evaluation” (PDF - 1MB)](https://dash.harvard.edu/bitstream/handle/1/3043416/imbens_recent.pdf?sequence). *Journal of Economic Literature*, 47(1): 5–86. 
 
 See the {{% resource_link "5dfbe6d1-5e31-407e-9958-925aac0c4e28" "Readings section" %}}.
