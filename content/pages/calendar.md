@@ -13,7 +13,7 @@ Session 2: Poverty Traps: Theory (Esther Duflo)
 
 Session 3: Poverty Traps: Graduation Programs (Esther Duflo)
 
-Session 4–5: Behavioral Development Economics (Frank Schilbach)
+Sessions 4–5: Behavioral Development Economics (Frank Schilbach)
 
 - *Problem set 1 due*
 
@@ -29,7 +29,7 @@ Session 10: Savings (Esther Duflo)
 
 - *Problem set 2 due*
 
-Session 11–12: Demand for Health (Esther Duflo)
+Sessions 11–12: Demand for Health (Esther Duflo)
 
 Session 13: Family (Ben Olken)
 
@@ -47,12 +47,12 @@ Session 17: Land Markets (Part 2) (Ben Olken)
 
 Session 18: Public Finance (Tax) (Ben Olken)
 
-Session 19–21: Public Finance  (Ben Olken)
+Sessions 19–21: Public Finance  (Ben Olken)
 
 - *Problem set 5 due*
 - *Replication exercise due*
 - *Research proposal due*
 
-Session 22–23: Labor (Ben Olken)
+Sessions 22–23: Labor (Ben Olken)
 
-Session 24–25: Credit (Ben Olken)
+Sessions 24–25: Credit (Ben Olken)
