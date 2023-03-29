@@ -329,7 +329,7 @@ Read in detail:
 - Bleakley, Hoyt, and Joseph Ferrie (2015). “Land Openings on the Georgia frontier and the Coase Theorem in the Short-and Long-Run.” 
 - Restuccia, Diego and Raul Santaeulalia-Llopis (2017). “Land Misallocation and Productivity.”
 
-#### ***Sessions 17–18: Public Finance***
+## Sessions 17–18: Public Finance
 
 **The Design of Transfer Programs**
 
