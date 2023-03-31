@@ -12,7 +12,7 @@ learning_resource_types:
 - Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: pset3_data1.csv
+title: Problem Set 3 Data 1.csv
 uid: 13ce915a-d6a6-4b3c-bc5a-abc1e78a8a13
 video_files:
   video_captions_file: ''
