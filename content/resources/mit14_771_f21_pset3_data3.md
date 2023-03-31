@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT14_771_F21_pset3_data3.csv
+title: MIT14_771_F21_pset3_data3.csv Problem Set 3 Data Set 3.csv
 uid: 1f233135-4b10-4fa7-b1c5-c5b12b7934a9
 video_files:
   video_captions_file: ''
