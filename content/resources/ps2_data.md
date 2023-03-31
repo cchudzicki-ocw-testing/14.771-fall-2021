@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: ps2_data.csv
+title: Problem Set Data.csv
 uid: 8d05aaa6-a1a8-4008-b778-102f5865657c
 video_files:
   video_captions_file: ''
