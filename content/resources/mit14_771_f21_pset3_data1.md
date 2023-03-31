@@ -12,7 +12,7 @@ learning_resource_types:
 - Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT14_771_F21_pset3_data1.csv Problem Set 3 Data Set 1.csv
+title: Problem Set 3 Data Set 1.csv
 uid: c32edca3-a81f-4a13-b990-e8bcaf0dd7f8
 video_files:
   video_captions_file: ''
