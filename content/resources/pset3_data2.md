@@ -1,7 +1,7 @@
 ---
 body: ''
 content_type: resource
-draft: false
+draft: true
 file: /courses/14-771-development-economics-fall-2021/pset3_data2.csv
 file_type: text/csv
 image_metadata:
