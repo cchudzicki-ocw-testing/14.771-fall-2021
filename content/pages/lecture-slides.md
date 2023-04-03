@@ -39,18 +39,18 @@ Session 14: {{% resource_link "bb14bac6-ce8b-47a1-af79-9e45923db151" "Supply of 
 
 {{% resource_link "35d91742-89f3-4127-984c-5c47532b5c01" "Session 17: Land Markets (Part 2) (PDF)" %}}
 
-Session 18: {{% resource_link "8e4d173c-a617-47a7-b041-1568cee9394f" "Land Markets (Part 3) (PDF)" %}} / {{% resource_link "c5098315-6d48-4a32-b9d4-d6ed5527d75b" "Public Finance (Part 1) (PDF)" %}}
+Session 18: {{% resource_link "8e4d173c-a617-47a7-b041-1568cee9394f" "Land Markets (Part 3) (PDF)" %}} / {{% resource_link "a635d83f-36cc-490b-953a-f99aded95e2d" "Public Finance (Part 1) (PDF)" %}}
 
-{{% resource_link "96399221-b035-42e7-93b8-f2ea59d680c5" "Session 19: Public Finance (Part 2) (PDF - 1.1MB)" %}}
+{{% resource_link "168962a7-801e-41a7-af57-7765e219085a" "Session 19: Public Finance (Part 2) (PDF - 1.1MB)" %}}
 
-{{% resource_link "72003b12-1cee-46a9-907f-1c8964441787" "Session 20: Public Finance (Part 3) (PDF)" %}}
+{{% resource_link "2f5faeaa-0128-474f-9f55-f53b5399965d" "Session 20: Public Finance (Part 3) (PDF)" %}}
 
-Session 21: {{% resource_link "a41c65a2-4f11-4656-a4a8-bb0e36d0cf87" "Public Finance 4 (PDF)" %}} / {{% resource_link "0fec286d-cfcb-4937-a1a4-af7ae8efacf3" "Labor (Part 1) (PDF)" %}}
+Session 21: {{% resource_link "3e4f2121-47a3-429d-8c51-ce3990cef318" "Public Finance 4 (PDF)" %}} / {{% resource_link "0fec286d-cfcb-4937-a1a4-af7ae8efacf3" "Labor (Part 1) (PDF)" %}}
 
 {{% resource_link "217df6b4-aaf4-497b-be13-29a7f96005ce" "Session 22: Labor (Part 2) (PDF)" %}}
 
-{{% resource_link "2f737807-0b8a-4a9a-98f6-7bc73b60aa1c" "Session 23: Labor (Part 3) (PDF - 1.1MB)" %}}
+{{% resource_link "2f737807-0b8a-4a9a-98f6-7bc73b60aa1c" "Session 23: Labor Markets (Part 3) (PDF - 1.2MB)" %}}
 
-{{% resource_link "1a550b10-d5ca-4a83-ab39-a14f36ec4f4d" "Session 24: Labor (Part 4) (PDF - 1.1MB)" %}} / {{% resource_link "bbe52399-75ea-4277-aeec-0bb5650e572b" "Credit (Part 1) (PDF)" %}}
+Session 24: Labor (Part 4) (PDF - 1.1MB) / {{% resource_link "bbe52399-75ea-4277-aeec-0bb5650e572b" "Credit (Part 1) (PDF)" %}}
 
 {{% resource_link "72f711a0-d39e-4988-9330-a98925d14770" "Session 25: Credit (Part 2) (PDF)" %}}
