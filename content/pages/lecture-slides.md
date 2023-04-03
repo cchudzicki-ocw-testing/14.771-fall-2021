@@ -51,6 +51,6 @@ Session 21: {{% resource_link "3e4f2121-47a3-429d-8c51-ce3990cef318" "Public Fin
 
 {{% resource_link "2f737807-0b8a-4a9a-98f6-7bc73b60aa1c" "Session 23: Labor Markets (Part 3) (PDF - 1.2MB)" %}}
 
-Session 24: Labor (Part 4) (PDF - 1.1MB) / {{% resource_link "bbe52399-75ea-4277-aeec-0bb5650e572b" "Credit (Part 1) (PDF)" %}}
+Session 24: {{% resource_link "1a550b10-d5ca-4a83-ab39-a14f36ec4f4d" "Labor (Part 4) (PDF - 1.1MB)" %}} / {{% resource_link "bbe52399-75ea-4277-aeec-0bb5650e572b" "Credit (Part 1) (PDF)" %}}
 
 {{% resource_link "72f711a0-d39e-4988-9330-a98925d14770" "Session 25: Credit (Part 2) (PDF)" %}}
