@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.771 Fall 2021 Lecture 18: Land Markets (Part 3)'
+title: '14.771 Fall 2021 Lecture 18: Land Markets'
 uid: 8e4d173c-a617-47a7-b041-1568cee9394f
 video_files:
   video_captions_file: ''

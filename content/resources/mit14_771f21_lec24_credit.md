@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.771 Fall 2021 Lecture 22: Credit'
+title: 14.771 Fall 2021 Lecture 24 Credit
 uid: bbe52399-75ea-4277-aeec-0bb5650e572b
 video_files:
   video_captions_file: ''
