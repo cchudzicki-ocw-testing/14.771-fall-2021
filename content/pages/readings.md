@@ -25,8 +25,8 @@ Readings marked \*\*\* are required.  
 
 *Read the following in detail:*
 
-- \*\*\* Dasgupta, Partha and Debraj Ray (1986). "[Inequality as a Determinant of Malnutrition and Unemployment: Theory](https://www.semanticscholar.org/paper/Inequality-as-a-Determinant-of-Malnutrition-and-%3A-Dasgupta-Ray/d5eb593a302dee4e4ecb4e87b4fcc2c1973f35e0)." *The Economic Journal*, Vol. 96 (384), pp. 1011-1034. 
--  \*\*\* Srinivasan, T. N. (1994). "[Destitution: A Discourse." (PDF - 2.4MB)](https://www.jstor.org/stable/pdf/2728797.pdf). *Journal of Economic Literature*, Vol. 32 (4), pp. 1842-55. 
+- \*\*\* Dasgupta, Partha and Debraj Ray (1986). "[Inequality as a Determinant of Malnutrition and Unemployment: Theory](Inequality as a Determinant of Malnutrition and Unemployment: Theory)." *The Economic Journal*, Vol. 96 (384), pp. 1011-1034. 
+-  \*\*\* Srinivasan, T. N. (1994). "[Destitution: A Discourse](https://www.jstor.org/stable/2728797)." *Journal of Economic Literature*, Vol. 32 (4), pp. 1842-55. 
 
 *Theory*
 
@@ -170,7 +170,7 @@ Read in detail:
 *Incentives*
 
 - Muralidharan, Karthik and Venkatesh Sundararaman (2011). "Teacher Performance Pay: Experimental Evidence from India." *Journal of Political Economy*, Vol. 119, No. 1, pp. 39-77.
-- Glewwe, Paul, Nauman Ilias, and Michael Kremer (2010). "Teacher incentives." *American Economic Journal: Applied Economics* 2, no. 3: 205-27. [Final](http://pubs.aeaweb.org.libproxy.mit.edu/doi/pdfplus/10.1257/app.2.3.205)
+- Glewwe, Paul, Nauman Ilias, and Michael Kremer (2010). "Teacher incentives." *American Economic Journal: Applied Economics* 2, no. 3: 205-27. 
 - Kremer, Michael, Edward Miguel, and Rebecca Thornton. "Incentives to learn." *The Review of Economics and Statistics* 91, no. 3 (2009): 437-456. 
 - Duflo, E., Hanna, R., & Ryan, S. P. (2012). “Incentives Work: Getting Teachers to Come to School.” *The American Economic Review*, 102(4), 1241-1278. 
 
@@ -268,7 +268,7 @@ Read in detail:
 
 *Other Readings*
 
-- \*\*\* Browning, Martin and Pierre-André Chiappori (1998). “[Efficient Intra-Household Allocations: A General Characterization and Empirical.](http://www.jstor.org/stable/2999616?&Search=yes&searchText=econometrica&searchText=chiappori&list=hide&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dchiappori%26gw%3Djtx%26prq%3Deconometrica%26Search%3DSearch%26hp%3D25%26wc%3Don%26swp%3Don&prevSearch=&item=7&ttl=534&returnArticleService=showFullText) *Econometrica*, 66 (6): 1241-1278. 
+- \*\*\* Browning, Martin and Pierre-André Chiappori (1998). “[Efficient Intra-Household Allocations: A General Characterization and Empirical Tests.](http://www.jstor.org/stable/2999616?&Search=yes&searchText=econometrica&searchText=chiappori&list=hide&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dchiappori%26gw%3Djtx%26prq%3Deconometrica%26Search%3DSearch%26hp%3D25%26wc%3Don%26swp%3Don&prevSearch=&item=7&ttl=534&returnArticleService=showFullText) *Econometrica*, 66 (6): 1241-1278. 
 - Thomas, Duncan (1994). “Like Father, Like Son: Like Mother, Like Daughter: Parental Resources and Child Height.” *Journal of Human Resources*, 24(4): 950-88. 
 - \*\*\* Duflo, Esther and Christopher Udry (2004). "[Intra-household Resource Allocation in Côte d'Ivoire: Social Norms, Separate Accounts and Consumption Choices](https://www.nber.org/papers/w10498).” NBER Working Paper No. 10498. 
 - \*\*\* Duflo, Esther (2003). "[Grandmothers and Granddaughters: Old Age Pension and Intra-household Allocation in South Africa](https://openknowledge.worldbank.org/handle/10986/17173)." *The* *World Bank Economic Review*, 17(1): 1-25. 
@@ -418,7 +418,7 @@ Read in detail:
 
 - \*\*\*Blattman, Christopher and Stefan Dercon (2018). “[The Impacts of Industrial and Entrepreneurial Work on Income and Health: Experimental Evidence from Ethiopia](https://www.aeaweb.org/articles?id=10.1257/app.20170173).” *American Economic Journal: Applied Economics*, 10(3): 1-38*.* 
 - Derenoncourt, Ellora, François Gérard, Lorenzo Lagos, and Claire Montialoux (2021). “Racial Inequality, Minimum Wage Spillovers, and the Informal Sector.” NBER Summer Institute Development Economics.
-- Hjort, Jonas, Xuan Li, and Heather Sarsons, (2020), “Across-Country Wage Compression in Multinationals.” [NBER Working Paper](https://www.nber.org/system/files/working_papers/w26788/w26788.pdf)
+- Hjort, Jonas, Xuan Li, and Heather Sarsons, (2020), “Across-Country Wage Compression in Multinationals.” 
 - Besley, Timothy and Robin Burgess (2004). “Can Labor Regulation Hinder Economic Performance? Evidence from India.” *Quarterly Journal of Economics*, 119(1): 91-134. 
 - Alfonsi, Livia, Oriana Bandiera, Vittorio Bassi, Robin Burgess, Imran Rasul, Munshi Sulaiman, and Anna Vitali (2020). “Tackling Youth Unemployment: Evidence from a Labor Market Experiment in Uganda.” *Econometrica*, 88(6): 2369-2414. 
 - Bertrand, Marianne, Chang-Tai Hsieh, and Nick Tsivanidis (2017). “Contract Labor and Firm Growth in India.” 
