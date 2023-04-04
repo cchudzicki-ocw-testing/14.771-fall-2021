@@ -37,6 +37,6 @@ video_metadata:
 ---
 Description: Covers empirical evidence on the supply side of education, including the curricula, teacher incentives, learning in schools, what children actually know, and private vs public schools.
 
-{{% resource_link "9ce5954f-faa7-4923-a0b0-efc474d42432" "Session 9 lecture slides (PDF - 3.5MB)" %}} 
+{{% resource_link "9ce5954f-faa7-4923-a0b0-efc474d42432" "Session 9 lecture slides (PDF - 3.5MB)" %}}
 
 Instructor: Esther Duflo
