@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 1: Introduction'
+title: 'Lecture 1: Introduction to Development Economics'
 uid: 423b1aec-67aa-4766-8f03-7e78eddd3208
 video_files:
   video_captions_file: /courses/14-771-development-economics-fall-2021/1iIGQLWVs72G53RVDuSHRgoui6VDt_abZ_transcript.webvtt
